@@ -1,0 +1,15 @@
+C:\Users\BO\Desktop\C# Advanced\CSharp Advanced Exercises Defining Classes Exercise\02. Creating Constructors\bin\Debug\net6.0\02. Creating Constructors.exe
+C:\Users\BO\Desktop\C# Advanced\CSharp Advanced Exercises Defining Classes Exercise\02. Creating Constructors\bin\Debug\net6.0\02. Creating Constructors.deps.json
+C:\Users\BO\Desktop\C# Advanced\CSharp Advanced Exercises Defining Classes Exercise\02. Creating Constructors\bin\Debug\net6.0\02. Creating Constructors.runtimeconfig.json
+C:\Users\BO\Desktop\C# Advanced\CSharp Advanced Exercises Defining Classes Exercise\02. Creating Constructors\bin\Debug\net6.0\02. Creating Constructors.dll
+C:\Users\BO\Desktop\C# Advanced\CSharp Advanced Exercises Defining Classes Exercise\02. Creating Constructors\bin\Debug\net6.0\02. Creating Constructors.pdb
+C:\Users\BO\Desktop\C# Advanced\CSharp Advanced Exercises Defining Classes Exercise\02. Creating Constructors\obj\Debug\net6.0\02. Creating Constructors.csproj.AssemblyReference.cache
+C:\Users\BO\Desktop\C# Advanced\CSharp Advanced Exercises Defining Classes Exercise\02. Creating Constructors\obj\Debug\net6.0\02. Creating Constructors.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BO\Desktop\C# Advanced\CSharp Advanced Exercises Defining Classes Exercise\02. Creating Constructors\obj\Debug\net6.0\02. Creating Constructors.AssemblyInfoInputs.cache
+C:\Users\BO\Desktop\C# Advanced\CSharp Advanced Exercises Defining Classes Exercise\02. Creating Constructors\obj\Debug\net6.0\02. Creating Constructors.AssemblyInfo.cs
+C:\Users\BO\Desktop\C# Advanced\CSharp Advanced Exercises Defining Classes Exercise\02. Creating Constructors\obj\Debug\net6.0\02. Creating Constructors.csproj.CoreCompileInputs.cache
+C:\Users\BO\Desktop\C# Advanced\CSharp Advanced Exercises Defining Classes Exercise\02. Creating Constructors\obj\Debug\net6.0\02. Creating Constructors.dll
+C:\Users\BO\Desktop\C# Advanced\CSharp Advanced Exercises Defining Classes Exercise\02. Creating Constructors\obj\Debug\net6.0\refint\02. Creating Constructors.dll
+C:\Users\BO\Desktop\C# Advanced\CSharp Advanced Exercises Defining Classes Exercise\02. Creating Constructors\obj\Debug\net6.0\02. Creating Constructors.pdb
+C:\Users\BO\Desktop\C# Advanced\CSharp Advanced Exercises Defining Classes Exercise\02. Creating Constructors\obj\Debug\net6.0\02. Creating Constructors.genruntimeconfig.cache
+C:\Users\BO\Desktop\C# Advanced\CSharp Advanced Exercises Defining Classes Exercise\02. Creating Constructors\obj\Debug\net6.0\ref\02. Creating Constructors.dll

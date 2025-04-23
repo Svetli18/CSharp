@@ -1,0 +1,15 @@
+C:\Users\BO\Desktop\C# Fundamentals\CSharp Fundamentals Objects and Classes Exercise\06. Vehicle Catalogue\bin\Debug\net6.0\06. Vehicle Catalogue.exe
+C:\Users\BO\Desktop\C# Fundamentals\CSharp Fundamentals Objects and Classes Exercise\06. Vehicle Catalogue\bin\Debug\net6.0\06. Vehicle Catalogue.deps.json
+C:\Users\BO\Desktop\C# Fundamentals\CSharp Fundamentals Objects and Classes Exercise\06. Vehicle Catalogue\bin\Debug\net6.0\06. Vehicle Catalogue.runtimeconfig.json
+C:\Users\BO\Desktop\C# Fundamentals\CSharp Fundamentals Objects and Classes Exercise\06. Vehicle Catalogue\bin\Debug\net6.0\06. Vehicle Catalogue.dll
+C:\Users\BO\Desktop\C# Fundamentals\CSharp Fundamentals Objects and Classes Exercise\06. Vehicle Catalogue\bin\Debug\net6.0\06. Vehicle Catalogue.pdb
+C:\Users\BO\Desktop\C# Fundamentals\CSharp Fundamentals Objects and Classes Exercise\06. Vehicle Catalogue\obj\Debug\net6.0\06. Vehicle Catalogue.csproj.AssemblyReference.cache
+C:\Users\BO\Desktop\C# Fundamentals\CSharp Fundamentals Objects and Classes Exercise\06. Vehicle Catalogue\obj\Debug\net6.0\06. Vehicle Catalogue.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BO\Desktop\C# Fundamentals\CSharp Fundamentals Objects and Classes Exercise\06. Vehicle Catalogue\obj\Debug\net6.0\06. Vehicle Catalogue.AssemblyInfoInputs.cache
+C:\Users\BO\Desktop\C# Fundamentals\CSharp Fundamentals Objects and Classes Exercise\06. Vehicle Catalogue\obj\Debug\net6.0\06. Vehicle Catalogue.AssemblyInfo.cs
+C:\Users\BO\Desktop\C# Fundamentals\CSharp Fundamentals Objects and Classes Exercise\06. Vehicle Catalogue\obj\Debug\net6.0\06. Vehicle Catalogue.csproj.CoreCompileInputs.cache
+C:\Users\BO\Desktop\C# Fundamentals\CSharp Fundamentals Objects and Classes Exercise\06. Vehicle Catalogue\obj\Debug\net6.0\06. Vehicle Catalogue.dll
+C:\Users\BO\Desktop\C# Fundamentals\CSharp Fundamentals Objects and Classes Exercise\06. Vehicle Catalogue\obj\Debug\net6.0\refint\06. Vehicle Catalogue.dll
+C:\Users\BO\Desktop\C# Fundamentals\CSharp Fundamentals Objects and Classes Exercise\06. Vehicle Catalogue\obj\Debug\net6.0\06. Vehicle Catalogue.pdb
+C:\Users\BO\Desktop\C# Fundamentals\CSharp Fundamentals Objects and Classes Exercise\06. Vehicle Catalogue\obj\Debug\net6.0\06. Vehicle Catalogue.genruntimeconfig.cache
+C:\Users\BO\Desktop\C# Fundamentals\CSharp Fundamentals Objects and Classes Exercise\06. Vehicle Catalogue\obj\Debug\net6.0\ref\06. Vehicle Catalogue.dll

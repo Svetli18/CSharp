@@ -1,0 +1,13 @@
+C:\Users\BO\Desktop\C# Advanced\Defining Classes Lab Visual Studio\05. Date Modifier\bin\Debug\netcoreapp3.1\05. Date Modifier.exe
+C:\Users\BO\Desktop\C# Advanced\Defining Classes Lab Visual Studio\05. Date Modifier\bin\Debug\netcoreapp3.1\05. Date Modifier.deps.json
+C:\Users\BO\Desktop\C# Advanced\Defining Classes Lab Visual Studio\05. Date Modifier\bin\Debug\netcoreapp3.1\05. Date Modifier.runtimeconfig.json
+C:\Users\BO\Desktop\C# Advanced\Defining Classes Lab Visual Studio\05. Date Modifier\bin\Debug\netcoreapp3.1\05. Date Modifier.runtimeconfig.dev.json
+C:\Users\BO\Desktop\C# Advanced\Defining Classes Lab Visual Studio\05. Date Modifier\bin\Debug\netcoreapp3.1\05. Date Modifier.dll
+C:\Users\BO\Desktop\C# Advanced\Defining Classes Lab Visual Studio\05. Date Modifier\bin\Debug\netcoreapp3.1\05. Date Modifier.pdb
+C:\Users\BO\Desktop\C# Advanced\Defining Classes Lab Visual Studio\05. Date Modifier\obj\Debug\netcoreapp3.1\05. Date Modifier.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BO\Desktop\C# Advanced\Defining Classes Lab Visual Studio\05. Date Modifier\obj\Debug\netcoreapp3.1\05. Date Modifier.AssemblyInfoInputs.cache
+C:\Users\BO\Desktop\C# Advanced\Defining Classes Lab Visual Studio\05. Date Modifier\obj\Debug\netcoreapp3.1\05. Date Modifier.AssemblyInfo.cs
+C:\Users\BO\Desktop\C# Advanced\Defining Classes Lab Visual Studio\05. Date Modifier\obj\Debug\netcoreapp3.1\05. Date Modifier.csproj.CoreCompileInputs.cache
+C:\Users\BO\Desktop\C# Advanced\Defining Classes Lab Visual Studio\05. Date Modifier\obj\Debug\netcoreapp3.1\05. Date Modifier.dll
+C:\Users\BO\Desktop\C# Advanced\Defining Classes Lab Visual Studio\05. Date Modifier\obj\Debug\netcoreapp3.1\05. Date Modifier.pdb
+C:\Users\BO\Desktop\C# Advanced\Defining Classes Lab Visual Studio\05. Date Modifier\obj\Debug\netcoreapp3.1\05. Date Modifier.genruntimeconfig.cache

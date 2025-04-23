@@ -1,0 +1,10 @@
+C:\Users\BO\Desktop\Data Structures Advanced\Exam\Exam-Preparation\02.VaniPlanning\obj\Debug\netstandard2.0\02.VaniPlanning.csproj.AssemblyReference.cache
+C:\Users\BO\Desktop\Data Structures Advanced\Exam\Exam-Preparation\02.VaniPlanning\obj\Debug\netstandard2.0\02.VaniPlanning.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BO\Desktop\Data Structures Advanced\Exam\Exam-Preparation\02.VaniPlanning\obj\Debug\netstandard2.0\02.VaniPlanning.AssemblyInfoInputs.cache
+C:\Users\BO\Desktop\Data Structures Advanced\Exam\Exam-Preparation\02.VaniPlanning\obj\Debug\netstandard2.0\02.VaniPlanning.AssemblyInfo.cs
+C:\Users\BO\Desktop\Data Structures Advanced\Exam\Exam-Preparation\02.VaniPlanning\obj\Debug\netstandard2.0\02.VaniPlanning.csproj.CoreCompileInputs.cache
+C:\Users\BO\Desktop\Data Structures Advanced\Exam\Exam-Preparation\02.VaniPlanning\bin\Debug\netstandard2.0\02.VaniPlanning.deps.json
+C:\Users\BO\Desktop\Data Structures Advanced\Exam\Exam-Preparation\02.VaniPlanning\bin\Debug\netstandard2.0\02.VaniPlanning.dll
+C:\Users\BO\Desktop\Data Structures Advanced\Exam\Exam-Preparation\02.VaniPlanning\bin\Debug\netstandard2.0\02.VaniPlanning.pdb
+C:\Users\BO\Desktop\Data Structures Advanced\Exam\Exam-Preparation\02.VaniPlanning\obj\Debug\netstandard2.0\02.VaniPlanning.dll
+C:\Users\BO\Desktop\Data Structures Advanced\Exam\Exam-Preparation\02.VaniPlanning\obj\Debug\netstandard2.0\02.VaniPlanning.pdb

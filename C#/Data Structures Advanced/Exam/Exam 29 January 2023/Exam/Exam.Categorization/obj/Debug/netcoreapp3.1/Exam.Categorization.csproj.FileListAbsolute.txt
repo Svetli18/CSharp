@@ -1,0 +1,13 @@
+C:\Users\BO\Desktop\Data Structures Advanced\Exam\Exam 29 January 2023\Exam\Exam.Categorization\bin\Debug\netcoreapp3.1\Exam.Categorization.exe
+C:\Users\BO\Desktop\Data Structures Advanced\Exam\Exam 29 January 2023\Exam\Exam.Categorization\bin\Debug\netcoreapp3.1\Exam.Categorization.deps.json
+C:\Users\BO\Desktop\Data Structures Advanced\Exam\Exam 29 January 2023\Exam\Exam.Categorization\bin\Debug\netcoreapp3.1\Exam.Categorization.runtimeconfig.json
+C:\Users\BO\Desktop\Data Structures Advanced\Exam\Exam 29 January 2023\Exam\Exam.Categorization\bin\Debug\netcoreapp3.1\Exam.Categorization.runtimeconfig.dev.json
+C:\Users\BO\Desktop\Data Structures Advanced\Exam\Exam 29 January 2023\Exam\Exam.Categorization\bin\Debug\netcoreapp3.1\Exam.Categorization.dll
+C:\Users\BO\Desktop\Data Structures Advanced\Exam\Exam 29 January 2023\Exam\Exam.Categorization\bin\Debug\netcoreapp3.1\Exam.Categorization.pdb
+C:\Users\BO\Desktop\Data Structures Advanced\Exam\Exam 29 January 2023\Exam\Exam.Categorization\obj\Debug\netcoreapp3.1\Exam.Categorization.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BO\Desktop\Data Structures Advanced\Exam\Exam 29 January 2023\Exam\Exam.Categorization\obj\Debug\netcoreapp3.1\Exam.Categorization.AssemblyInfoInputs.cache
+C:\Users\BO\Desktop\Data Structures Advanced\Exam\Exam 29 January 2023\Exam\Exam.Categorization\obj\Debug\netcoreapp3.1\Exam.Categorization.AssemblyInfo.cs
+C:\Users\BO\Desktop\Data Structures Advanced\Exam\Exam 29 January 2023\Exam\Exam.Categorization\obj\Debug\netcoreapp3.1\Exam.Categorization.csproj.CoreCompileInputs.cache
+C:\Users\BO\Desktop\Data Structures Advanced\Exam\Exam 29 January 2023\Exam\Exam.Categorization\obj\Debug\netcoreapp3.1\Exam.Categorization.dll
+C:\Users\BO\Desktop\Data Structures Advanced\Exam\Exam 29 January 2023\Exam\Exam.Categorization\obj\Debug\netcoreapp3.1\Exam.Categorization.pdb
+C:\Users\BO\Desktop\Data Structures Advanced\Exam\Exam 29 January 2023\Exam\Exam.Categorization\obj\Debug\netcoreapp3.1\Exam.Categorization.genruntimeconfig.cache

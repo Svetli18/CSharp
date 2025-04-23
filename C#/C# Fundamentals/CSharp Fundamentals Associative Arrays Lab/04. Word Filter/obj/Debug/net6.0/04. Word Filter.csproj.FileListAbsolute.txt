@@ -1,0 +1,15 @@
+C:\Users\BO\Desktop\C# Fundamentals\CSharp Fundamentals Associative Arrays Lab\04. Word Filter\bin\Debug\net6.0\04. Word Filter.exe
+C:\Users\BO\Desktop\C# Fundamentals\CSharp Fundamentals Associative Arrays Lab\04. Word Filter\bin\Debug\net6.0\04. Word Filter.deps.json
+C:\Users\BO\Desktop\C# Fundamentals\CSharp Fundamentals Associative Arrays Lab\04. Word Filter\bin\Debug\net6.0\04. Word Filter.runtimeconfig.json
+C:\Users\BO\Desktop\C# Fundamentals\CSharp Fundamentals Associative Arrays Lab\04. Word Filter\bin\Debug\net6.0\04. Word Filter.dll
+C:\Users\BO\Desktop\C# Fundamentals\CSharp Fundamentals Associative Arrays Lab\04. Word Filter\bin\Debug\net6.0\04. Word Filter.pdb
+C:\Users\BO\Desktop\C# Fundamentals\CSharp Fundamentals Associative Arrays Lab\04. Word Filter\obj\Debug\net6.0\04. Word Filter.csproj.AssemblyReference.cache
+C:\Users\BO\Desktop\C# Fundamentals\CSharp Fundamentals Associative Arrays Lab\04. Word Filter\obj\Debug\net6.0\04. Word Filter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BO\Desktop\C# Fundamentals\CSharp Fundamentals Associative Arrays Lab\04. Word Filter\obj\Debug\net6.0\04. Word Filter.AssemblyInfoInputs.cache
+C:\Users\BO\Desktop\C# Fundamentals\CSharp Fundamentals Associative Arrays Lab\04. Word Filter\obj\Debug\net6.0\04. Word Filter.AssemblyInfo.cs
+C:\Users\BO\Desktop\C# Fundamentals\CSharp Fundamentals Associative Arrays Lab\04. Word Filter\obj\Debug\net6.0\04. Word Filter.csproj.CoreCompileInputs.cache
+C:\Users\BO\Desktop\C# Fundamentals\CSharp Fundamentals Associative Arrays Lab\04. Word Filter\obj\Debug\net6.0\04. Word Filter.dll
+C:\Users\BO\Desktop\C# Fundamentals\CSharp Fundamentals Associative Arrays Lab\04. Word Filter\obj\Debug\net6.0\refint\04. Word Filter.dll
+C:\Users\BO\Desktop\C# Fundamentals\CSharp Fundamentals Associative Arrays Lab\04. Word Filter\obj\Debug\net6.0\04. Word Filter.pdb
+C:\Users\BO\Desktop\C# Fundamentals\CSharp Fundamentals Associative Arrays Lab\04. Word Filter\obj\Debug\net6.0\04. Word Filter.genruntimeconfig.cache
+C:\Users\BO\Desktop\C# Fundamentals\CSharp Fundamentals Associative Arrays Lab\04. Word Filter\obj\Debug\net6.0\ref\04. Word Filter.dll

@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33927.289
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Flower Wreaths", "Flower Wreaths\Flower Wreaths.csproj", "{A43FF1CC-4CCD-4266-8B0B-717381D8F48E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bee", "Bee\Bee.csproj", "{F5F44EBA-1131-4840-AF0C-ACF3B1AE16A0}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "VetClinic", "Vet Clinic\VetClinic\VetClinic.csproj", "{6526B592-78EB-4787-9BD1-1DA8D5A248B0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A43FF1CC-4CCD-4266-8B0B-717381D8F48E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A43FF1CC-4CCD-4266-8B0B-717381D8F48E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A43FF1CC-4CCD-4266-8B0B-717381D8F48E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A43FF1CC-4CCD-4266-8B0B-717381D8F48E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F5F44EBA-1131-4840-AF0C-ACF3B1AE16A0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F5F44EBA-1131-4840-AF0C-ACF3B1AE16A0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F5F44EBA-1131-4840-AF0C-ACF3B1AE16A0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F5F44EBA-1131-4840-AF0C-ACF3B1AE16A0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6526B592-78EB-4787-9BD1-1DA8D5A248B0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6526B592-78EB-4787-9BD1-1DA8D5A248B0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6526B592-78EB-4787-9BD1-1DA8D5A248B0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6526B592-78EB-4787-9BD1-1DA8D5A248B0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F807E98C-8CAD-49C6-BCC9-472357D7DE88}
+	EndGlobalSection
+EndGlobal

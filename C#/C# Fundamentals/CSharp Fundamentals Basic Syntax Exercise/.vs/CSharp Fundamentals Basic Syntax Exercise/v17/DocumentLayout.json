@@ -1,0 +1,201 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\BO\\Desktop\\C# Fundamentals\\CSharp Fundamentals Basic Syntax Exercise\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{60BF06C9-A758-47A2-9A80-B1AA14DC2E77}|11. Orders\\11. Orders.csproj|c:\\users\\bo\\desktop\\c# fundamentals\\csharp fundamentals basic syntax exercise\\11. orders\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60BF06C9-A758-47A2-9A80-B1AA14DC2E77}|11. Orders\\11. Orders.csproj|solutionrelative:11. orders\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{604B4E09-A94D-4B0B-9086-376B07FA1A66}|10. Rage Expenses\\10. Rage Expenses.csproj|c:\\users\\bo\\desktop\\c# fundamentals\\csharp fundamentals basic syntax exercise\\10. rage expenses\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{604B4E09-A94D-4B0B-9086-376B07FA1A66}|10. Rage Expenses\\10. Rage Expenses.csproj|solutionrelative:10. rage expenses\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BF7FAC6-F435-4A01-8A41-97E508EDFC41}|9. Padawan Equipment\\9. Padawan Equipment.csproj|c:\\users\\bo\\desktop\\c# fundamentals\\csharp fundamentals basic syntax exercise\\9. padawan equipment\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3BF7FAC6-F435-4A01-8A41-97E508EDFC41}|9. Padawan Equipment\\9. Padawan Equipment.csproj|solutionrelative:9. padawan equipment\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D5F093F-59DE-4E92-B926-C5C1E9056FEF}|8. Triangle of Numbers\\8. Triangle of Numbers.csproj|c:\\users\\bo\\desktop\\c# fundamentals\\csharp fundamentals basic syntax exercise\\8. triangle of numbers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D5F093F-59DE-4E92-B926-C5C1E9056FEF}|8. Triangle of Numbers\\8. Triangle of Numbers.csproj|solutionrelative:8. triangle of numbers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE3A0A76-D3D7-4416-B09C-4E7C25549927}|7. Vending Machine\\7. Vending Machine.csproj|c:\\users\\bo\\desktop\\c# fundamentals\\csharp fundamentals basic syntax exercise\\7. vending machine\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE3A0A76-D3D7-4416-B09C-4E7C25549927}|7. Vending Machine\\7. Vending Machine.csproj|solutionrelative:7. vending machine\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82A53958-71EB-4D93-8F21-5ACA5D0DAA2D}|6. Strong number\\6. Strong number.csproj|c:\\users\\bo\\desktop\\c# fundamentals\\csharp fundamentals basic syntax exercise\\6. strong number\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82A53958-71EB-4D93-8F21-5ACA5D0DAA2D}|6. Strong number\\6. Strong number.csproj|solutionrelative:6. strong number\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1707346-3C7E-43E5-8438-56C1833ED88F}|5. Login\\5. Login.csproj|c:\\users\\bo\\desktop\\c# fundamentals\\csharp fundamentals basic syntax exercise\\5. login\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1707346-3C7E-43E5-8438-56C1833ED88F}|5. Login\\5. Login.csproj|solutionrelative:5. login\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{313F4AE2-4368-4F53-BA2B-3C74A4E77EFA}|4. Print and sum\\4. Print and sum.csproj|c:\\users\\bo\\desktop\\c# fundamentals\\csharp fundamentals basic syntax exercise\\4. print and sum\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{313F4AE2-4368-4F53-BA2B-3C74A4E77EFA}|4. Print and sum\\4. Print and sum.csproj|solutionrelative:4. print and sum\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4654F3C-7620-4801-8CE3-C00ED113D9B9}|3. Vacation\\3. Vacation.csproj|c:\\users\\bo\\desktop\\c# fundamentals\\csharp fundamentals basic syntax exercise\\3. vacation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4654F3C-7620-4801-8CE3-C00ED113D9B9}|3. Vacation\\3. Vacation.csproj|solutionrelative:3. vacation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{634A573D-7601-435F-B7B9-AD44633F4E84}|2. Division\\2. Division.csproj|c:\\users\\bo\\desktop\\c# fundamentals\\csharp fundamentals basic syntax exercise\\2. division\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{634A573D-7601-435F-B7B9-AD44633F4E84}|2. Division\\2. Division.csproj|solutionrelative:2. division\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67402635-997D-48EC-BD5C-29B09C7CDED6}|CSharp Fundamentals Basic Syntax Exercise\\1. Ages.csproj|c:\\users\\bo\\desktop\\c# fundamentals\\csharp fundamentals basic syntax exercise\\csharp fundamentals basic syntax exercise\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67402635-997D-48EC-BD5C-29B09C7CDED6}|CSharp Fundamentals Basic Syntax Exercise\\1. Ages.csproj|solutionrelative:csharp fundamentals basic syntax exercise\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\BO\\Desktop\\C# Fundamentals\\CSharp Fundamentals Basic Syntax Exercise\\11. Orders\\Program.cs",
+              "RelativeDocumentMoniker": "11. Orders\\Program.cs",
+              "ToolTip": "C:\\Users\\BO\\Desktop\\C# Fundamentals\\CSharp Fundamentals Basic Syntax Exercise\\11. Orders\\Program.cs",
+              "RelativeToolTip": "11. Orders\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-01-19T20:11:49.792Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\BO\\Desktop\\C# Fundamentals\\CSharp Fundamentals Basic Syntax Exercise\\10. Rage Expenses\\Program.cs",
+              "RelativeDocumentMoniker": "10. Rage Expenses\\Program.cs",
+              "ToolTip": "C:\\Users\\BO\\Desktop\\C# Fundamentals\\CSharp Fundamentals Basic Syntax Exercise\\10. Rage Expenses\\Program.cs",
+              "RelativeToolTip": "10. Rage Expenses\\Program.cs",
+              "ViewState": "AQIAADEAAAAAAAAAAAA0wD0AAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-01-19T18:13:14.645Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\BO\\Desktop\\C# Fundamentals\\CSharp Fundamentals Basic Syntax Exercise\\9. Padawan Equipment\\Program.cs",
+              "RelativeDocumentMoniker": "9. Padawan Equipment\\Program.cs",
+              "ToolTip": "C:\\Users\\BO\\Desktop\\C# Fundamentals\\CSharp Fundamentals Basic Syntax Exercise\\9. Padawan Equipment\\Program.cs",
+              "RelativeToolTip": "9. Padawan Equipment\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAIwA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-01-19T14:24:48.459Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\BO\\Desktop\\C# Fundamentals\\CSharp Fundamentals Basic Syntax Exercise\\8. Triangle of Numbers\\Program.cs",
+              "RelativeDocumentMoniker": "8. Triangle of Numbers\\Program.cs",
+              "ToolTip": "C:\\Users\\BO\\Desktop\\C# Fundamentals\\CSharp Fundamentals Basic Syntax Exercise\\8. Triangle of Numbers\\Program.cs",
+              "RelativeToolTip": "8. Triangle of Numbers\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-01-14T08:59:20.717Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\BO\\Desktop\\C# Fundamentals\\CSharp Fundamentals Basic Syntax Exercise\\7. Vending Machine\\Program.cs",
+              "RelativeDocumentMoniker": "7. Vending Machine\\Program.cs",
+              "ToolTip": "C:\\Users\\BO\\Desktop\\C# Fundamentals\\CSharp Fundamentals Basic Syntax Exercise\\7. Vending Machine\\Program.cs",
+              "RelativeToolTip": "7. Vending Machine\\Program.cs",
+              "ViewState": "AQIAAEoAAAAAAAAAAAA0wGIAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-01-12T22:56:58.134Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\BO\\Desktop\\C# Fundamentals\\CSharp Fundamentals Basic Syntax Exercise\\6. Strong number\\Program.cs",
+              "RelativeDocumentMoniker": "6. Strong number\\Program.cs",
+              "ToolTip": "C:\\Users\\BO\\Desktop\\C# Fundamentals\\CSharp Fundamentals Basic Syntax Exercise\\6. Strong number\\Program.cs",
+              "RelativeToolTip": "6. Strong number\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACEAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-01-12T22:13:04.916Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\BO\\Desktop\\C# Fundamentals\\CSharp Fundamentals Basic Syntax Exercise\\5. Login\\Program.cs",
+              "RelativeDocumentMoniker": "5. Login\\Program.cs",
+              "ToolTip": "C:\\Users\\BO\\Desktop\\C# Fundamentals\\CSharp Fundamentals Basic Syntax Exercise\\5. Login\\Program.cs",
+              "RelativeToolTip": "5. Login\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-01-12T21:34:55.806Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\BO\\Desktop\\C# Fundamentals\\CSharp Fundamentals Basic Syntax Exercise\\4. Print and sum\\Program.cs",
+              "RelativeDocumentMoniker": "4. Print and sum\\Program.cs",
+              "ToolTip": "C:\\Users\\BO\\Desktop\\C# Fundamentals\\CSharp Fundamentals Basic Syntax Exercise\\4. Print and sum\\Program.cs",
+              "RelativeToolTip": "4. Print and sum\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-01-12T21:21:29.226Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\BO\\Desktop\\C# Fundamentals\\CSharp Fundamentals Basic Syntax Exercise\\3. Vacation\\Program.cs",
+              "RelativeDocumentMoniker": "3. Vacation\\Program.cs",
+              "ToolTip": "C:\\Users\\BO\\Desktop\\C# Fundamentals\\CSharp Fundamentals Basic Syntax Exercise\\3. Vacation\\Program.cs",
+              "RelativeToolTip": "3. Vacation\\Program.cs",
+              "ViewState": "AQIAACgAAAAAAAAAAAAAAD8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-01-12T20:41:56.609Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\BO\\Desktop\\C# Fundamentals\\CSharp Fundamentals Basic Syntax Exercise\\2. Division\\Program.cs",
+              "RelativeDocumentMoniker": "2. Division\\Program.cs",
+              "ToolTip": "C:\\Users\\BO\\Desktop\\C# Fundamentals\\CSharp Fundamentals Basic Syntax Exercise\\2. Division\\Program.cs",
+              "RelativeToolTip": "2. Division\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-01-12T20:30:54.698Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\BO\\Desktop\\C# Fundamentals\\CSharp Fundamentals Basic Syntax Exercise\\CSharp Fundamentals Basic Syntax Exercise\\Program.cs",
+              "RelativeDocumentMoniker": "CSharp Fundamentals Basic Syntax Exercise\\Program.cs",
+              "ToolTip": "C:\\Users\\BO\\Desktop\\C# Fundamentals\\CSharp Fundamentals Basic Syntax Exercise\\CSharp Fundamentals Basic Syntax Exercise\\Program.cs",
+              "RelativeToolTip": "CSharp Fundamentals Basic Syntax Exercise\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T10:16:43.315Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

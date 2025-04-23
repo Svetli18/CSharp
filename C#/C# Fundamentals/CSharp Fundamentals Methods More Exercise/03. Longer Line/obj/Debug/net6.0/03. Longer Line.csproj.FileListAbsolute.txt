@@ -1,0 +1,15 @@
+C:\Users\BO\Desktop\C# Fundamentals\CSharp Fundamentals Methods More Exercise\03. Longer Line\bin\Debug\net6.0\03. Longer Line.exe
+C:\Users\BO\Desktop\C# Fundamentals\CSharp Fundamentals Methods More Exercise\03. Longer Line\bin\Debug\net6.0\03. Longer Line.deps.json
+C:\Users\BO\Desktop\C# Fundamentals\CSharp Fundamentals Methods More Exercise\03. Longer Line\bin\Debug\net6.0\03. Longer Line.runtimeconfig.json
+C:\Users\BO\Desktop\C# Fundamentals\CSharp Fundamentals Methods More Exercise\03. Longer Line\bin\Debug\net6.0\03. Longer Line.dll
+C:\Users\BO\Desktop\C# Fundamentals\CSharp Fundamentals Methods More Exercise\03. Longer Line\bin\Debug\net6.0\03. Longer Line.pdb
+C:\Users\BO\Desktop\C# Fundamentals\CSharp Fundamentals Methods More Exercise\03. Longer Line\obj\Debug\net6.0\03. Longer Line.csproj.AssemblyReference.cache
+C:\Users\BO\Desktop\C# Fundamentals\CSharp Fundamentals Methods More Exercise\03. Longer Line\obj\Debug\net6.0\03. Longer Line.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BO\Desktop\C# Fundamentals\CSharp Fundamentals Methods More Exercise\03. Longer Line\obj\Debug\net6.0\03. Longer Line.AssemblyInfoInputs.cache
+C:\Users\BO\Desktop\C# Fundamentals\CSharp Fundamentals Methods More Exercise\03. Longer Line\obj\Debug\net6.0\03. Longer Line.AssemblyInfo.cs
+C:\Users\BO\Desktop\C# Fundamentals\CSharp Fundamentals Methods More Exercise\03. Longer Line\obj\Debug\net6.0\03. Longer Line.csproj.CoreCompileInputs.cache
+C:\Users\BO\Desktop\C# Fundamentals\CSharp Fundamentals Methods More Exercise\03. Longer Line\obj\Debug\net6.0\03. Longer Line.dll
+C:\Users\BO\Desktop\C# Fundamentals\CSharp Fundamentals Methods More Exercise\03. Longer Line\obj\Debug\net6.0\refint\03. Longer Line.dll
+C:\Users\BO\Desktop\C# Fundamentals\CSharp Fundamentals Methods More Exercise\03. Longer Line\obj\Debug\net6.0\03. Longer Line.pdb
+C:\Users\BO\Desktop\C# Fundamentals\CSharp Fundamentals Methods More Exercise\03. Longer Line\obj\Debug\net6.0\03. Longer Line.genruntimeconfig.cache
+C:\Users\BO\Desktop\C# Fundamentals\CSharp Fundamentals Methods More Exercise\03. Longer Line\obj\Debug\net6.0\ref\03. Longer Line.dll

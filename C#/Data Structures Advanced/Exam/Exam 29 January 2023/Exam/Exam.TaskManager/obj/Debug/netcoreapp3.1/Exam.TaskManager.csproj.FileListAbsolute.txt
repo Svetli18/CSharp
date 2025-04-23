@@ -1,0 +1,13 @@
+C:\Users\BO\Desktop\Data Structures Advanced\Exam\Exam 29 January 2023\Exam\Exam.TaskManager\bin\Debug\netcoreapp3.1\Exam.TaskManager.exe
+C:\Users\BO\Desktop\Data Structures Advanced\Exam\Exam 29 January 2023\Exam\Exam.TaskManager\bin\Debug\netcoreapp3.1\Exam.TaskManager.deps.json
+C:\Users\BO\Desktop\Data Structures Advanced\Exam\Exam 29 January 2023\Exam\Exam.TaskManager\bin\Debug\netcoreapp3.1\Exam.TaskManager.runtimeconfig.json
+C:\Users\BO\Desktop\Data Structures Advanced\Exam\Exam 29 January 2023\Exam\Exam.TaskManager\bin\Debug\netcoreapp3.1\Exam.TaskManager.runtimeconfig.dev.json
+C:\Users\BO\Desktop\Data Structures Advanced\Exam\Exam 29 January 2023\Exam\Exam.TaskManager\bin\Debug\netcoreapp3.1\Exam.TaskManager.dll
+C:\Users\BO\Desktop\Data Structures Advanced\Exam\Exam 29 January 2023\Exam\Exam.TaskManager\bin\Debug\netcoreapp3.1\Exam.TaskManager.pdb
+C:\Users\BO\Desktop\Data Structures Advanced\Exam\Exam 29 January 2023\Exam\Exam.TaskManager\obj\Debug\netcoreapp3.1\Exam.TaskManager.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BO\Desktop\Data Structures Advanced\Exam\Exam 29 January 2023\Exam\Exam.TaskManager\obj\Debug\netcoreapp3.1\Exam.TaskManager.AssemblyInfoInputs.cache
+C:\Users\BO\Desktop\Data Structures Advanced\Exam\Exam 29 January 2023\Exam\Exam.TaskManager\obj\Debug\netcoreapp3.1\Exam.TaskManager.AssemblyInfo.cs
+C:\Users\BO\Desktop\Data Structures Advanced\Exam\Exam 29 January 2023\Exam\Exam.TaskManager\obj\Debug\netcoreapp3.1\Exam.TaskManager.csproj.CoreCompileInputs.cache
+C:\Users\BO\Desktop\Data Structures Advanced\Exam\Exam 29 January 2023\Exam\Exam.TaskManager\obj\Debug\netcoreapp3.1\Exam.TaskManager.dll
+C:\Users\BO\Desktop\Data Structures Advanced\Exam\Exam 29 January 2023\Exam\Exam.TaskManager\obj\Debug\netcoreapp3.1\Exam.TaskManager.pdb
+C:\Users\BO\Desktop\Data Structures Advanced\Exam\Exam 29 January 2023\Exam\Exam.TaskManager\obj\Debug\netcoreapp3.1\Exam.TaskManager.genruntimeconfig.cache

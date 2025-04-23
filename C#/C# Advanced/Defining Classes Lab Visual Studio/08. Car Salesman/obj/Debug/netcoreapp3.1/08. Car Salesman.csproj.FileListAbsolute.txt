@@ -1,0 +1,14 @@
+C:\Users\BO\Desktop\C# Advanced\Defining Classes Lab Visual Studio\08. Car Salesman\bin\Debug\netcoreapp3.1\08. Car Salesman.exe
+C:\Users\BO\Desktop\C# Advanced\Defining Classes Lab Visual Studio\08. Car Salesman\bin\Debug\netcoreapp3.1\08. Car Salesman.deps.json
+C:\Users\BO\Desktop\C# Advanced\Defining Classes Lab Visual Studio\08. Car Salesman\bin\Debug\netcoreapp3.1\08. Car Salesman.runtimeconfig.json
+C:\Users\BO\Desktop\C# Advanced\Defining Classes Lab Visual Studio\08. Car Salesman\bin\Debug\netcoreapp3.1\08. Car Salesman.runtimeconfig.dev.json
+C:\Users\BO\Desktop\C# Advanced\Defining Classes Lab Visual Studio\08. Car Salesman\bin\Debug\netcoreapp3.1\08. Car Salesman.dll
+C:\Users\BO\Desktop\C# Advanced\Defining Classes Lab Visual Studio\08. Car Salesman\bin\Debug\netcoreapp3.1\08. Car Salesman.pdb
+C:\Users\BO\Desktop\C# Advanced\Defining Classes Lab Visual Studio\08. Car Salesman\obj\Debug\netcoreapp3.1\08. Car Salesman.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BO\Desktop\C# Advanced\Defining Classes Lab Visual Studio\08. Car Salesman\obj\Debug\netcoreapp3.1\08. Car Salesman.AssemblyInfoInputs.cache
+C:\Users\BO\Desktop\C# Advanced\Defining Classes Lab Visual Studio\08. Car Salesman\obj\Debug\netcoreapp3.1\08. Car Salesman.AssemblyInfo.cs
+C:\Users\BO\Desktop\C# Advanced\Defining Classes Lab Visual Studio\08. Car Salesman\obj\Debug\netcoreapp3.1\08. Car Salesman.csproj.CoreCompileInputs.cache
+C:\Users\BO\Desktop\C# Advanced\Defining Classes Lab Visual Studio\08. Car Salesman\obj\Debug\netcoreapp3.1\08. Car Salesman.dll
+C:\Users\BO\Desktop\C# Advanced\Defining Classes Lab Visual Studio\08. Car Salesman\obj\Debug\netcoreapp3.1\08. Car Salesman.pdb
+C:\Users\BO\Desktop\C# Advanced\Defining Classes Lab Visual Studio\08. Car Salesman\obj\Debug\netcoreapp3.1\08. Car Salesman.genruntimeconfig.cache
+C:\Users\BO\Desktop\C# Advanced\Defining Classes Lab Visual Studio\08. Car Salesman\obj\Debug\netcoreapp3.1\08. Car Salesman.csproj.AssemblyReference.cache

@@ -1,0 +1,15 @@
+C:\Users\BO\Desktop\C# Fundamentals\CSharp Fundamentals Lists More Exercise\CSharp Fundamentals Lists More Exercise\bin\Debug\net6.0\01. Messaging.exe
+C:\Users\BO\Desktop\C# Fundamentals\CSharp Fundamentals Lists More Exercise\CSharp Fundamentals Lists More Exercise\bin\Debug\net6.0\01. Messaging.deps.json
+C:\Users\BO\Desktop\C# Fundamentals\CSharp Fundamentals Lists More Exercise\CSharp Fundamentals Lists More Exercise\bin\Debug\net6.0\01. Messaging.runtimeconfig.json
+C:\Users\BO\Desktop\C# Fundamentals\CSharp Fundamentals Lists More Exercise\CSharp Fundamentals Lists More Exercise\bin\Debug\net6.0\01. Messaging.dll
+C:\Users\BO\Desktop\C# Fundamentals\CSharp Fundamentals Lists More Exercise\CSharp Fundamentals Lists More Exercise\bin\Debug\net6.0\01. Messaging.pdb
+C:\Users\BO\Desktop\C# Fundamentals\CSharp Fundamentals Lists More Exercise\CSharp Fundamentals Lists More Exercise\obj\Debug\net6.0\01. Messaging.csproj.AssemblyReference.cache
+C:\Users\BO\Desktop\C# Fundamentals\CSharp Fundamentals Lists More Exercise\CSharp Fundamentals Lists More Exercise\obj\Debug\net6.0\01. Messaging.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BO\Desktop\C# Fundamentals\CSharp Fundamentals Lists More Exercise\CSharp Fundamentals Lists More Exercise\obj\Debug\net6.0\01. Messaging.AssemblyInfoInputs.cache
+C:\Users\BO\Desktop\C# Fundamentals\CSharp Fundamentals Lists More Exercise\CSharp Fundamentals Lists More Exercise\obj\Debug\net6.0\01. Messaging.AssemblyInfo.cs
+C:\Users\BO\Desktop\C# Fundamentals\CSharp Fundamentals Lists More Exercise\CSharp Fundamentals Lists More Exercise\obj\Debug\net6.0\01. Messaging.csproj.CoreCompileInputs.cache
+C:\Users\BO\Desktop\C# Fundamentals\CSharp Fundamentals Lists More Exercise\CSharp Fundamentals Lists More Exercise\obj\Debug\net6.0\01. Messaging.dll
+C:\Users\BO\Desktop\C# Fundamentals\CSharp Fundamentals Lists More Exercise\CSharp Fundamentals Lists More Exercise\obj\Debug\net6.0\refint\01. Messaging.dll
+C:\Users\BO\Desktop\C# Fundamentals\CSharp Fundamentals Lists More Exercise\CSharp Fundamentals Lists More Exercise\obj\Debug\net6.0\01. Messaging.pdb
+C:\Users\BO\Desktop\C# Fundamentals\CSharp Fundamentals Lists More Exercise\CSharp Fundamentals Lists More Exercise\obj\Debug\net6.0\01. Messaging.genruntimeconfig.cache
+C:\Users\BO\Desktop\C# Fundamentals\CSharp Fundamentals Lists More Exercise\CSharp Fundamentals Lists More Exercise\obj\Debug\net6.0\ref\01. Messaging.dll

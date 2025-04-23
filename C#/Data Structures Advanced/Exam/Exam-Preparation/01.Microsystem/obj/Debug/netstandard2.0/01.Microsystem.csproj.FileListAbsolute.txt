@@ -1,0 +1,10 @@
+C:\Users\BO\Desktop\Data Structures Advanced\Exam\Exam-Preparation\01.Microsystem\bin\Debug\netstandard2.0\01.Microsystem.deps.json
+C:\Users\BO\Desktop\Data Structures Advanced\Exam\Exam-Preparation\01.Microsystem\bin\Debug\netstandard2.0\01.Microsystem.dll
+C:\Users\BO\Desktop\Data Structures Advanced\Exam\Exam-Preparation\01.Microsystem\bin\Debug\netstandard2.0\01.Microsystem.pdb
+C:\Users\BO\Desktop\Data Structures Advanced\Exam\Exam-Preparation\01.Microsystem\obj\Debug\netstandard2.0\01.Microsystem.csproj.AssemblyReference.cache
+C:\Users\BO\Desktop\Data Structures Advanced\Exam\Exam-Preparation\01.Microsystem\obj\Debug\netstandard2.0\01.Microsystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BO\Desktop\Data Structures Advanced\Exam\Exam-Preparation\01.Microsystem\obj\Debug\netstandard2.0\01.Microsystem.AssemblyInfoInputs.cache
+C:\Users\BO\Desktop\Data Structures Advanced\Exam\Exam-Preparation\01.Microsystem\obj\Debug\netstandard2.0\01.Microsystem.AssemblyInfo.cs
+C:\Users\BO\Desktop\Data Structures Advanced\Exam\Exam-Preparation\01.Microsystem\obj\Debug\netstandard2.0\01.Microsystem.csproj.CoreCompileInputs.cache
+C:\Users\BO\Desktop\Data Structures Advanced\Exam\Exam-Preparation\01.Microsystem\obj\Debug\netstandard2.0\01.Microsystem.dll
+C:\Users\BO\Desktop\Data Structures Advanced\Exam\Exam-Preparation\01.Microsystem\obj\Debug\netstandard2.0\01.Microsystem.pdb

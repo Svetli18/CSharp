@@ -1,0 +1,15 @@
+C:\Users\BO\Desktop\C# Advanced\CSharp Advanced Functional Programming Exercise\CSharp Advanced Functional Programming Exercise\bin\Debug\net6.0\01. Action Print.exe
+C:\Users\BO\Desktop\C# Advanced\CSharp Advanced Functional Programming Exercise\CSharp Advanced Functional Programming Exercise\bin\Debug\net6.0\01. Action Print.deps.json
+C:\Users\BO\Desktop\C# Advanced\CSharp Advanced Functional Programming Exercise\CSharp Advanced Functional Programming Exercise\bin\Debug\net6.0\01. Action Print.runtimeconfig.json
+C:\Users\BO\Desktop\C# Advanced\CSharp Advanced Functional Programming Exercise\CSharp Advanced Functional Programming Exercise\bin\Debug\net6.0\01. Action Print.dll
+C:\Users\BO\Desktop\C# Advanced\CSharp Advanced Functional Programming Exercise\CSharp Advanced Functional Programming Exercise\bin\Debug\net6.0\01. Action Print.pdb
+C:\Users\BO\Desktop\C# Advanced\CSharp Advanced Functional Programming Exercise\CSharp Advanced Functional Programming Exercise\obj\Debug\net6.0\01. Action Print.csproj.AssemblyReference.cache
+C:\Users\BO\Desktop\C# Advanced\CSharp Advanced Functional Programming Exercise\CSharp Advanced Functional Programming Exercise\obj\Debug\net6.0\01. Action Print.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BO\Desktop\C# Advanced\CSharp Advanced Functional Programming Exercise\CSharp Advanced Functional Programming Exercise\obj\Debug\net6.0\01. Action Print.AssemblyInfoInputs.cache
+C:\Users\BO\Desktop\C# Advanced\CSharp Advanced Functional Programming Exercise\CSharp Advanced Functional Programming Exercise\obj\Debug\net6.0\01. Action Print.AssemblyInfo.cs
+C:\Users\BO\Desktop\C# Advanced\CSharp Advanced Functional Programming Exercise\CSharp Advanced Functional Programming Exercise\obj\Debug\net6.0\01. Action Print.csproj.CoreCompileInputs.cache
+C:\Users\BO\Desktop\C# Advanced\CSharp Advanced Functional Programming Exercise\CSharp Advanced Functional Programming Exercise\obj\Debug\net6.0\01. Action Print.dll
+C:\Users\BO\Desktop\C# Advanced\CSharp Advanced Functional Programming Exercise\CSharp Advanced Functional Programming Exercise\obj\Debug\net6.0\refint\01. Action Print.dll
+C:\Users\BO\Desktop\C# Advanced\CSharp Advanced Functional Programming Exercise\CSharp Advanced Functional Programming Exercise\obj\Debug\net6.0\01. Action Print.pdb
+C:\Users\BO\Desktop\C# Advanced\CSharp Advanced Functional Programming Exercise\CSharp Advanced Functional Programming Exercise\obj\Debug\net6.0\01. Action Print.genruntimeconfig.cache
+C:\Users\BO\Desktop\C# Advanced\CSharp Advanced Functional Programming Exercise\CSharp Advanced Functional Programming Exercise\obj\Debug\net6.0\ref\01. Action Print.dll

@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "LuFy9y2yf9Tn9pGBqTHEbqXWkXevyKMtQdh1dXF8EPxBlerylbat/4gOlsybPI7AS0zkpiJiABhh1L1slr71/A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\BO\\Desktop\\Data Structures Fundamentals\\Heaps and BST Exercise\\05.TopView\\05.TopView.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\BO\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\BO\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,15 @@
+C:\Users\BO\Desktop\C# Fundamentals\Fundamentals Mid Exams\04. 1Bonus Scoring System Calc\bin\Debug\net6.0\04. 1Bonus Scoring System Calc.exe
+C:\Users\BO\Desktop\C# Fundamentals\Fundamentals Mid Exams\04. 1Bonus Scoring System Calc\bin\Debug\net6.0\04. 1Bonus Scoring System Calc.deps.json
+C:\Users\BO\Desktop\C# Fundamentals\Fundamentals Mid Exams\04. 1Bonus Scoring System Calc\bin\Debug\net6.0\04. 1Bonus Scoring System Calc.runtimeconfig.json
+C:\Users\BO\Desktop\C# Fundamentals\Fundamentals Mid Exams\04. 1Bonus Scoring System Calc\bin\Debug\net6.0\04. 1Bonus Scoring System Calc.dll
+C:\Users\BO\Desktop\C# Fundamentals\Fundamentals Mid Exams\04. 1Bonus Scoring System Calc\bin\Debug\net6.0\04. 1Bonus Scoring System Calc.pdb
+C:\Users\BO\Desktop\C# Fundamentals\Fundamentals Mid Exams\04. 1Bonus Scoring System Calc\obj\Debug\net6.0\04. 1Bonus Scoring System Calc.csproj.AssemblyReference.cache
+C:\Users\BO\Desktop\C# Fundamentals\Fundamentals Mid Exams\04. 1Bonus Scoring System Calc\obj\Debug\net6.0\04. 1Bonus Scoring System Calc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BO\Desktop\C# Fundamentals\Fundamentals Mid Exams\04. 1Bonus Scoring System Calc\obj\Debug\net6.0\04. 1Bonus Scoring System Calc.AssemblyInfoInputs.cache
+C:\Users\BO\Desktop\C# Fundamentals\Fundamentals Mid Exams\04. 1Bonus Scoring System Calc\obj\Debug\net6.0\04. 1Bonus Scoring System Calc.AssemblyInfo.cs
+C:\Users\BO\Desktop\C# Fundamentals\Fundamentals Mid Exams\04. 1Bonus Scoring System Calc\obj\Debug\net6.0\04. 1Bonus Scoring System Calc.csproj.CoreCompileInputs.cache
+C:\Users\BO\Desktop\C# Fundamentals\Fundamentals Mid Exams\04. 1Bonus Scoring System Calc\obj\Debug\net6.0\04. 1Bonus Scoring System Calc.dll
+C:\Users\BO\Desktop\C# Fundamentals\Fundamentals Mid Exams\04. 1Bonus Scoring System Calc\obj\Debug\net6.0\refint\04. 1Bonus Scoring System Calc.dll
+C:\Users\BO\Desktop\C# Fundamentals\Fundamentals Mid Exams\04. 1Bonus Scoring System Calc\obj\Debug\net6.0\04. 1Bonus Scoring System Calc.pdb
+C:\Users\BO\Desktop\C# Fundamentals\Fundamentals Mid Exams\04. 1Bonus Scoring System Calc\obj\Debug\net6.0\04. 1Bonus Scoring System Calc.genruntimeconfig.cache
+C:\Users\BO\Desktop\C# Fundamentals\Fundamentals Mid Exams\04. 1Bonus Scoring System Calc\obj\Debug\net6.0\ref\04. 1Bonus Scoring System Calc.dll

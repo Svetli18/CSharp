@@ -1,0 +1,15 @@
+C:\Users\BO\Desktop\C# Fundamentals\Fundamentals Final Exams\02. Programming Fundamentals Final Exam\02. Programming Fundamentals Final Exam\bin\Debug\net6.0\01. World Tour.exe
+C:\Users\BO\Desktop\C# Fundamentals\Fundamentals Final Exams\02. Programming Fundamentals Final Exam\02. Programming Fundamentals Final Exam\bin\Debug\net6.0\01. World Tour.deps.json
+C:\Users\BO\Desktop\C# Fundamentals\Fundamentals Final Exams\02. Programming Fundamentals Final Exam\02. Programming Fundamentals Final Exam\bin\Debug\net6.0\01. World Tour.runtimeconfig.json
+C:\Users\BO\Desktop\C# Fundamentals\Fundamentals Final Exams\02. Programming Fundamentals Final Exam\02. Programming Fundamentals Final Exam\bin\Debug\net6.0\01. World Tour.dll
+C:\Users\BO\Desktop\C# Fundamentals\Fundamentals Final Exams\02. Programming Fundamentals Final Exam\02. Programming Fundamentals Final Exam\bin\Debug\net6.0\01. World Tour.pdb
+C:\Users\BO\Desktop\C# Fundamentals\Fundamentals Final Exams\02. Programming Fundamentals Final Exam\02. Programming Fundamentals Final Exam\obj\Debug\net6.0\01. World Tour.csproj.AssemblyReference.cache
+C:\Users\BO\Desktop\C# Fundamentals\Fundamentals Final Exams\02. Programming Fundamentals Final Exam\02. Programming Fundamentals Final Exam\obj\Debug\net6.0\01. World Tour.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BO\Desktop\C# Fundamentals\Fundamentals Final Exams\02. Programming Fundamentals Final Exam\02. Programming Fundamentals Final Exam\obj\Debug\net6.0\01. World Tour.AssemblyInfoInputs.cache
+C:\Users\BO\Desktop\C# Fundamentals\Fundamentals Final Exams\02. Programming Fundamentals Final Exam\02. Programming Fundamentals Final Exam\obj\Debug\net6.0\01. World Tour.AssemblyInfo.cs
+C:\Users\BO\Desktop\C# Fundamentals\Fundamentals Final Exams\02. Programming Fundamentals Final Exam\02. Programming Fundamentals Final Exam\obj\Debug\net6.0\01. World Tour.csproj.CoreCompileInputs.cache
+C:\Users\BO\Desktop\C# Fundamentals\Fundamentals Final Exams\02. Programming Fundamentals Final Exam\02. Programming Fundamentals Final Exam\obj\Debug\net6.0\01. World Tour.dll
+C:\Users\BO\Desktop\C# Fundamentals\Fundamentals Final Exams\02. Programming Fundamentals Final Exam\02. Programming Fundamentals Final Exam\obj\Debug\net6.0\refint\01. World Tour.dll
+C:\Users\BO\Desktop\C# Fundamentals\Fundamentals Final Exams\02. Programming Fundamentals Final Exam\02. Programming Fundamentals Final Exam\obj\Debug\net6.0\01. World Tour.pdb
+C:\Users\BO\Desktop\C# Fundamentals\Fundamentals Final Exams\02. Programming Fundamentals Final Exam\02. Programming Fundamentals Final Exam\obj\Debug\net6.0\01. World Tour.genruntimeconfig.cache
+C:\Users\BO\Desktop\C# Fundamentals\Fundamentals Final Exams\02. Programming Fundamentals Final Exam\02. Programming Fundamentals Final Exam\obj\Debug\net6.0\ref\01. World Tour.dll

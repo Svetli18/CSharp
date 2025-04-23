@@ -1,0 +1,15 @@
+C:\Users\BO\Desktop\C# Fundamentals\CSharp Fundamentals Data Types and Variables Exercise\10 Poke Mon\bin\Debug\net6.0\10 Poke Mon.exe
+C:\Users\BO\Desktop\C# Fundamentals\CSharp Fundamentals Data Types and Variables Exercise\10 Poke Mon\bin\Debug\net6.0\10 Poke Mon.deps.json
+C:\Users\BO\Desktop\C# Fundamentals\CSharp Fundamentals Data Types and Variables Exercise\10 Poke Mon\bin\Debug\net6.0\10 Poke Mon.runtimeconfig.json
+C:\Users\BO\Desktop\C# Fundamentals\CSharp Fundamentals Data Types and Variables Exercise\10 Poke Mon\bin\Debug\net6.0\10 Poke Mon.dll
+C:\Users\BO\Desktop\C# Fundamentals\CSharp Fundamentals Data Types and Variables Exercise\10 Poke Mon\bin\Debug\net6.0\10 Poke Mon.pdb
+C:\Users\BO\Desktop\C# Fundamentals\CSharp Fundamentals Data Types and Variables Exercise\10 Poke Mon\obj\Debug\net6.0\10 Poke Mon.csproj.AssemblyReference.cache
+C:\Users\BO\Desktop\C# Fundamentals\CSharp Fundamentals Data Types and Variables Exercise\10 Poke Mon\obj\Debug\net6.0\10 Poke Mon.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BO\Desktop\C# Fundamentals\CSharp Fundamentals Data Types and Variables Exercise\10 Poke Mon\obj\Debug\net6.0\10 Poke Mon.AssemblyInfoInputs.cache
+C:\Users\BO\Desktop\C# Fundamentals\CSharp Fundamentals Data Types and Variables Exercise\10 Poke Mon\obj\Debug\net6.0\10 Poke Mon.AssemblyInfo.cs
+C:\Users\BO\Desktop\C# Fundamentals\CSharp Fundamentals Data Types and Variables Exercise\10 Poke Mon\obj\Debug\net6.0\10 Poke Mon.csproj.CoreCompileInputs.cache
+C:\Users\BO\Desktop\C# Fundamentals\CSharp Fundamentals Data Types and Variables Exercise\10 Poke Mon\obj\Debug\net6.0\10 Poke Mon.dll
+C:\Users\BO\Desktop\C# Fundamentals\CSharp Fundamentals Data Types and Variables Exercise\10 Poke Mon\obj\Debug\net6.0\refint\10 Poke Mon.dll
+C:\Users\BO\Desktop\C# Fundamentals\CSharp Fundamentals Data Types and Variables Exercise\10 Poke Mon\obj\Debug\net6.0\10 Poke Mon.pdb
+C:\Users\BO\Desktop\C# Fundamentals\CSharp Fundamentals Data Types and Variables Exercise\10 Poke Mon\obj\Debug\net6.0\10 Poke Mon.genruntimeconfig.cache
+C:\Users\BO\Desktop\C# Fundamentals\CSharp Fundamentals Data Types and Variables Exercise\10 Poke Mon\obj\Debug\net6.0\ref\10 Poke Mon.dll

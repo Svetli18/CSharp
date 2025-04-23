@@ -1,0 +1,13 @@
+C:\Users\BO\Desktop\Data Structures Advanced\Exam\Exam 5 February 2023\Exam.Expressionist\bin\Debug\netcoreapp3.1\Exam.Expressionist.exe
+C:\Users\BO\Desktop\Data Structures Advanced\Exam\Exam 5 February 2023\Exam.Expressionist\bin\Debug\netcoreapp3.1\Exam.Expressionist.deps.json
+C:\Users\BO\Desktop\Data Structures Advanced\Exam\Exam 5 February 2023\Exam.Expressionist\bin\Debug\netcoreapp3.1\Exam.Expressionist.runtimeconfig.json
+C:\Users\BO\Desktop\Data Structures Advanced\Exam\Exam 5 February 2023\Exam.Expressionist\bin\Debug\netcoreapp3.1\Exam.Expressionist.runtimeconfig.dev.json
+C:\Users\BO\Desktop\Data Structures Advanced\Exam\Exam 5 February 2023\Exam.Expressionist\bin\Debug\netcoreapp3.1\Exam.Expressionist.dll
+C:\Users\BO\Desktop\Data Structures Advanced\Exam\Exam 5 February 2023\Exam.Expressionist\bin\Debug\netcoreapp3.1\Exam.Expressionist.pdb
+C:\Users\BO\Desktop\Data Structures Advanced\Exam\Exam 5 February 2023\Exam.Expressionist\obj\Debug\netcoreapp3.1\Exam.Expressionist.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BO\Desktop\Data Structures Advanced\Exam\Exam 5 February 2023\Exam.Expressionist\obj\Debug\netcoreapp3.1\Exam.Expressionist.AssemblyInfoInputs.cache
+C:\Users\BO\Desktop\Data Structures Advanced\Exam\Exam 5 February 2023\Exam.Expressionist\obj\Debug\netcoreapp3.1\Exam.Expressionist.AssemblyInfo.cs
+C:\Users\BO\Desktop\Data Structures Advanced\Exam\Exam 5 February 2023\Exam.Expressionist\obj\Debug\netcoreapp3.1\Exam.Expressionist.csproj.CoreCompileInputs.cache
+C:\Users\BO\Desktop\Data Structures Advanced\Exam\Exam 5 February 2023\Exam.Expressionist\obj\Debug\netcoreapp3.1\Exam.Expressionist.dll
+C:\Users\BO\Desktop\Data Structures Advanced\Exam\Exam 5 February 2023\Exam.Expressionist\obj\Debug\netcoreapp3.1\Exam.Expressionist.pdb
+C:\Users\BO\Desktop\Data Structures Advanced\Exam\Exam 5 February 2023\Exam.Expressionist\obj\Debug\netcoreapp3.1\Exam.Expressionist.genruntimeconfig.cache

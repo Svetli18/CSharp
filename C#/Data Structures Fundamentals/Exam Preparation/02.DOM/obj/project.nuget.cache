@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "mcGqIszcfIlpO5lIEvoZZmwL6lDIT0irdxaHWG1tpqJkOw2AWoSYWSmP2JZxrtxIYUd+DUvyMawzdiC5XiTF9g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\BO\\Desktop\\Data Structures Fundamentals\\Exam Preparation\\02.DOM\\02.DOM.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\BO\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\BO\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

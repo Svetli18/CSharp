@@ -1,0 +1,15 @@
+C:\Users\BO\Desktop\C# Fundamentals\01. The Imitation Game\03. The Pianist\bin\Debug\net6.0\03. The Pianist.exe
+C:\Users\BO\Desktop\C# Fundamentals\01. The Imitation Game\03. The Pianist\bin\Debug\net6.0\03. The Pianist.deps.json
+C:\Users\BO\Desktop\C# Fundamentals\01. The Imitation Game\03. The Pianist\bin\Debug\net6.0\03. The Pianist.runtimeconfig.json
+C:\Users\BO\Desktop\C# Fundamentals\01. The Imitation Game\03. The Pianist\bin\Debug\net6.0\03. The Pianist.dll
+C:\Users\BO\Desktop\C# Fundamentals\01. The Imitation Game\03. The Pianist\bin\Debug\net6.0\03. The Pianist.pdb
+C:\Users\BO\Desktop\C# Fundamentals\01. The Imitation Game\03. The Pianist\obj\Debug\net6.0\03. The Pianist.csproj.AssemblyReference.cache
+C:\Users\BO\Desktop\C# Fundamentals\01. The Imitation Game\03. The Pianist\obj\Debug\net6.0\03. The Pianist.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BO\Desktop\C# Fundamentals\01. The Imitation Game\03. The Pianist\obj\Debug\net6.0\03. The Pianist.AssemblyInfoInputs.cache
+C:\Users\BO\Desktop\C# Fundamentals\01. The Imitation Game\03. The Pianist\obj\Debug\net6.0\03. The Pianist.AssemblyInfo.cs
+C:\Users\BO\Desktop\C# Fundamentals\01. The Imitation Game\03. The Pianist\obj\Debug\net6.0\03. The Pianist.csproj.CoreCompileInputs.cache
+C:\Users\BO\Desktop\C# Fundamentals\01. The Imitation Game\03. The Pianist\obj\Debug\net6.0\03. The Pianist.dll
+C:\Users\BO\Desktop\C# Fundamentals\01. The Imitation Game\03. The Pianist\obj\Debug\net6.0\refint\03. The Pianist.dll
+C:\Users\BO\Desktop\C# Fundamentals\01. The Imitation Game\03. The Pianist\obj\Debug\net6.0\03. The Pianist.pdb
+C:\Users\BO\Desktop\C# Fundamentals\01. The Imitation Game\03. The Pianist\obj\Debug\net6.0\03. The Pianist.genruntimeconfig.cache
+C:\Users\BO\Desktop\C# Fundamentals\01. The Imitation Game\03. The Pianist\obj\Debug\net6.0\ref\03. The Pianist.dll

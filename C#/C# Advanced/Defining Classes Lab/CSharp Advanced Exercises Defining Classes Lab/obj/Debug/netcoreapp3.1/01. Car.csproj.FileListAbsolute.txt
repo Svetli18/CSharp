@@ -1,0 +1,5 @@
+C:\Users\BO\Desktop\C# Advanced\CSharp Advanced Exercises Defining Classes Lab\CSharp Advanced Exercises Defining Classes Lab\obj\Debug\netcoreapp3.1\01. Car.csproj.AssemblyReference.cache
+C:\Users\BO\Desktop\C# Advanced\CSharp Advanced Exercises Defining Classes Lab\CSharp Advanced Exercises Defining Classes Lab\obj\Debug\netcoreapp3.1\01. Car.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BO\Desktop\C# Advanced\CSharp Advanced Exercises Defining Classes Lab\CSharp Advanced Exercises Defining Classes Lab\obj\Debug\netcoreapp3.1\01. Car.AssemblyInfoInputs.cache
+C:\Users\BO\Desktop\C# Advanced\CSharp Advanced Exercises Defining Classes Lab\CSharp Advanced Exercises Defining Classes Lab\obj\Debug\netcoreapp3.1\01. Car.AssemblyInfo.cs
+C:\Users\BO\Desktop\C# Advanced\CSharp Advanced Exercises Defining Classes Lab\CSharp Advanced Exercises Defining Classes Lab\obj\Debug\netcoreapp3.1\01. Car.csproj.CoreCompileInputs.cache

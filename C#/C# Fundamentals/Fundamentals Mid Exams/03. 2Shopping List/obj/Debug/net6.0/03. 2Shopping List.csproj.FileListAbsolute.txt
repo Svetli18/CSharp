@@ -1,0 +1,15 @@
+C:\Users\BO\Desktop\C# Fundamentals\Fundamentals Mid Exams\03. 2Shopping List\bin\Debug\net6.0\03. 2Shopping List.exe
+C:\Users\BO\Desktop\C# Fundamentals\Fundamentals Mid Exams\03. 2Shopping List\bin\Debug\net6.0\03. 2Shopping List.deps.json
+C:\Users\BO\Desktop\C# Fundamentals\Fundamentals Mid Exams\03. 2Shopping List\bin\Debug\net6.0\03. 2Shopping List.runtimeconfig.json
+C:\Users\BO\Desktop\C# Fundamentals\Fundamentals Mid Exams\03. 2Shopping List\bin\Debug\net6.0\03. 2Shopping List.dll
+C:\Users\BO\Desktop\C# Fundamentals\Fundamentals Mid Exams\03. 2Shopping List\bin\Debug\net6.0\03. 2Shopping List.pdb
+C:\Users\BO\Desktop\C# Fundamentals\Fundamentals Mid Exams\03. 2Shopping List\obj\Debug\net6.0\03. 2Shopping List.csproj.AssemblyReference.cache
+C:\Users\BO\Desktop\C# Fundamentals\Fundamentals Mid Exams\03. 2Shopping List\obj\Debug\net6.0\03. 2Shopping List.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BO\Desktop\C# Fundamentals\Fundamentals Mid Exams\03. 2Shopping List\obj\Debug\net6.0\03. 2Shopping List.AssemblyInfoInputs.cache
+C:\Users\BO\Desktop\C# Fundamentals\Fundamentals Mid Exams\03. 2Shopping List\obj\Debug\net6.0\03. 2Shopping List.AssemblyInfo.cs
+C:\Users\BO\Desktop\C# Fundamentals\Fundamentals Mid Exams\03. 2Shopping List\obj\Debug\net6.0\03. 2Shopping List.csproj.CoreCompileInputs.cache
+C:\Users\BO\Desktop\C# Fundamentals\Fundamentals Mid Exams\03. 2Shopping List\obj\Debug\net6.0\03. 2Shopping List.dll
+C:\Users\BO\Desktop\C# Fundamentals\Fundamentals Mid Exams\03. 2Shopping List\obj\Debug\net6.0\refint\03. 2Shopping List.dll
+C:\Users\BO\Desktop\C# Fundamentals\Fundamentals Mid Exams\03. 2Shopping List\obj\Debug\net6.0\03. 2Shopping List.pdb
+C:\Users\BO\Desktop\C# Fundamentals\Fundamentals Mid Exams\03. 2Shopping List\obj\Debug\net6.0\03. 2Shopping List.genruntimeconfig.cache
+C:\Users\BO\Desktop\C# Fundamentals\Fundamentals Mid Exams\03. 2Shopping List\obj\Debug\net6.0\ref\03. 2Shopping List.dll

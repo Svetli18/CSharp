@@ -1,0 +1,15 @@
+C:\Users\BO\Desktop\C# Advanced\CSharp Advanced Exercises Multidimensional Arrays Exercise\10 Mutant Vampire Bunnies\bin\Debug\net6.0\10 Mutant Vampire Bunnies.exe
+C:\Users\BO\Desktop\C# Advanced\CSharp Advanced Exercises Multidimensional Arrays Exercise\10 Mutant Vampire Bunnies\bin\Debug\net6.0\10 Mutant Vampire Bunnies.deps.json
+C:\Users\BO\Desktop\C# Advanced\CSharp Advanced Exercises Multidimensional Arrays Exercise\10 Mutant Vampire Bunnies\bin\Debug\net6.0\10 Mutant Vampire Bunnies.runtimeconfig.json
+C:\Users\BO\Desktop\C# Advanced\CSharp Advanced Exercises Multidimensional Arrays Exercise\10 Mutant Vampire Bunnies\bin\Debug\net6.0\10 Mutant Vampire Bunnies.dll
+C:\Users\BO\Desktop\C# Advanced\CSharp Advanced Exercises Multidimensional Arrays Exercise\10 Mutant Vampire Bunnies\bin\Debug\net6.0\10 Mutant Vampire Bunnies.pdb
+C:\Users\BO\Desktop\C# Advanced\CSharp Advanced Exercises Multidimensional Arrays Exercise\10 Mutant Vampire Bunnies\obj\Debug\net6.0\10 Mutant Vampire Bunnies.csproj.AssemblyReference.cache
+C:\Users\BO\Desktop\C# Advanced\CSharp Advanced Exercises Multidimensional Arrays Exercise\10 Mutant Vampire Bunnies\obj\Debug\net6.0\10 Mutant Vampire Bunnies.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BO\Desktop\C# Advanced\CSharp Advanced Exercises Multidimensional Arrays Exercise\10 Mutant Vampire Bunnies\obj\Debug\net6.0\10 Mutant Vampire Bunnies.AssemblyInfoInputs.cache
+C:\Users\BO\Desktop\C# Advanced\CSharp Advanced Exercises Multidimensional Arrays Exercise\10 Mutant Vampire Bunnies\obj\Debug\net6.0\10 Mutant Vampire Bunnies.AssemblyInfo.cs
+C:\Users\BO\Desktop\C# Advanced\CSharp Advanced Exercises Multidimensional Arrays Exercise\10 Mutant Vampire Bunnies\obj\Debug\net6.0\10 Mutant Vampire Bunnies.csproj.CoreCompileInputs.cache
+C:\Users\BO\Desktop\C# Advanced\CSharp Advanced Exercises Multidimensional Arrays Exercise\10 Mutant Vampire Bunnies\obj\Debug\net6.0\10 Mutant Vampire Bunnies.dll
+C:\Users\BO\Desktop\C# Advanced\CSharp Advanced Exercises Multidimensional Arrays Exercise\10 Mutant Vampire Bunnies\obj\Debug\net6.0\refint\10 Mutant Vampire Bunnies.dll
+C:\Users\BO\Desktop\C# Advanced\CSharp Advanced Exercises Multidimensional Arrays Exercise\10 Mutant Vampire Bunnies\obj\Debug\net6.0\10 Mutant Vampire Bunnies.pdb
+C:\Users\BO\Desktop\C# Advanced\CSharp Advanced Exercises Multidimensional Arrays Exercise\10 Mutant Vampire Bunnies\obj\Debug\net6.0\10 Mutant Vampire Bunnies.genruntimeconfig.cache
+C:\Users\BO\Desktop\C# Advanced\CSharp Advanced Exercises Multidimensional Arrays Exercise\10 Mutant Vampire Bunnies\obj\Debug\net6.0\ref\10 Mutant Vampire Bunnies.dll

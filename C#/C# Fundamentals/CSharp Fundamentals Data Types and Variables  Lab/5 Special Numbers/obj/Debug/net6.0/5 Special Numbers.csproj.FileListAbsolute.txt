@@ -1,0 +1,15 @@
+C:\Users\BO\Desktop\C# Fundamentals\CSharp Fundamentals Data Types and Variables  Lab\5 Special Numbers\bin\Debug\net6.0\5 Special Numbers.exe
+C:\Users\BO\Desktop\C# Fundamentals\CSharp Fundamentals Data Types and Variables  Lab\5 Special Numbers\bin\Debug\net6.0\5 Special Numbers.deps.json
+C:\Users\BO\Desktop\C# Fundamentals\CSharp Fundamentals Data Types and Variables  Lab\5 Special Numbers\bin\Debug\net6.0\5 Special Numbers.runtimeconfig.json
+C:\Users\BO\Desktop\C# Fundamentals\CSharp Fundamentals Data Types and Variables  Lab\5 Special Numbers\bin\Debug\net6.0\5 Special Numbers.dll
+C:\Users\BO\Desktop\C# Fundamentals\CSharp Fundamentals Data Types and Variables  Lab\5 Special Numbers\bin\Debug\net6.0\5 Special Numbers.pdb
+C:\Users\BO\Desktop\C# Fundamentals\CSharp Fundamentals Data Types and Variables  Lab\5 Special Numbers\obj\Debug\net6.0\5 Special Numbers.csproj.AssemblyReference.cache
+C:\Users\BO\Desktop\C# Fundamentals\CSharp Fundamentals Data Types and Variables  Lab\5 Special Numbers\obj\Debug\net6.0\5 Special Numbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BO\Desktop\C# Fundamentals\CSharp Fundamentals Data Types and Variables  Lab\5 Special Numbers\obj\Debug\net6.0\5 Special Numbers.AssemblyInfoInputs.cache
+C:\Users\BO\Desktop\C# Fundamentals\CSharp Fundamentals Data Types and Variables  Lab\5 Special Numbers\obj\Debug\net6.0\5 Special Numbers.AssemblyInfo.cs
+C:\Users\BO\Desktop\C# Fundamentals\CSharp Fundamentals Data Types and Variables  Lab\5 Special Numbers\obj\Debug\net6.0\5 Special Numbers.csproj.CoreCompileInputs.cache
+C:\Users\BO\Desktop\C# Fundamentals\CSharp Fundamentals Data Types and Variables  Lab\5 Special Numbers\obj\Debug\net6.0\5 Special Numbers.dll
+C:\Users\BO\Desktop\C# Fundamentals\CSharp Fundamentals Data Types and Variables  Lab\5 Special Numbers\obj\Debug\net6.0\refint\5 Special Numbers.dll
+C:\Users\BO\Desktop\C# Fundamentals\CSharp Fundamentals Data Types and Variables  Lab\5 Special Numbers\obj\Debug\net6.0\5 Special Numbers.pdb
+C:\Users\BO\Desktop\C# Fundamentals\CSharp Fundamentals Data Types and Variables  Lab\5 Special Numbers\obj\Debug\net6.0\5 Special Numbers.genruntimeconfig.cache
+C:\Users\BO\Desktop\C# Fundamentals\CSharp Fundamentals Data Types and Variables  Lab\5 Special Numbers\obj\Debug\net6.0\ref\5 Special Numbers.dll

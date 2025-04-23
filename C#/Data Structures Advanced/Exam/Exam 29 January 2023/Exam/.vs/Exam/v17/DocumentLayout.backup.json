@@ -1,0 +1,156 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\BO\\Desktop\\Data Structures Advanced\\Exam\\Exam 29 January 2023\\Exam\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{53A79284-0D91-4E24-BD43-C49B36E9B488}|Exam.Categorization\\Exam.Categorization.csproj|c:\\users\\bo\\desktop\\data structures advanced\\exam\\exam 29 january 2023\\exam\\exam.categorization\\categorizator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53A79284-0D91-4E24-BD43-C49B36E9B488}|Exam.Categorization\\Exam.Categorization.csproj|solutionrelative:exam.categorization\\categorizator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53A79284-0D91-4E24-BD43-C49B36E9B488}|Exam.Categorization\\Exam.Categorization.csproj|c:\\users\\bo\\desktop\\data structures advanced\\exam\\exam 29 january 2023\\exam\\exam.categorization\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53A79284-0D91-4E24-BD43-C49B36E9B488}|Exam.Categorization\\Exam.Categorization.csproj|solutionrelative:exam.categorization\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFDCE236-8772-4903-B9CC-A1C9FF7D9512}|Exam.TaskManager\\Exam.TaskManager.csproj|c:\\users\\bo\\desktop\\data structures advanced\\exam\\exam 29 january 2023\\exam\\exam.taskmanager\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFDCE236-8772-4903-B9CC-A1C9FF7D9512}|Exam.TaskManager\\Exam.TaskManager.csproj|solutionrelative:exam.taskmanager\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53A79284-0D91-4E24-BD43-C49B36E9B488}|Exam.Categorization\\Exam.Categorization.csproj|c:\\users\\bo\\desktop\\data structures advanced\\exam\\exam 29 january 2023\\exam\\exam.categorization\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53A79284-0D91-4E24-BD43-C49B36E9B488}|Exam.Categorization\\Exam.Categorization.csproj|solutionrelative:exam.categorization\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFDCE236-8772-4903-B9CC-A1C9FF7D9512}|Exam.TaskManager\\Exam.TaskManager.csproj|c:\\users\\bo\\desktop\\data structures advanced\\exam\\exam 29 january 2023\\exam\\exam.taskmanager\\taskmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFDCE236-8772-4903-B9CC-A1C9FF7D9512}|Exam.TaskManager\\Exam.TaskManager.csproj|solutionrelative:exam.taskmanager\\taskmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07E5D982-5BB1-47AF-B447-6E3B9AA3A2C7}|Exam.TaskManager.Tests\\Exam.TaskManager.Tests.csproj|c:\\users\\bo\\desktop\\data structures advanced\\exam\\exam 29 january 2023\\exam\\exam.taskmanager.tests\\taskmanagertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07E5D982-5BB1-47AF-B447-6E3B9AA3A2C7}|Exam.TaskManager.Tests\\Exam.TaskManager.Tests.csproj|solutionrelative:exam.taskmanager.tests\\taskmanagertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFDCE236-8772-4903-B9CC-A1C9FF7D9512}|Exam.TaskManager\\Exam.TaskManager.csproj|c:\\users\\bo\\desktop\\data structures advanced\\exam\\exam 29 january 2023\\exam\\exam.taskmanager\\task.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFDCE236-8772-4903-B9CC-A1C9FF7D9512}|Exam.TaskManager\\Exam.TaskManager.csproj|solutionrelative:exam.taskmanager\\task.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFDCE236-8772-4903-B9CC-A1C9FF7D9512}|Exam.TaskManager\\Exam.TaskManager.csproj|c:\\users\\bo\\desktop\\data structures advanced\\exam\\exam 29 january 2023\\exam\\exam.taskmanager\\exam.taskmanager.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{BFDCE236-8772-4903-B9CC-A1C9FF7D9512}|Exam.TaskManager\\Exam.TaskManager.csproj|solutionrelative:exam.taskmanager\\exam.taskmanager.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\BO\\Desktop\\Data Structures Advanced\\Exam\\Exam 29 January 2023\\Exam\\Exam.Categorization\\Program.cs",
+              "RelativeDocumentMoniker": "Exam.Categorization\\Program.cs",
+              "ToolTip": "C:\\Users\\BO\\Desktop\\Data Structures Advanced\\Exam\\Exam 29 January 2023\\Exam\\Exam.Categorization\\Program.cs",
+              "RelativeToolTip": "Exam.Categorization\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T16:25:10.913Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Categorizator.cs",
+              "DocumentMoniker": "C:\\Users\\BO\\Desktop\\Data Structures Advanced\\Exam\\Exam 29 January 2023\\Exam\\Exam.Categorization\\Categorizator.cs",
+              "RelativeDocumentMoniker": "Exam.Categorization\\Categorizator.cs",
+              "ToolTip": "C:\\Users\\BO\\Desktop\\Data Structures Advanced\\Exam\\Exam 29 January 2023\\Exam\\Exam.Categorization\\Categorizator.cs*",
+              "RelativeToolTip": "Exam.Categorization\\Categorizator.cs*",
+              "ViewState": "AgIAACYAAAAAAAAAAAASwFkAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T14:20:03.029Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\BO\\Desktop\\Data Structures Advanced\\Exam\\Exam 29 January 2023\\Exam\\Exam.Categorization\\Category.cs",
+              "RelativeDocumentMoniker": "Exam.Categorization\\Category.cs",
+              "ToolTip": "C:\\Users\\BO\\Desktop\\Data Structures Advanced\\Exam\\Exam 29 January 2023\\Exam\\Exam.Categorization\\Category.cs",
+              "RelativeToolTip": "Exam.Categorization\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvw4AAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T14:19:58.242Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Exam.TaskManager",
+              "DocumentMoniker": "C:\\Users\\BO\\Desktop\\Data Structures Advanced\\Exam\\Exam 29 January 2023\\Exam\\Exam.TaskManager\\Exam.TaskManager.csproj",
+              "RelativeDocumentMoniker": "Exam.TaskManager\\Exam.TaskManager.csproj",
+              "ToolTip": "C:\\Users\\BO\\Desktop\\Data Structures Advanced\\Exam\\Exam 29 January 2023\\Exam\\Exam.TaskManager\\Exam.TaskManager.csproj",
+              "RelativeToolTip": "Exam.TaskManager\\Exam.TaskManager.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-26T23:10:49.729Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TaskManager.cs",
+              "DocumentMoniker": "C:\\Users\\BO\\Desktop\\Data Structures Advanced\\Exam\\Exam 29 January 2023\\Exam\\Exam.TaskManager\\TaskManager.cs",
+              "RelativeDocumentMoniker": "Exam.TaskManager\\TaskManager.cs",
+              "ToolTip": "C:\\Users\\BO\\Desktop\\Data Structures Advanced\\Exam\\Exam 29 January 2023\\Exam\\Exam.TaskManager\\TaskManager.cs",
+              "RelativeToolTip": "Exam.TaskManager\\TaskManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T17:12:47.98Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\BO\\Desktop\\Data Structures Advanced\\Exam\\Exam 29 January 2023\\Exam\\Exam.TaskManager\\Program.cs",
+              "RelativeDocumentMoniker": "Exam.TaskManager\\Program.cs",
+              "ToolTip": "C:\\Users\\BO\\Desktop\\Data Structures Advanced\\Exam\\Exam 29 January 2023\\Exam\\Exam.TaskManager\\Program.cs",
+              "RelativeToolTip": "Exam.TaskManager\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T22:27:45.286Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TaskManagerTests.cs",
+              "DocumentMoniker": "C:\\Users\\BO\\Desktop\\Data Structures Advanced\\Exam\\Exam 29 January 2023\\Exam\\Exam.TaskManager.Tests\\TaskManagerTests.cs",
+              "RelativeDocumentMoniker": "Exam.TaskManager.Tests\\TaskManagerTests.cs",
+              "ToolTip": "C:\\Users\\BO\\Desktop\\Data Structures Advanced\\Exam\\Exam 29 January 2023\\Exam\\Exam.TaskManager.Tests\\TaskManagerTests.cs",
+              "RelativeToolTip": "Exam.TaskManager.Tests\\TaskManagerTests.cs",
+              "ViewState": "AgIAAFcAAAAAAAAAAAAmwH8AAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T22:27:51.869Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Task.cs",
+              "DocumentMoniker": "C:\\Users\\BO\\Desktop\\Data Structures Advanced\\Exam\\Exam 29 January 2023\\Exam\\Exam.TaskManager\\Task.cs",
+              "RelativeDocumentMoniker": "Exam.TaskManager\\Task.cs",
+              "ToolTip": "C:\\Users\\BO\\Desktop\\Data Structures Advanced\\Exam\\Exam 29 January 2023\\Exam\\Exam.TaskManager\\Task.cs",
+              "RelativeToolTip": "Exam.TaskManager\\Task.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwQAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T17:12:54.122Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

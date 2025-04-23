@@ -1,0 +1,15 @@
+C:\Users\BO\Desktop\C# Fundamentals\Fundamentals Mid Exams\03. Numbers\bin\Debug\net6.0\03. Numbers.exe
+C:\Users\BO\Desktop\C# Fundamentals\Fundamentals Mid Exams\03. Numbers\bin\Debug\net6.0\03. Numbers.deps.json
+C:\Users\BO\Desktop\C# Fundamentals\Fundamentals Mid Exams\03. Numbers\bin\Debug\net6.0\03. Numbers.runtimeconfig.json
+C:\Users\BO\Desktop\C# Fundamentals\Fundamentals Mid Exams\03. Numbers\bin\Debug\net6.0\03. Numbers.dll
+C:\Users\BO\Desktop\C# Fundamentals\Fundamentals Mid Exams\03. Numbers\bin\Debug\net6.0\03. Numbers.pdb
+C:\Users\BO\Desktop\C# Fundamentals\Fundamentals Mid Exams\03. Numbers\obj\Debug\net6.0\03. Numbers.csproj.AssemblyReference.cache
+C:\Users\BO\Desktop\C# Fundamentals\Fundamentals Mid Exams\03. Numbers\obj\Debug\net6.0\03. Numbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BO\Desktop\C# Fundamentals\Fundamentals Mid Exams\03. Numbers\obj\Debug\net6.0\03. Numbers.AssemblyInfoInputs.cache
+C:\Users\BO\Desktop\C# Fundamentals\Fundamentals Mid Exams\03. Numbers\obj\Debug\net6.0\03. Numbers.AssemblyInfo.cs
+C:\Users\BO\Desktop\C# Fundamentals\Fundamentals Mid Exams\03. Numbers\obj\Debug\net6.0\03. Numbers.csproj.CoreCompileInputs.cache
+C:\Users\BO\Desktop\C# Fundamentals\Fundamentals Mid Exams\03. Numbers\obj\Debug\net6.0\03. Numbers.dll
+C:\Users\BO\Desktop\C# Fundamentals\Fundamentals Mid Exams\03. Numbers\obj\Debug\net6.0\refint\03. Numbers.dll
+C:\Users\BO\Desktop\C# Fundamentals\Fundamentals Mid Exams\03. Numbers\obj\Debug\net6.0\03. Numbers.pdb
+C:\Users\BO\Desktop\C# Fundamentals\Fundamentals Mid Exams\03. Numbers\obj\Debug\net6.0\03. Numbers.genruntimeconfig.cache
+C:\Users\BO\Desktop\C# Fundamentals\Fundamentals Mid Exams\03. Numbers\obj\Debug\net6.0\ref\03. Numbers.dll

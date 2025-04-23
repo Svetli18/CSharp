@@ -1,0 +1,14 @@
+C:\Users\BO\Desktop\C# Advanced\Exams\Exam 14 April 2021\Skeleton\bin\Debug\netcoreapp3.1\CocktailParty.exe
+C:\Users\BO\Desktop\C# Advanced\Exams\Exam 14 April 2021\Skeleton\bin\Debug\netcoreapp3.1\CocktailParty.deps.json
+C:\Users\BO\Desktop\C# Advanced\Exams\Exam 14 April 2021\Skeleton\bin\Debug\netcoreapp3.1\CocktailParty.runtimeconfig.json
+C:\Users\BO\Desktop\C# Advanced\Exams\Exam 14 April 2021\Skeleton\bin\Debug\netcoreapp3.1\CocktailParty.runtimeconfig.dev.json
+C:\Users\BO\Desktop\C# Advanced\Exams\Exam 14 April 2021\Skeleton\bin\Debug\netcoreapp3.1\CocktailParty.dll
+C:\Users\BO\Desktop\C# Advanced\Exams\Exam 14 April 2021\Skeleton\bin\Debug\netcoreapp3.1\CocktailParty.pdb
+C:\Users\BO\Desktop\C# Advanced\Exams\Exam 14 April 2021\Skeleton\obj\Debug\netcoreapp3.1\CocktailParty.csproj.AssemblyReference.cache
+C:\Users\BO\Desktop\C# Advanced\Exams\Exam 14 April 2021\Skeleton\obj\Debug\netcoreapp3.1\CocktailParty.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BO\Desktop\C# Advanced\Exams\Exam 14 April 2021\Skeleton\obj\Debug\netcoreapp3.1\CocktailParty.AssemblyInfoInputs.cache
+C:\Users\BO\Desktop\C# Advanced\Exams\Exam 14 April 2021\Skeleton\obj\Debug\netcoreapp3.1\CocktailParty.AssemblyInfo.cs
+C:\Users\BO\Desktop\C# Advanced\Exams\Exam 14 April 2021\Skeleton\obj\Debug\netcoreapp3.1\CocktailParty.csproj.CoreCompileInputs.cache
+C:\Users\BO\Desktop\C# Advanced\Exams\Exam 14 April 2021\Skeleton\obj\Debug\netcoreapp3.1\CocktailParty.dll
+C:\Users\BO\Desktop\C# Advanced\Exams\Exam 14 April 2021\Skeleton\obj\Debug\netcoreapp3.1\CocktailParty.pdb
+C:\Users\BO\Desktop\C# Advanced\Exams\Exam 14 April 2021\Skeleton\obj\Debug\netcoreapp3.1\CocktailParty.genruntimeconfig.cache

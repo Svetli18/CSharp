@@ -1,0 +1,15 @@
+C:\Users\BO\Desktop\C# Advanced\CSharp Advanced Exercises Defining Classes Lab\05. Special Cars\bin\Debug\net6.0\05. Special Cars.exe
+C:\Users\BO\Desktop\C# Advanced\CSharp Advanced Exercises Defining Classes Lab\05. Special Cars\bin\Debug\net6.0\05. Special Cars.deps.json
+C:\Users\BO\Desktop\C# Advanced\CSharp Advanced Exercises Defining Classes Lab\05. Special Cars\bin\Debug\net6.0\05. Special Cars.runtimeconfig.json
+C:\Users\BO\Desktop\C# Advanced\CSharp Advanced Exercises Defining Classes Lab\05. Special Cars\bin\Debug\net6.0\05. Special Cars.dll
+C:\Users\BO\Desktop\C# Advanced\CSharp Advanced Exercises Defining Classes Lab\05. Special Cars\bin\Debug\net6.0\05. Special Cars.pdb
+C:\Users\BO\Desktop\C# Advanced\CSharp Advanced Exercises Defining Classes Lab\05. Special Cars\obj\Debug\net6.0\05. Special Cars.csproj.AssemblyReference.cache
+C:\Users\BO\Desktop\C# Advanced\CSharp Advanced Exercises Defining Classes Lab\05. Special Cars\obj\Debug\net6.0\05. Special Cars.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BO\Desktop\C# Advanced\CSharp Advanced Exercises Defining Classes Lab\05. Special Cars\obj\Debug\net6.0\05. Special Cars.AssemblyInfoInputs.cache
+C:\Users\BO\Desktop\C# Advanced\CSharp Advanced Exercises Defining Classes Lab\05. Special Cars\obj\Debug\net6.0\05. Special Cars.AssemblyInfo.cs
+C:\Users\BO\Desktop\C# Advanced\CSharp Advanced Exercises Defining Classes Lab\05. Special Cars\obj\Debug\net6.0\05. Special Cars.csproj.CoreCompileInputs.cache
+C:\Users\BO\Desktop\C# Advanced\CSharp Advanced Exercises Defining Classes Lab\05. Special Cars\obj\Debug\net6.0\05. Special Cars.dll
+C:\Users\BO\Desktop\C# Advanced\CSharp Advanced Exercises Defining Classes Lab\05. Special Cars\obj\Debug\net6.0\refint\05. Special Cars.dll
+C:\Users\BO\Desktop\C# Advanced\CSharp Advanced Exercises Defining Classes Lab\05. Special Cars\obj\Debug\net6.0\05. Special Cars.pdb
+C:\Users\BO\Desktop\C# Advanced\CSharp Advanced Exercises Defining Classes Lab\05. Special Cars\obj\Debug\net6.0\05. Special Cars.genruntimeconfig.cache
+C:\Users\BO\Desktop\C# Advanced\CSharp Advanced Exercises Defining Classes Lab\05. Special Cars\obj\Debug\net6.0\ref\05. Special Cars.dll

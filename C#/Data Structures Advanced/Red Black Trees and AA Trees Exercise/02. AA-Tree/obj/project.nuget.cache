@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "uTRL9E6ovQYmkyEXIQ4sx2FBXpngfpxHBJaCJ1CXhq1OSBZbHf7sc/jtIvR33z+uroD4ASsH8yrha3O0BMAcfQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\BO\\Desktop\\Data Structures Advanced\\Red Black Trees and AA Trees Exercise\\02. AA-Tree\\02. AA-Tree.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\BO\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\BO\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,13 @@
+C:\Users\BO\Desktop\C# Advanced\Defining Classes Lab Visual Studio\Defining Classes Lab Visual Studio\bin\Debug\netcoreapp3.1\Test.exe
+C:\Users\BO\Desktop\C# Advanced\Defining Classes Lab Visual Studio\Defining Classes Lab Visual Studio\bin\Debug\netcoreapp3.1\Test.deps.json
+C:\Users\BO\Desktop\C# Advanced\Defining Classes Lab Visual Studio\Defining Classes Lab Visual Studio\bin\Debug\netcoreapp3.1\Test.runtimeconfig.json
+C:\Users\BO\Desktop\C# Advanced\Defining Classes Lab Visual Studio\Defining Classes Lab Visual Studio\bin\Debug\netcoreapp3.1\Test.runtimeconfig.dev.json
+C:\Users\BO\Desktop\C# Advanced\Defining Classes Lab Visual Studio\Defining Classes Lab Visual Studio\bin\Debug\netcoreapp3.1\Test.dll
+C:\Users\BO\Desktop\C# Advanced\Defining Classes Lab Visual Studio\Defining Classes Lab Visual Studio\bin\Debug\netcoreapp3.1\Test.pdb
+C:\Users\BO\Desktop\C# Advanced\Defining Classes Lab Visual Studio\Defining Classes Lab Visual Studio\obj\Debug\netcoreapp3.1\Test.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BO\Desktop\C# Advanced\Defining Classes Lab Visual Studio\Defining Classes Lab Visual Studio\obj\Debug\netcoreapp3.1\Test.AssemblyInfoInputs.cache
+C:\Users\BO\Desktop\C# Advanced\Defining Classes Lab Visual Studio\Defining Classes Lab Visual Studio\obj\Debug\netcoreapp3.1\Test.AssemblyInfo.cs
+C:\Users\BO\Desktop\C# Advanced\Defining Classes Lab Visual Studio\Defining Classes Lab Visual Studio\obj\Debug\netcoreapp3.1\Test.csproj.CoreCompileInputs.cache
+C:\Users\BO\Desktop\C# Advanced\Defining Classes Lab Visual Studio\Defining Classes Lab Visual Studio\obj\Debug\netcoreapp3.1\Test.dll
+C:\Users\BO\Desktop\C# Advanced\Defining Classes Lab Visual Studio\Defining Classes Lab Visual Studio\obj\Debug\netcoreapp3.1\Test.pdb
+C:\Users\BO\Desktop\C# Advanced\Defining Classes Lab Visual Studio\Defining Classes Lab Visual Studio\obj\Debug\netcoreapp3.1\Test.genruntimeconfig.cache

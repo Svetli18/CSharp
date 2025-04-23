@@ -1,0 +1,14 @@
+C:\Users\BO\Desktop\C# Advanced\Exams\Exam 25 October 2020\Exam 25 October 2020\Classroom\bin\Debug\netcoreapp3.1\ClassroomProject.exe
+C:\Users\BO\Desktop\C# Advanced\Exams\Exam 25 October 2020\Exam 25 October 2020\Classroom\bin\Debug\netcoreapp3.1\ClassroomProject.deps.json
+C:\Users\BO\Desktop\C# Advanced\Exams\Exam 25 October 2020\Exam 25 October 2020\Classroom\bin\Debug\netcoreapp3.1\ClassroomProject.runtimeconfig.json
+C:\Users\BO\Desktop\C# Advanced\Exams\Exam 25 October 2020\Exam 25 October 2020\Classroom\bin\Debug\netcoreapp3.1\ClassroomProject.runtimeconfig.dev.json
+C:\Users\BO\Desktop\C# Advanced\Exams\Exam 25 October 2020\Exam 25 October 2020\Classroom\bin\Debug\netcoreapp3.1\ClassroomProject.dll
+C:\Users\BO\Desktop\C# Advanced\Exams\Exam 25 October 2020\Exam 25 October 2020\Classroom\bin\Debug\netcoreapp3.1\ClassroomProject.pdb
+C:\Users\BO\Desktop\C# Advanced\Exams\Exam 25 October 2020\Exam 25 October 2020\Classroom\obj\Debug\netcoreapp3.1\ClassroomProject.csproj.AssemblyReference.cache
+C:\Users\BO\Desktop\C# Advanced\Exams\Exam 25 October 2020\Exam 25 October 2020\Classroom\obj\Debug\netcoreapp3.1\ClassroomProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BO\Desktop\C# Advanced\Exams\Exam 25 October 2020\Exam 25 October 2020\Classroom\obj\Debug\netcoreapp3.1\ClassroomProject.AssemblyInfoInputs.cache
+C:\Users\BO\Desktop\C# Advanced\Exams\Exam 25 October 2020\Exam 25 October 2020\Classroom\obj\Debug\netcoreapp3.1\ClassroomProject.AssemblyInfo.cs
+C:\Users\BO\Desktop\C# Advanced\Exams\Exam 25 October 2020\Exam 25 October 2020\Classroom\obj\Debug\netcoreapp3.1\ClassroomProject.csproj.CoreCompileInputs.cache
+C:\Users\BO\Desktop\C# Advanced\Exams\Exam 25 October 2020\Exam 25 October 2020\Classroom\obj\Debug\netcoreapp3.1\ClassroomProject.dll
+C:\Users\BO\Desktop\C# Advanced\Exams\Exam 25 October 2020\Exam 25 October 2020\Classroom\obj\Debug\netcoreapp3.1\ClassroomProject.pdb
+C:\Users\BO\Desktop\C# Advanced\Exams\Exam 25 October 2020\Exam 25 October 2020\Classroom\obj\Debug\netcoreapp3.1\ClassroomProject.genruntimeconfig.cache

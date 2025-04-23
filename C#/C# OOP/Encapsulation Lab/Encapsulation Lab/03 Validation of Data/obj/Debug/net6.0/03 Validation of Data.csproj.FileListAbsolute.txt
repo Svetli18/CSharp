@@ -1,0 +1,14 @@
+C:\Users\BO\Desktop\C# OOP\Encapsulation Lab\Encapsulation Lab\03 Validation of Data\bin\Debug\net6.0\03 Validation of Data.exe
+C:\Users\BO\Desktop\C# OOP\Encapsulation Lab\Encapsulation Lab\03 Validation of Data\bin\Debug\net6.0\03 Validation of Data.deps.json
+C:\Users\BO\Desktop\C# OOP\Encapsulation Lab\Encapsulation Lab\03 Validation of Data\bin\Debug\net6.0\03 Validation of Data.runtimeconfig.json
+C:\Users\BO\Desktop\C# OOP\Encapsulation Lab\Encapsulation Lab\03 Validation of Data\bin\Debug\net6.0\03 Validation of Data.dll
+C:\Users\BO\Desktop\C# OOP\Encapsulation Lab\Encapsulation Lab\03 Validation of Data\bin\Debug\net6.0\03 Validation of Data.pdb
+C:\Users\BO\Desktop\C# OOP\Encapsulation Lab\Encapsulation Lab\03 Validation of Data\obj\Debug\net6.0\03 Validation of Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BO\Desktop\C# OOP\Encapsulation Lab\Encapsulation Lab\03 Validation of Data\obj\Debug\net6.0\03 Validation of Data.AssemblyInfoInputs.cache
+C:\Users\BO\Desktop\C# OOP\Encapsulation Lab\Encapsulation Lab\03 Validation of Data\obj\Debug\net6.0\03 Validation of Data.AssemblyInfo.cs
+C:\Users\BO\Desktop\C# OOP\Encapsulation Lab\Encapsulation Lab\03 Validation of Data\obj\Debug\net6.0\03 Validation of Data.csproj.CoreCompileInputs.cache
+C:\Users\BO\Desktop\C# OOP\Encapsulation Lab\Encapsulation Lab\03 Validation of Data\obj\Debug\net6.0\03 Validation of Data.dll
+C:\Users\BO\Desktop\C# OOP\Encapsulation Lab\Encapsulation Lab\03 Validation of Data\obj\Debug\net6.0\refint\03 Validation of Data.dll
+C:\Users\BO\Desktop\C# OOP\Encapsulation Lab\Encapsulation Lab\03 Validation of Data\obj\Debug\net6.0\03 Validation of Data.pdb
+C:\Users\BO\Desktop\C# OOP\Encapsulation Lab\Encapsulation Lab\03 Validation of Data\obj\Debug\net6.0\03 Validation of Data.genruntimeconfig.cache
+C:\Users\BO\Desktop\C# OOP\Encapsulation Lab\Encapsulation Lab\03 Validation of Data\obj\Debug\net6.0\ref\03 Validation of Data.dll

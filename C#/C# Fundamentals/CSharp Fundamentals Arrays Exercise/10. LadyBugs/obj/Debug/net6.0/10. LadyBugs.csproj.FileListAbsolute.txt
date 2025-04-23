@@ -1,0 +1,15 @@
+C:\Users\BO\Desktop\C# Fundamentals\CSharp Fundamentals Arrays Exercise\10. LadyBugs\bin\Debug\net6.0\10. LadyBugs.exe
+C:\Users\BO\Desktop\C# Fundamentals\CSharp Fundamentals Arrays Exercise\10. LadyBugs\bin\Debug\net6.0\10. LadyBugs.deps.json
+C:\Users\BO\Desktop\C# Fundamentals\CSharp Fundamentals Arrays Exercise\10. LadyBugs\bin\Debug\net6.0\10. LadyBugs.runtimeconfig.json
+C:\Users\BO\Desktop\C# Fundamentals\CSharp Fundamentals Arrays Exercise\10. LadyBugs\bin\Debug\net6.0\10. LadyBugs.dll
+C:\Users\BO\Desktop\C# Fundamentals\CSharp Fundamentals Arrays Exercise\10. LadyBugs\bin\Debug\net6.0\10. LadyBugs.pdb
+C:\Users\BO\Desktop\C# Fundamentals\CSharp Fundamentals Arrays Exercise\10. LadyBugs\obj\Debug\net6.0\10. LadyBugs.csproj.AssemblyReference.cache
+C:\Users\BO\Desktop\C# Fundamentals\CSharp Fundamentals Arrays Exercise\10. LadyBugs\obj\Debug\net6.0\10. LadyBugs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BO\Desktop\C# Fundamentals\CSharp Fundamentals Arrays Exercise\10. LadyBugs\obj\Debug\net6.0\10. LadyBugs.AssemblyInfoInputs.cache
+C:\Users\BO\Desktop\C# Fundamentals\CSharp Fundamentals Arrays Exercise\10. LadyBugs\obj\Debug\net6.0\10. LadyBugs.AssemblyInfo.cs
+C:\Users\BO\Desktop\C# Fundamentals\CSharp Fundamentals Arrays Exercise\10. LadyBugs\obj\Debug\net6.0\10. LadyBugs.csproj.CoreCompileInputs.cache
+C:\Users\BO\Desktop\C# Fundamentals\CSharp Fundamentals Arrays Exercise\10. LadyBugs\obj\Debug\net6.0\10. LadyBugs.dll
+C:\Users\BO\Desktop\C# Fundamentals\CSharp Fundamentals Arrays Exercise\10. LadyBugs\obj\Debug\net6.0\refint\10. LadyBugs.dll
+C:\Users\BO\Desktop\C# Fundamentals\CSharp Fundamentals Arrays Exercise\10. LadyBugs\obj\Debug\net6.0\10. LadyBugs.pdb
+C:\Users\BO\Desktop\C# Fundamentals\CSharp Fundamentals Arrays Exercise\10. LadyBugs\obj\Debug\net6.0\10. LadyBugs.genruntimeconfig.cache
+C:\Users\BO\Desktop\C# Fundamentals\CSharp Fundamentals Arrays Exercise\10. LadyBugs\obj\Debug\net6.0\ref\10. LadyBugs.dll

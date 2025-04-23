@@ -1,0 +1,13 @@
+C:\Users\BO\Desktop\Data Structures Fundamentals\Exam\Retake Exam - 14 October 2023\Skeleton2\Skeleton\GitHubSystem\obj\Debug\netcoreapp3.1\GitHubSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BO\Desktop\Data Structures Fundamentals\Exam\Retake Exam - 14 October 2023\Skeleton2\Skeleton\GitHubSystem\obj\Debug\netcoreapp3.1\GitHubSystem.AssemblyInfoInputs.cache
+C:\Users\BO\Desktop\Data Structures Fundamentals\Exam\Retake Exam - 14 October 2023\Skeleton2\Skeleton\GitHubSystem\obj\Debug\netcoreapp3.1\GitHubSystem.AssemblyInfo.cs
+C:\Users\BO\Desktop\Data Structures Fundamentals\Exam\Retake Exam - 14 October 2023\Skeleton2\Skeleton\GitHubSystem\obj\Debug\netcoreapp3.1\GitHubSystem.csproj.CoreCompileInputs.cache
+C:\Users\BO\Desktop\Data Structures Fundamentals\Exam\Retake Exam - 14 October 2023\Skeleton2\Skeleton\GitHubSystem\bin\Debug\netcoreapp3.1\GitHubSystem.exe
+C:\Users\BO\Desktop\Data Structures Fundamentals\Exam\Retake Exam - 14 October 2023\Skeleton2\Skeleton\GitHubSystem\bin\Debug\netcoreapp3.1\GitHubSystem.deps.json
+C:\Users\BO\Desktop\Data Structures Fundamentals\Exam\Retake Exam - 14 October 2023\Skeleton2\Skeleton\GitHubSystem\bin\Debug\netcoreapp3.1\GitHubSystem.runtimeconfig.json
+C:\Users\BO\Desktop\Data Structures Fundamentals\Exam\Retake Exam - 14 October 2023\Skeleton2\Skeleton\GitHubSystem\bin\Debug\netcoreapp3.1\GitHubSystem.runtimeconfig.dev.json
+C:\Users\BO\Desktop\Data Structures Fundamentals\Exam\Retake Exam - 14 October 2023\Skeleton2\Skeleton\GitHubSystem\bin\Debug\netcoreapp3.1\GitHubSystem.dll
+C:\Users\BO\Desktop\Data Structures Fundamentals\Exam\Retake Exam - 14 October 2023\Skeleton2\Skeleton\GitHubSystem\bin\Debug\netcoreapp3.1\GitHubSystem.pdb
+C:\Users\BO\Desktop\Data Structures Fundamentals\Exam\Retake Exam - 14 October 2023\Skeleton2\Skeleton\GitHubSystem\obj\Debug\netcoreapp3.1\GitHubSystem.dll
+C:\Users\BO\Desktop\Data Structures Fundamentals\Exam\Retake Exam - 14 October 2023\Skeleton2\Skeleton\GitHubSystem\obj\Debug\netcoreapp3.1\GitHubSystem.pdb
+C:\Users\BO\Desktop\Data Structures Fundamentals\Exam\Retake Exam - 14 October 2023\Skeleton2\Skeleton\GitHubSystem\obj\Debug\netcoreapp3.1\GitHubSystem.genruntimeconfig.cache

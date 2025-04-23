@@ -1,0 +1,15 @@
+C:\Users\BO\Desktop\C# Fundamentals\Fundamentals Mid Exams\03. 3Heart Delivery Array\bin\Debug\net6.0\03. 3Heart Delivery Array.exe
+C:\Users\BO\Desktop\C# Fundamentals\Fundamentals Mid Exams\03. 3Heart Delivery Array\bin\Debug\net6.0\03. 3Heart Delivery Array.deps.json
+C:\Users\BO\Desktop\C# Fundamentals\Fundamentals Mid Exams\03. 3Heart Delivery Array\bin\Debug\net6.0\03. 3Heart Delivery Array.runtimeconfig.json
+C:\Users\BO\Desktop\C# Fundamentals\Fundamentals Mid Exams\03. 3Heart Delivery Array\bin\Debug\net6.0\03. 3Heart Delivery Array.dll
+C:\Users\BO\Desktop\C# Fundamentals\Fundamentals Mid Exams\03. 3Heart Delivery Array\bin\Debug\net6.0\03. 3Heart Delivery Array.pdb
+C:\Users\BO\Desktop\C# Fundamentals\Fundamentals Mid Exams\03. 3Heart Delivery Array\obj\Debug\net6.0\03. 3Heart Delivery Array.csproj.AssemblyReference.cache
+C:\Users\BO\Desktop\C# Fundamentals\Fundamentals Mid Exams\03. 3Heart Delivery Array\obj\Debug\net6.0\03. 3Heart Delivery Array.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BO\Desktop\C# Fundamentals\Fundamentals Mid Exams\03. 3Heart Delivery Array\obj\Debug\net6.0\03. 3Heart Delivery Array.AssemblyInfoInputs.cache
+C:\Users\BO\Desktop\C# Fundamentals\Fundamentals Mid Exams\03. 3Heart Delivery Array\obj\Debug\net6.0\03. 3Heart Delivery Array.AssemblyInfo.cs
+C:\Users\BO\Desktop\C# Fundamentals\Fundamentals Mid Exams\03. 3Heart Delivery Array\obj\Debug\net6.0\03. 3Heart Delivery Array.csproj.CoreCompileInputs.cache
+C:\Users\BO\Desktop\C# Fundamentals\Fundamentals Mid Exams\03. 3Heart Delivery Array\obj\Debug\net6.0\03. 3Heart Delivery Array.dll
+C:\Users\BO\Desktop\C# Fundamentals\Fundamentals Mid Exams\03. 3Heart Delivery Array\obj\Debug\net6.0\refint\03. 3Heart Delivery Array.dll
+C:\Users\BO\Desktop\C# Fundamentals\Fundamentals Mid Exams\03. 3Heart Delivery Array\obj\Debug\net6.0\03. 3Heart Delivery Array.pdb
+C:\Users\BO\Desktop\C# Fundamentals\Fundamentals Mid Exams\03. 3Heart Delivery Array\obj\Debug\net6.0\03. 3Heart Delivery Array.genruntimeconfig.cache
+C:\Users\BO\Desktop\C# Fundamentals\Fundamentals Mid Exams\03. 3Heart Delivery Array\obj\Debug\net6.0\ref\03. 3Heart Delivery Array.dll

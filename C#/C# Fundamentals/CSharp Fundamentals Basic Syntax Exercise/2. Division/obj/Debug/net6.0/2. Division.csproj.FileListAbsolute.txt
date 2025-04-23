@@ -1,0 +1,15 @@
+C:\Users\BO\Desktop\C# Fundamentals\CSharp Fundamentals Basic Syntax Exercise\2. Division\bin\Debug\net6.0\2. Division.exe
+C:\Users\BO\Desktop\C# Fundamentals\CSharp Fundamentals Basic Syntax Exercise\2. Division\bin\Debug\net6.0\2. Division.deps.json
+C:\Users\BO\Desktop\C# Fundamentals\CSharp Fundamentals Basic Syntax Exercise\2. Division\bin\Debug\net6.0\2. Division.runtimeconfig.json
+C:\Users\BO\Desktop\C# Fundamentals\CSharp Fundamentals Basic Syntax Exercise\2. Division\bin\Debug\net6.0\2. Division.dll
+C:\Users\BO\Desktop\C# Fundamentals\CSharp Fundamentals Basic Syntax Exercise\2. Division\bin\Debug\net6.0\2. Division.pdb
+C:\Users\BO\Desktop\C# Fundamentals\CSharp Fundamentals Basic Syntax Exercise\2. Division\obj\Debug\net6.0\2. Division.csproj.AssemblyReference.cache
+C:\Users\BO\Desktop\C# Fundamentals\CSharp Fundamentals Basic Syntax Exercise\2. Division\obj\Debug\net6.0\2. Division.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BO\Desktop\C# Fundamentals\CSharp Fundamentals Basic Syntax Exercise\2. Division\obj\Debug\net6.0\2. Division.AssemblyInfoInputs.cache
+C:\Users\BO\Desktop\C# Fundamentals\CSharp Fundamentals Basic Syntax Exercise\2. Division\obj\Debug\net6.0\2. Division.AssemblyInfo.cs
+C:\Users\BO\Desktop\C# Fundamentals\CSharp Fundamentals Basic Syntax Exercise\2. Division\obj\Debug\net6.0\2. Division.csproj.CoreCompileInputs.cache
+C:\Users\BO\Desktop\C# Fundamentals\CSharp Fundamentals Basic Syntax Exercise\2. Division\obj\Debug\net6.0\2. Division.dll
+C:\Users\BO\Desktop\C# Fundamentals\CSharp Fundamentals Basic Syntax Exercise\2. Division\obj\Debug\net6.0\refint\2. Division.dll
+C:\Users\BO\Desktop\C# Fundamentals\CSharp Fundamentals Basic Syntax Exercise\2. Division\obj\Debug\net6.0\2. Division.pdb
+C:\Users\BO\Desktop\C# Fundamentals\CSharp Fundamentals Basic Syntax Exercise\2. Division\obj\Debug\net6.0\2. Division.genruntimeconfig.cache
+C:\Users\BO\Desktop\C# Fundamentals\CSharp Fundamentals Basic Syntax Exercise\2. Division\obj\Debug\net6.0\ref\2. Division.dll

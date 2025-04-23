@@ -1,0 +1,15 @@
+C:\Users\BO\Desktop\C# Advanced\CSharp Advanced Exercises Stacks and Queues Lab\5. Print Even Numbers\bin\Debug\net6.0\05. Print Even Numbers.exe
+C:\Users\BO\Desktop\C# Advanced\CSharp Advanced Exercises Stacks and Queues Lab\5. Print Even Numbers\bin\Debug\net6.0\05. Print Even Numbers.deps.json
+C:\Users\BO\Desktop\C# Advanced\CSharp Advanced Exercises Stacks and Queues Lab\5. Print Even Numbers\bin\Debug\net6.0\05. Print Even Numbers.runtimeconfig.json
+C:\Users\BO\Desktop\C# Advanced\CSharp Advanced Exercises Stacks and Queues Lab\5. Print Even Numbers\bin\Debug\net6.0\05. Print Even Numbers.dll
+C:\Users\BO\Desktop\C# Advanced\CSharp Advanced Exercises Stacks and Queues Lab\5. Print Even Numbers\bin\Debug\net6.0\05. Print Even Numbers.pdb
+C:\Users\BO\Desktop\C# Advanced\CSharp Advanced Exercises Stacks and Queues Lab\5. Print Even Numbers\obj\Debug\net6.0\05. Print Even Numbers.csproj.AssemblyReference.cache
+C:\Users\BO\Desktop\C# Advanced\CSharp Advanced Exercises Stacks and Queues Lab\5. Print Even Numbers\obj\Debug\net6.0\05. Print Even Numbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BO\Desktop\C# Advanced\CSharp Advanced Exercises Stacks and Queues Lab\5. Print Even Numbers\obj\Debug\net6.0\05. Print Even Numbers.AssemblyInfoInputs.cache
+C:\Users\BO\Desktop\C# Advanced\CSharp Advanced Exercises Stacks and Queues Lab\5. Print Even Numbers\obj\Debug\net6.0\05. Print Even Numbers.AssemblyInfo.cs
+C:\Users\BO\Desktop\C# Advanced\CSharp Advanced Exercises Stacks and Queues Lab\5. Print Even Numbers\obj\Debug\net6.0\05. Print Even Numbers.csproj.CoreCompileInputs.cache
+C:\Users\BO\Desktop\C# Advanced\CSharp Advanced Exercises Stacks and Queues Lab\5. Print Even Numbers\obj\Debug\net6.0\05. Print Even Numbers.dll
+C:\Users\BO\Desktop\C# Advanced\CSharp Advanced Exercises Stacks and Queues Lab\5. Print Even Numbers\obj\Debug\net6.0\refint\05. Print Even Numbers.dll
+C:\Users\BO\Desktop\C# Advanced\CSharp Advanced Exercises Stacks and Queues Lab\5. Print Even Numbers\obj\Debug\net6.0\05. Print Even Numbers.pdb
+C:\Users\BO\Desktop\C# Advanced\CSharp Advanced Exercises Stacks and Queues Lab\5. Print Even Numbers\obj\Debug\net6.0\05. Print Even Numbers.genruntimeconfig.cache
+C:\Users\BO\Desktop\C# Advanced\CSharp Advanced Exercises Stacks and Queues Lab\5. Print Even Numbers\obj\Debug\net6.0\ref\05. Print Even Numbers.dll

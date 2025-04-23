@@ -1,0 +1,14 @@
+C:\Users\BO\Desktop\C# Advanced\Stacks and Queues Lab\TestRecursion\bin\Debug\netcoreapp3.1\TestRecursion.exe
+C:\Users\BO\Desktop\C# Advanced\Stacks and Queues Lab\TestRecursion\bin\Debug\netcoreapp3.1\TestRecursion.deps.json
+C:\Users\BO\Desktop\C# Advanced\Stacks and Queues Lab\TestRecursion\bin\Debug\netcoreapp3.1\TestRecursion.runtimeconfig.json
+C:\Users\BO\Desktop\C# Advanced\Stacks and Queues Lab\TestRecursion\bin\Debug\netcoreapp3.1\TestRecursion.runtimeconfig.dev.json
+C:\Users\BO\Desktop\C# Advanced\Stacks and Queues Lab\TestRecursion\bin\Debug\netcoreapp3.1\TestRecursion.dll
+C:\Users\BO\Desktop\C# Advanced\Stacks and Queues Lab\TestRecursion\bin\Debug\netcoreapp3.1\TestRecursion.pdb
+C:\Users\BO\Desktop\C# Advanced\Stacks and Queues Lab\TestRecursion\obj\Debug\netcoreapp3.1\TestRecursion.csproj.AssemblyReference.cache
+C:\Users\BO\Desktop\C# Advanced\Stacks and Queues Lab\TestRecursion\obj\Debug\netcoreapp3.1\TestRecursion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BO\Desktop\C# Advanced\Stacks and Queues Lab\TestRecursion\obj\Debug\netcoreapp3.1\TestRecursion.AssemblyInfoInputs.cache
+C:\Users\BO\Desktop\C# Advanced\Stacks and Queues Lab\TestRecursion\obj\Debug\netcoreapp3.1\TestRecursion.AssemblyInfo.cs
+C:\Users\BO\Desktop\C# Advanced\Stacks and Queues Lab\TestRecursion\obj\Debug\netcoreapp3.1\TestRecursion.csproj.CoreCompileInputs.cache
+C:\Users\BO\Desktop\C# Advanced\Stacks and Queues Lab\TestRecursion\obj\Debug\netcoreapp3.1\TestRecursion.dll
+C:\Users\BO\Desktop\C# Advanced\Stacks and Queues Lab\TestRecursion\obj\Debug\netcoreapp3.1\TestRecursion.pdb
+C:\Users\BO\Desktop\C# Advanced\Stacks and Queues Lab\TestRecursion\obj\Debug\netcoreapp3.1\TestRecursion.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+C:\Users\BO\Desktop\C# Fundamentals\CSharp Fundamentals Text Processing Exercise\CSharp Fundamentals Text Processing Exercise\bin\Debug\net6.0\CSharp Fundamentals Text Processing Exercise.exe
+C:\Users\BO\Desktop\C# Fundamentals\CSharp Fundamentals Text Processing Exercise\CSharp Fundamentals Text Processing Exercise\bin\Debug\net6.0\CSharp Fundamentals Text Processing Exercise.deps.json
+C:\Users\BO\Desktop\C# Fundamentals\CSharp Fundamentals Text Processing Exercise\CSharp Fundamentals Text Processing Exercise\bin\Debug\net6.0\CSharp Fundamentals Text Processing Exercise.runtimeconfig.json
+C:\Users\BO\Desktop\C# Fundamentals\CSharp Fundamentals Text Processing Exercise\CSharp Fundamentals Text Processing Exercise\bin\Debug\net6.0\CSharp Fundamentals Text Processing Exercise.dll
+C:\Users\BO\Desktop\C# Fundamentals\CSharp Fundamentals Text Processing Exercise\CSharp Fundamentals Text Processing Exercise\bin\Debug\net6.0\CSharp Fundamentals Text Processing Exercise.pdb
+C:\Users\BO\Desktop\C# Fundamentals\CSharp Fundamentals Text Processing Exercise\CSharp Fundamentals Text Processing Exercise\obj\Debug\net6.0\CSharp Fundamentals Text Processing Exercise.csproj.AssemblyReference.cache
+C:\Users\BO\Desktop\C# Fundamentals\CSharp Fundamentals Text Processing Exercise\CSharp Fundamentals Text Processing Exercise\obj\Debug\net6.0\CSharp Fundamentals Text Processing Exercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BO\Desktop\C# Fundamentals\CSharp Fundamentals Text Processing Exercise\CSharp Fundamentals Text Processing Exercise\obj\Debug\net6.0\CSharp Fundamentals Text Processing Exercise.AssemblyInfoInputs.cache
+C:\Users\BO\Desktop\C# Fundamentals\CSharp Fundamentals Text Processing Exercise\CSharp Fundamentals Text Processing Exercise\obj\Debug\net6.0\CSharp Fundamentals Text Processing Exercise.AssemblyInfo.cs
+C:\Users\BO\Desktop\C# Fundamentals\CSharp Fundamentals Text Processing Exercise\CSharp Fundamentals Text Processing Exercise\obj\Debug\net6.0\CSharp Fundamentals Text Processing Exercise.csproj.CoreCompileInputs.cache
+C:\Users\BO\Desktop\C# Fundamentals\CSharp Fundamentals Text Processing Exercise\CSharp Fundamentals Text Processing Exercise\obj\Debug\net6.0\CSharp Fundamentals Text Processing Exercise.dll
+C:\Users\BO\Desktop\C# Fundamentals\CSharp Fundamentals Text Processing Exercise\CSharp Fundamentals Text Processing Exercise\obj\Debug\net6.0\refint\CSharp Fundamentals Text Processing Exercise.dll
+C:\Users\BO\Desktop\C# Fundamentals\CSharp Fundamentals Text Processing Exercise\CSharp Fundamentals Text Processing Exercise\obj\Debug\net6.0\CSharp Fundamentals Text Processing Exercise.pdb
+C:\Users\BO\Desktop\C# Fundamentals\CSharp Fundamentals Text Processing Exercise\CSharp Fundamentals Text Processing Exercise\obj\Debug\net6.0\CSharp Fundamentals Text Processing Exercise.genruntimeconfig.cache
+C:\Users\BO\Desktop\C# Fundamentals\CSharp Fundamentals Text Processing Exercise\CSharp Fundamentals Text Processing Exercise\obj\Debug\net6.0\ref\CSharp Fundamentals Text Processing Exercise.dll

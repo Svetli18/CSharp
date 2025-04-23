@@ -1,0 +1,15 @@
+C:\Users\BO\Desktop\C# Fundamentals\Fundamentals Final Exams\03 Programming Fundamentals Final Exam Retake\02. Mirror Words\bin\Debug\net6.0\02. Mirror Words.exe
+C:\Users\BO\Desktop\C# Fundamentals\Fundamentals Final Exams\03 Programming Fundamentals Final Exam Retake\02. Mirror Words\bin\Debug\net6.0\02. Mirror Words.deps.json
+C:\Users\BO\Desktop\C# Fundamentals\Fundamentals Final Exams\03 Programming Fundamentals Final Exam Retake\02. Mirror Words\bin\Debug\net6.0\02. Mirror Words.runtimeconfig.json
+C:\Users\BO\Desktop\C# Fundamentals\Fundamentals Final Exams\03 Programming Fundamentals Final Exam Retake\02. Mirror Words\bin\Debug\net6.0\02. Mirror Words.dll
+C:\Users\BO\Desktop\C# Fundamentals\Fundamentals Final Exams\03 Programming Fundamentals Final Exam Retake\02. Mirror Words\bin\Debug\net6.0\02. Mirror Words.pdb
+C:\Users\BO\Desktop\C# Fundamentals\Fundamentals Final Exams\03 Programming Fundamentals Final Exam Retake\02. Mirror Words\obj\Debug\net6.0\02. Mirror Words.csproj.AssemblyReference.cache
+C:\Users\BO\Desktop\C# Fundamentals\Fundamentals Final Exams\03 Programming Fundamentals Final Exam Retake\02. Mirror Words\obj\Debug\net6.0\02. Mirror Words.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BO\Desktop\C# Fundamentals\Fundamentals Final Exams\03 Programming Fundamentals Final Exam Retake\02. Mirror Words\obj\Debug\net6.0\02. Mirror Words.AssemblyInfoInputs.cache
+C:\Users\BO\Desktop\C# Fundamentals\Fundamentals Final Exams\03 Programming Fundamentals Final Exam Retake\02. Mirror Words\obj\Debug\net6.0\02. Mirror Words.AssemblyInfo.cs
+C:\Users\BO\Desktop\C# Fundamentals\Fundamentals Final Exams\03 Programming Fundamentals Final Exam Retake\02. Mirror Words\obj\Debug\net6.0\02. Mirror Words.csproj.CoreCompileInputs.cache
+C:\Users\BO\Desktop\C# Fundamentals\Fundamentals Final Exams\03 Programming Fundamentals Final Exam Retake\02. Mirror Words\obj\Debug\net6.0\02. Mirror Words.dll
+C:\Users\BO\Desktop\C# Fundamentals\Fundamentals Final Exams\03 Programming Fundamentals Final Exam Retake\02. Mirror Words\obj\Debug\net6.0\refint\02. Mirror Words.dll
+C:\Users\BO\Desktop\C# Fundamentals\Fundamentals Final Exams\03 Programming Fundamentals Final Exam Retake\02. Mirror Words\obj\Debug\net6.0\02. Mirror Words.pdb
+C:\Users\BO\Desktop\C# Fundamentals\Fundamentals Final Exams\03 Programming Fundamentals Final Exam Retake\02. Mirror Words\obj\Debug\net6.0\02. Mirror Words.genruntimeconfig.cache
+C:\Users\BO\Desktop\C# Fundamentals\Fundamentals Final Exams\03 Programming Fundamentals Final Exam Retake\02. Mirror Words\obj\Debug\net6.0\ref\02. Mirror Words.dll

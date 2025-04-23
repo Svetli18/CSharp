@@ -1,0 +1,14 @@
+C:\Users\BO\Desktop\C# OOP\Interfaces and Abstraction Exercise\Interface IPerson\bin\Debug\net6.0\Interface IPerson.exe
+C:\Users\BO\Desktop\C# OOP\Interfaces and Abstraction Exercise\Interface IPerson\bin\Debug\net6.0\Interface IPerson.deps.json
+C:\Users\BO\Desktop\C# OOP\Interfaces and Abstraction Exercise\Interface IPerson\bin\Debug\net6.0\Interface IPerson.runtimeconfig.json
+C:\Users\BO\Desktop\C# OOP\Interfaces and Abstraction Exercise\Interface IPerson\bin\Debug\net6.0\Interface IPerson.dll
+C:\Users\BO\Desktop\C# OOP\Interfaces and Abstraction Exercise\Interface IPerson\bin\Debug\net6.0\Interface IPerson.pdb
+C:\Users\BO\Desktop\C# OOP\Interfaces and Abstraction Exercise\Interface IPerson\obj\Debug\net6.0\Interface IPerson.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BO\Desktop\C# OOP\Interfaces and Abstraction Exercise\Interface IPerson\obj\Debug\net6.0\Interface IPerson.AssemblyInfoInputs.cache
+C:\Users\BO\Desktop\C# OOP\Interfaces and Abstraction Exercise\Interface IPerson\obj\Debug\net6.0\Interface IPerson.AssemblyInfo.cs
+C:\Users\BO\Desktop\C# OOP\Interfaces and Abstraction Exercise\Interface IPerson\obj\Debug\net6.0\Interface IPerson.csproj.CoreCompileInputs.cache
+C:\Users\BO\Desktop\C# OOP\Interfaces and Abstraction Exercise\Interface IPerson\obj\Debug\net6.0\Interface IPerson.dll
+C:\Users\BO\Desktop\C# OOP\Interfaces and Abstraction Exercise\Interface IPerson\obj\Debug\net6.0\refint\Interface IPerson.dll
+C:\Users\BO\Desktop\C# OOP\Interfaces and Abstraction Exercise\Interface IPerson\obj\Debug\net6.0\Interface IPerson.pdb
+C:\Users\BO\Desktop\C# OOP\Interfaces and Abstraction Exercise\Interface IPerson\obj\Debug\net6.0\Interface IPerson.genruntimeconfig.cache
+C:\Users\BO\Desktop\C# OOP\Interfaces and Abstraction Exercise\Interface IPerson\obj\Debug\net6.0\ref\Interface IPerson.dll

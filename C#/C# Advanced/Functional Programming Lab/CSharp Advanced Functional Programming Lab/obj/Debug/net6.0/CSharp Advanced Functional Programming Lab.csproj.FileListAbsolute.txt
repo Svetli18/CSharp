@@ -1,0 +1,15 @@
+C:\Users\BO\Desktop\C# Advanced\CSharp Advanced Functional Programming Lab\CSharp Advanced Functional Programming Lab\bin\Debug\net6.0\CSharp Advanced Functional Programming Lab.exe
+C:\Users\BO\Desktop\C# Advanced\CSharp Advanced Functional Programming Lab\CSharp Advanced Functional Programming Lab\bin\Debug\net6.0\CSharp Advanced Functional Programming Lab.deps.json
+C:\Users\BO\Desktop\C# Advanced\CSharp Advanced Functional Programming Lab\CSharp Advanced Functional Programming Lab\bin\Debug\net6.0\CSharp Advanced Functional Programming Lab.runtimeconfig.json
+C:\Users\BO\Desktop\C# Advanced\CSharp Advanced Functional Programming Lab\CSharp Advanced Functional Programming Lab\bin\Debug\net6.0\CSharp Advanced Functional Programming Lab.dll
+C:\Users\BO\Desktop\C# Advanced\CSharp Advanced Functional Programming Lab\CSharp Advanced Functional Programming Lab\bin\Debug\net6.0\CSharp Advanced Functional Programming Lab.pdb
+C:\Users\BO\Desktop\C# Advanced\CSharp Advanced Functional Programming Lab\CSharp Advanced Functional Programming Lab\obj\Debug\net6.0\CSharp Advanced Functional Programming Lab.csproj.AssemblyReference.cache
+C:\Users\BO\Desktop\C# Advanced\CSharp Advanced Functional Programming Lab\CSharp Advanced Functional Programming Lab\obj\Debug\net6.0\CSharp Advanced Functional Programming Lab.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BO\Desktop\C# Advanced\CSharp Advanced Functional Programming Lab\CSharp Advanced Functional Programming Lab\obj\Debug\net6.0\CSharp Advanced Functional Programming Lab.AssemblyInfoInputs.cache
+C:\Users\BO\Desktop\C# Advanced\CSharp Advanced Functional Programming Lab\CSharp Advanced Functional Programming Lab\obj\Debug\net6.0\CSharp Advanced Functional Programming Lab.AssemblyInfo.cs
+C:\Users\BO\Desktop\C# Advanced\CSharp Advanced Functional Programming Lab\CSharp Advanced Functional Programming Lab\obj\Debug\net6.0\CSharp Advanced Functional Programming Lab.csproj.CoreCompileInputs.cache
+C:\Users\BO\Desktop\C# Advanced\CSharp Advanced Functional Programming Lab\CSharp Advanced Functional Programming Lab\obj\Debug\net6.0\CSharp Advanced Functional Programming Lab.dll
+C:\Users\BO\Desktop\C# Advanced\CSharp Advanced Functional Programming Lab\CSharp Advanced Functional Programming Lab\obj\Debug\net6.0\refint\CSharp Advanced Functional Programming Lab.dll
+C:\Users\BO\Desktop\C# Advanced\CSharp Advanced Functional Programming Lab\CSharp Advanced Functional Programming Lab\obj\Debug\net6.0\CSharp Advanced Functional Programming Lab.pdb
+C:\Users\BO\Desktop\C# Advanced\CSharp Advanced Functional Programming Lab\CSharp Advanced Functional Programming Lab\obj\Debug\net6.0\CSharp Advanced Functional Programming Lab.genruntimeconfig.cache
+C:\Users\BO\Desktop\C# Advanced\CSharp Advanced Functional Programming Lab\CSharp Advanced Functional Programming Lab\obj\Debug\net6.0\ref\CSharp Advanced Functional Programming Lab.dll

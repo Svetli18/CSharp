@@ -1,0 +1,14 @@
+C:\Users\BO\Desktop\C# OOP\OOP Exams\19 December 2023\UnitTests\Television\bin\Debug\net6.0\Television.exe
+C:\Users\BO\Desktop\C# OOP\OOP Exams\19 December 2023\UnitTests\Television\bin\Debug\net6.0\Television.deps.json
+C:\Users\BO\Desktop\C# OOP\OOP Exams\19 December 2023\UnitTests\Television\bin\Debug\net6.0\Television.runtimeconfig.json
+C:\Users\BO\Desktop\C# OOP\OOP Exams\19 December 2023\UnitTests\Television\bin\Debug\net6.0\Television.dll
+C:\Users\BO\Desktop\C# OOP\OOP Exams\19 December 2023\UnitTests\Television\bin\Debug\net6.0\Television.pdb
+C:\Users\BO\Desktop\C# OOP\OOP Exams\19 December 2023\UnitTests\Television\obj\Debug\net6.0\Television.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BO\Desktop\C# OOP\OOP Exams\19 December 2023\UnitTests\Television\obj\Debug\net6.0\Television.AssemblyInfoInputs.cache
+C:\Users\BO\Desktop\C# OOP\OOP Exams\19 December 2023\UnitTests\Television\obj\Debug\net6.0\Television.AssemblyInfo.cs
+C:\Users\BO\Desktop\C# OOP\OOP Exams\19 December 2023\UnitTests\Television\obj\Debug\net6.0\Television.csproj.CoreCompileInputs.cache
+C:\Users\BO\Desktop\C# OOP\OOP Exams\19 December 2023\UnitTests\Television\obj\Debug\net6.0\Television.dll
+C:\Users\BO\Desktop\C# OOP\OOP Exams\19 December 2023\UnitTests\Television\obj\Debug\net6.0\refint\Television.dll
+C:\Users\BO\Desktop\C# OOP\OOP Exams\19 December 2023\UnitTests\Television\obj\Debug\net6.0\Television.pdb
+C:\Users\BO\Desktop\C# OOP\OOP Exams\19 December 2023\UnitTests\Television\obj\Debug\net6.0\Television.genruntimeconfig.cache
+C:\Users\BO\Desktop\C# OOP\OOP Exams\19 December 2023\UnitTests\Television\obj\Debug\net6.0\ref\Television.dll

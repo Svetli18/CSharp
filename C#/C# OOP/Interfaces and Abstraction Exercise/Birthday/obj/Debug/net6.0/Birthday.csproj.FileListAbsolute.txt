@@ -1,0 +1,14 @@
+C:\Users\BO\Desktop\C# OOP\Interfaces and Abstraction Exercise\Birthday\bin\Debug\net6.0\Birthday.exe
+C:\Users\BO\Desktop\C# OOP\Interfaces and Abstraction Exercise\Birthday\bin\Debug\net6.0\Birthday.deps.json
+C:\Users\BO\Desktop\C# OOP\Interfaces and Abstraction Exercise\Birthday\bin\Debug\net6.0\Birthday.runtimeconfig.json
+C:\Users\BO\Desktop\C# OOP\Interfaces and Abstraction Exercise\Birthday\bin\Debug\net6.0\Birthday.dll
+C:\Users\BO\Desktop\C# OOP\Interfaces and Abstraction Exercise\Birthday\bin\Debug\net6.0\Birthday.pdb
+C:\Users\BO\Desktop\C# OOP\Interfaces and Abstraction Exercise\Birthday\obj\Debug\net6.0\Birthday.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BO\Desktop\C# OOP\Interfaces and Abstraction Exercise\Birthday\obj\Debug\net6.0\Birthday.AssemblyInfoInputs.cache
+C:\Users\BO\Desktop\C# OOP\Interfaces and Abstraction Exercise\Birthday\obj\Debug\net6.0\Birthday.AssemblyInfo.cs
+C:\Users\BO\Desktop\C# OOP\Interfaces and Abstraction Exercise\Birthday\obj\Debug\net6.0\Birthday.csproj.CoreCompileInputs.cache
+C:\Users\BO\Desktop\C# OOP\Interfaces and Abstraction Exercise\Birthday\obj\Debug\net6.0\Birthday.dll
+C:\Users\BO\Desktop\C# OOP\Interfaces and Abstraction Exercise\Birthday\obj\Debug\net6.0\refint\Birthday.dll
+C:\Users\BO\Desktop\C# OOP\Interfaces and Abstraction Exercise\Birthday\obj\Debug\net6.0\Birthday.pdb
+C:\Users\BO\Desktop\C# OOP\Interfaces and Abstraction Exercise\Birthday\obj\Debug\net6.0\Birthday.genruntimeconfig.cache
+C:\Users\BO\Desktop\C# OOP\Interfaces and Abstraction Exercise\Birthday\obj\Debug\net6.0\ref\Birthday.dll

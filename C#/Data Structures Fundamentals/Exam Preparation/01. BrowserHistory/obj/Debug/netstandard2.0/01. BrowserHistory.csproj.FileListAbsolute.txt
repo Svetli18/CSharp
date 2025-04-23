@@ -1,0 +1,10 @@
+C:\Users\BO\Desktop\Data Structures Fundamentals\Exam Preparation\01. BrowserHistory\bin\Debug\netstandard2.0\01. BrowserHistory.deps.json
+C:\Users\BO\Desktop\Data Structures Fundamentals\Exam Preparation\01. BrowserHistory\bin\Debug\netstandard2.0\01. BrowserHistory.dll
+C:\Users\BO\Desktop\Data Structures Fundamentals\Exam Preparation\01. BrowserHistory\bin\Debug\netstandard2.0\01. BrowserHistory.pdb
+C:\Users\BO\Desktop\Data Structures Fundamentals\Exam Preparation\01. BrowserHistory\obj\Debug\netstandard2.0\01. BrowserHistory.csproj.AssemblyReference.cache
+C:\Users\BO\Desktop\Data Structures Fundamentals\Exam Preparation\01. BrowserHistory\obj\Debug\netstandard2.0\01. BrowserHistory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BO\Desktop\Data Structures Fundamentals\Exam Preparation\01. BrowserHistory\obj\Debug\netstandard2.0\01. BrowserHistory.AssemblyInfoInputs.cache
+C:\Users\BO\Desktop\Data Structures Fundamentals\Exam Preparation\01. BrowserHistory\obj\Debug\netstandard2.0\01. BrowserHistory.AssemblyInfo.cs
+C:\Users\BO\Desktop\Data Structures Fundamentals\Exam Preparation\01. BrowserHistory\obj\Debug\netstandard2.0\01. BrowserHistory.csproj.CoreCompileInputs.cache
+C:\Users\BO\Desktop\Data Structures Fundamentals\Exam Preparation\01. BrowserHistory\obj\Debug\netstandard2.0\01. BrowserHistory.dll
+C:\Users\BO\Desktop\Data Structures Fundamentals\Exam Preparation\01. BrowserHistory\obj\Debug\netstandard2.0\01. BrowserHistory.pdb

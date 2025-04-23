@@ -1,0 +1,13 @@
+C:\Users\BO\Desktop\C# Advanced\Defining Classes Lab Visual Studio\Defining Classes Lab Visual Studio\bin\Debug\netcoreapp3.1\01 Car.exe
+C:\Users\BO\Desktop\C# Advanced\Defining Classes Lab Visual Studio\Defining Classes Lab Visual Studio\bin\Debug\netcoreapp3.1\01 Car.deps.json
+C:\Users\BO\Desktop\C# Advanced\Defining Classes Lab Visual Studio\Defining Classes Lab Visual Studio\bin\Debug\netcoreapp3.1\01 Car.runtimeconfig.json
+C:\Users\BO\Desktop\C# Advanced\Defining Classes Lab Visual Studio\Defining Classes Lab Visual Studio\bin\Debug\netcoreapp3.1\01 Car.runtimeconfig.dev.json
+C:\Users\BO\Desktop\C# Advanced\Defining Classes Lab Visual Studio\Defining Classes Lab Visual Studio\bin\Debug\netcoreapp3.1\01 Car.dll
+C:\Users\BO\Desktop\C# Advanced\Defining Classes Lab Visual Studio\Defining Classes Lab Visual Studio\bin\Debug\netcoreapp3.1\01 Car.pdb
+C:\Users\BO\Desktop\C# Advanced\Defining Classes Lab Visual Studio\Defining Classes Lab Visual Studio\obj\Debug\netcoreapp3.1\01 Car.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BO\Desktop\C# Advanced\Defining Classes Lab Visual Studio\Defining Classes Lab Visual Studio\obj\Debug\netcoreapp3.1\01 Car.AssemblyInfoInputs.cache
+C:\Users\BO\Desktop\C# Advanced\Defining Classes Lab Visual Studio\Defining Classes Lab Visual Studio\obj\Debug\netcoreapp3.1\01 Car.AssemblyInfo.cs
+C:\Users\BO\Desktop\C# Advanced\Defining Classes Lab Visual Studio\Defining Classes Lab Visual Studio\obj\Debug\netcoreapp3.1\01 Car.csproj.CoreCompileInputs.cache
+C:\Users\BO\Desktop\C# Advanced\Defining Classes Lab Visual Studio\Defining Classes Lab Visual Studio\obj\Debug\netcoreapp3.1\01 Car.dll
+C:\Users\BO\Desktop\C# Advanced\Defining Classes Lab Visual Studio\Defining Classes Lab Visual Studio\obj\Debug\netcoreapp3.1\01 Car.pdb
+C:\Users\BO\Desktop\C# Advanced\Defining Classes Lab Visual Studio\Defining Classes Lab Visual Studio\obj\Debug\netcoreapp3.1\01 Car.genruntimeconfig.cache

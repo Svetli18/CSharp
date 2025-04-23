@@ -1,0 +1,16 @@
+/Users/ssheytanov/Documents/Svn/DS/Feb-2022/2.DS-Advanced/03. AVL-Trees-and-AA-Trees/03. AVL-Trees-and-AA-Trees-Exercise-Skeleton/Demo/bin/Debug/netcoreapp3.1/Demo.deps.json
+/Users/ssheytanov/Documents/Svn/DS/Feb-2022/2.DS-Advanced/03. AVL-Trees-and-AA-Trees/03. AVL-Trees-and-AA-Trees-Exercise-Skeleton/Demo/bin/Debug/netcoreapp3.1/Demo.runtimeconfig.json
+/Users/ssheytanov/Documents/Svn/DS/Feb-2022/2.DS-Advanced/03. AVL-Trees-and-AA-Trees/03. AVL-Trees-and-AA-Trees-Exercise-Skeleton/Demo/bin/Debug/netcoreapp3.1/Demo.runtimeconfig.dev.json
+/Users/ssheytanov/Documents/Svn/DS/Feb-2022/2.DS-Advanced/03. AVL-Trees-and-AA-Trees/03. AVL-Trees-and-AA-Trees-Exercise-Skeleton/Demo/bin/Debug/netcoreapp3.1/Demo.dll
+/Users/ssheytanov/Documents/Svn/DS/Feb-2022/2.DS-Advanced/03. AVL-Trees-and-AA-Trees/03. AVL-Trees-and-AA-Trees-Exercise-Skeleton/Demo/bin/Debug/netcoreapp3.1/Demo.pdb
+/Users/ssheytanov/Documents/Svn/DS/Feb-2022/2.DS-Advanced/03. AVL-Trees-and-AA-Trees/03. AVL-Trees-and-AA-Trees-Exercise-Skeleton/Demo/bin/Debug/netcoreapp3.1/AA-Tree.dll
+/Users/ssheytanov/Documents/Svn/DS/Feb-2022/2.DS-Advanced/03. AVL-Trees-and-AA-Trees/03. AVL-Trees-and-AA-Trees-Exercise-Skeleton/Demo/bin/Debug/netcoreapp3.1/AA-Tree.pdb
+/Users/ssheytanov/Documents/Svn/DS/Feb-2022/2.DS-Advanced/03. AVL-Trees-and-AA-Trees/03. AVL-Trees-and-AA-Trees-Exercise-Skeleton/Demo/obj/Debug/netcoreapp3.1/Demo.csproj.AssemblyReference.cache
+/Users/ssheytanov/Documents/Svn/DS/Feb-2022/2.DS-Advanced/03. AVL-Trees-and-AA-Trees/03. AVL-Trees-and-AA-Trees-Exercise-Skeleton/Demo/obj/Debug/netcoreapp3.1/Demo.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ssheytanov/Documents/Svn/DS/Feb-2022/2.DS-Advanced/03. AVL-Trees-and-AA-Trees/03. AVL-Trees-and-AA-Trees-Exercise-Skeleton/Demo/obj/Debug/netcoreapp3.1/Demo.AssemblyInfoInputs.cache
+/Users/ssheytanov/Documents/Svn/DS/Feb-2022/2.DS-Advanced/03. AVL-Trees-and-AA-Trees/03. AVL-Trees-and-AA-Trees-Exercise-Skeleton/Demo/obj/Debug/netcoreapp3.1/Demo.AssemblyInfo.cs
+/Users/ssheytanov/Documents/Svn/DS/Feb-2022/2.DS-Advanced/03. AVL-Trees-and-AA-Trees/03. AVL-Trees-and-AA-Trees-Exercise-Skeleton/Demo/obj/Debug/netcoreapp3.1/Demo.csproj.CoreCompileInputs.cache
+/Users/ssheytanov/Documents/Svn/DS/Feb-2022/2.DS-Advanced/03. AVL-Trees-and-AA-Trees/03. AVL-Trees-and-AA-Trees-Exercise-Skeleton/Demo/obj/Debug/netcoreapp3.1/Demo.csproj.CopyComplete
+/Users/ssheytanov/Documents/Svn/DS/Feb-2022/2.DS-Advanced/03. AVL-Trees-and-AA-Trees/03. AVL-Trees-and-AA-Trees-Exercise-Skeleton/Demo/obj/Debug/netcoreapp3.1/Demo.dll
+/Users/ssheytanov/Documents/Svn/DS/Feb-2022/2.DS-Advanced/03. AVL-Trees-and-AA-Trees/03. AVL-Trees-and-AA-Trees-Exercise-Skeleton/Demo/obj/Debug/netcoreapp3.1/Demo.pdb
+/Users/ssheytanov/Documents/Svn/DS/Feb-2022/2.DS-Advanced/03. AVL-Trees-and-AA-Trees/03. AVL-Trees-and-AA-Trees-Exercise-Skeleton/Demo/obj/Debug/netcoreapp3.1/Demo.genruntimeconfig.cache

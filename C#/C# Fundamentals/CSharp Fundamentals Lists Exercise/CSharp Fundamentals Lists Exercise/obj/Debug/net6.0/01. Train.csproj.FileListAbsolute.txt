@@ -1,0 +1,15 @@
+C:\Users\BO\Desktop\C# Fundamentals\CSharp Fundamentals Lists Exercise\CSharp Fundamentals Lists Exercise\bin\Debug\net6.0\01. Train.exe
+C:\Users\BO\Desktop\C# Fundamentals\CSharp Fundamentals Lists Exercise\CSharp Fundamentals Lists Exercise\bin\Debug\net6.0\01. Train.deps.json
+C:\Users\BO\Desktop\C# Fundamentals\CSharp Fundamentals Lists Exercise\CSharp Fundamentals Lists Exercise\bin\Debug\net6.0\01. Train.runtimeconfig.json
+C:\Users\BO\Desktop\C# Fundamentals\CSharp Fundamentals Lists Exercise\CSharp Fundamentals Lists Exercise\bin\Debug\net6.0\01. Train.dll
+C:\Users\BO\Desktop\C# Fundamentals\CSharp Fundamentals Lists Exercise\CSharp Fundamentals Lists Exercise\bin\Debug\net6.0\01. Train.pdb
+C:\Users\BO\Desktop\C# Fundamentals\CSharp Fundamentals Lists Exercise\CSharp Fundamentals Lists Exercise\obj\Debug\net6.0\01. Train.csproj.AssemblyReference.cache
+C:\Users\BO\Desktop\C# Fundamentals\CSharp Fundamentals Lists Exercise\CSharp Fundamentals Lists Exercise\obj\Debug\net6.0\01. Train.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BO\Desktop\C# Fundamentals\CSharp Fundamentals Lists Exercise\CSharp Fundamentals Lists Exercise\obj\Debug\net6.0\01. Train.AssemblyInfoInputs.cache
+C:\Users\BO\Desktop\C# Fundamentals\CSharp Fundamentals Lists Exercise\CSharp Fundamentals Lists Exercise\obj\Debug\net6.0\01. Train.AssemblyInfo.cs
+C:\Users\BO\Desktop\C# Fundamentals\CSharp Fundamentals Lists Exercise\CSharp Fundamentals Lists Exercise\obj\Debug\net6.0\01. Train.csproj.CoreCompileInputs.cache
+C:\Users\BO\Desktop\C# Fundamentals\CSharp Fundamentals Lists Exercise\CSharp Fundamentals Lists Exercise\obj\Debug\net6.0\01. Train.dll
+C:\Users\BO\Desktop\C# Fundamentals\CSharp Fundamentals Lists Exercise\CSharp Fundamentals Lists Exercise\obj\Debug\net6.0\refint\01. Train.dll
+C:\Users\BO\Desktop\C# Fundamentals\CSharp Fundamentals Lists Exercise\CSharp Fundamentals Lists Exercise\obj\Debug\net6.0\01. Train.pdb
+C:\Users\BO\Desktop\C# Fundamentals\CSharp Fundamentals Lists Exercise\CSharp Fundamentals Lists Exercise\obj\Debug\net6.0\01. Train.genruntimeconfig.cache
+C:\Users\BO\Desktop\C# Fundamentals\CSharp Fundamentals Lists Exercise\CSharp Fundamentals Lists Exercise\obj\Debug\net6.0\ref\01. Train.dll

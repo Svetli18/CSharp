@@ -1,0 +1,15 @@
+C:\Users\BO\Desktop\C# Fundamentals\01. The Imitation Game\01. The Imitation Game\bin\Debug\net6.0\01. The Imitation Game.exe
+C:\Users\BO\Desktop\C# Fundamentals\01. The Imitation Game\01. The Imitation Game\bin\Debug\net6.0\01. The Imitation Game.deps.json
+C:\Users\BO\Desktop\C# Fundamentals\01. The Imitation Game\01. The Imitation Game\bin\Debug\net6.0\01. The Imitation Game.runtimeconfig.json
+C:\Users\BO\Desktop\C# Fundamentals\01. The Imitation Game\01. The Imitation Game\bin\Debug\net6.0\01. The Imitation Game.dll
+C:\Users\BO\Desktop\C# Fundamentals\01. The Imitation Game\01. The Imitation Game\bin\Debug\net6.0\01. The Imitation Game.pdb
+C:\Users\BO\Desktop\C# Fundamentals\01. The Imitation Game\01. The Imitation Game\obj\Debug\net6.0\01. The Imitation Game.csproj.AssemblyReference.cache
+C:\Users\BO\Desktop\C# Fundamentals\01. The Imitation Game\01. The Imitation Game\obj\Debug\net6.0\01. The Imitation Game.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BO\Desktop\C# Fundamentals\01. The Imitation Game\01. The Imitation Game\obj\Debug\net6.0\01. The Imitation Game.AssemblyInfoInputs.cache
+C:\Users\BO\Desktop\C# Fundamentals\01. The Imitation Game\01. The Imitation Game\obj\Debug\net6.0\01. The Imitation Game.AssemblyInfo.cs
+C:\Users\BO\Desktop\C# Fundamentals\01. The Imitation Game\01. The Imitation Game\obj\Debug\net6.0\01. The Imitation Game.csproj.CoreCompileInputs.cache
+C:\Users\BO\Desktop\C# Fundamentals\01. The Imitation Game\01. The Imitation Game\obj\Debug\net6.0\01. The Imitation Game.dll
+C:\Users\BO\Desktop\C# Fundamentals\01. The Imitation Game\01. The Imitation Game\obj\Debug\net6.0\refint\01. The Imitation Game.dll
+C:\Users\BO\Desktop\C# Fundamentals\01. The Imitation Game\01. The Imitation Game\obj\Debug\net6.0\01. The Imitation Game.pdb
+C:\Users\BO\Desktop\C# Fundamentals\01. The Imitation Game\01. The Imitation Game\obj\Debug\net6.0\01. The Imitation Game.genruntimeconfig.cache
+C:\Users\BO\Desktop\C# Fundamentals\01. The Imitation Game\01. The Imitation Game\obj\Debug\net6.0\ref\01. The Imitation Game.dll

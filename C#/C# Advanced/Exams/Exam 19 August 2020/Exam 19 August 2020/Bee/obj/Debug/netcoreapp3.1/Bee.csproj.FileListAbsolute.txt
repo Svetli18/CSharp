@@ -1,0 +1,14 @@
+C:\Users\BO\Desktop\C# Advanced\Exams\Exam 19 August 2020\Exam 19 August 2020\Bee\bin\Debug\netcoreapp3.1\Bee.exe
+C:\Users\BO\Desktop\C# Advanced\Exams\Exam 19 August 2020\Exam 19 August 2020\Bee\bin\Debug\netcoreapp3.1\Bee.deps.json
+C:\Users\BO\Desktop\C# Advanced\Exams\Exam 19 August 2020\Exam 19 August 2020\Bee\bin\Debug\netcoreapp3.1\Bee.runtimeconfig.json
+C:\Users\BO\Desktop\C# Advanced\Exams\Exam 19 August 2020\Exam 19 August 2020\Bee\bin\Debug\netcoreapp3.1\Bee.runtimeconfig.dev.json
+C:\Users\BO\Desktop\C# Advanced\Exams\Exam 19 August 2020\Exam 19 August 2020\Bee\bin\Debug\netcoreapp3.1\Bee.dll
+C:\Users\BO\Desktop\C# Advanced\Exams\Exam 19 August 2020\Exam 19 August 2020\Bee\bin\Debug\netcoreapp3.1\Bee.pdb
+C:\Users\BO\Desktop\C# Advanced\Exams\Exam 19 August 2020\Exam 19 August 2020\Bee\obj\Debug\netcoreapp3.1\Bee.csproj.AssemblyReference.cache
+C:\Users\BO\Desktop\C# Advanced\Exams\Exam 19 August 2020\Exam 19 August 2020\Bee\obj\Debug\netcoreapp3.1\Bee.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BO\Desktop\C# Advanced\Exams\Exam 19 August 2020\Exam 19 August 2020\Bee\obj\Debug\netcoreapp3.1\Bee.AssemblyInfoInputs.cache
+C:\Users\BO\Desktop\C# Advanced\Exams\Exam 19 August 2020\Exam 19 August 2020\Bee\obj\Debug\netcoreapp3.1\Bee.AssemblyInfo.cs
+C:\Users\BO\Desktop\C# Advanced\Exams\Exam 19 August 2020\Exam 19 August 2020\Bee\obj\Debug\netcoreapp3.1\Bee.csproj.CoreCompileInputs.cache
+C:\Users\BO\Desktop\C# Advanced\Exams\Exam 19 August 2020\Exam 19 August 2020\Bee\obj\Debug\netcoreapp3.1\Bee.dll
+C:\Users\BO\Desktop\C# Advanced\Exams\Exam 19 August 2020\Exam 19 August 2020\Bee\obj\Debug\netcoreapp3.1\Bee.pdb
+C:\Users\BO\Desktop\C# Advanced\Exams\Exam 19 August 2020\Exam 19 August 2020\Bee\obj\Debug\netcoreapp3.1\Bee.genruntimeconfig.cache

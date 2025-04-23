@@ -1,0 +1,15 @@
+C:\Users\BO\Desktop\C# Fundamentals\Fundamentals Final Exams\05. Programming Fundamentals Final Exam\02. Emoji Detector\bin\Debug\net6.0\02. Emoji Detector.exe
+C:\Users\BO\Desktop\C# Fundamentals\Fundamentals Final Exams\05. Programming Fundamentals Final Exam\02. Emoji Detector\bin\Debug\net6.0\02. Emoji Detector.deps.json
+C:\Users\BO\Desktop\C# Fundamentals\Fundamentals Final Exams\05. Programming Fundamentals Final Exam\02. Emoji Detector\bin\Debug\net6.0\02. Emoji Detector.runtimeconfig.json
+C:\Users\BO\Desktop\C# Fundamentals\Fundamentals Final Exams\05. Programming Fundamentals Final Exam\02. Emoji Detector\bin\Debug\net6.0\02. Emoji Detector.dll
+C:\Users\BO\Desktop\C# Fundamentals\Fundamentals Final Exams\05. Programming Fundamentals Final Exam\02. Emoji Detector\bin\Debug\net6.0\02. Emoji Detector.pdb
+C:\Users\BO\Desktop\C# Fundamentals\Fundamentals Final Exams\05. Programming Fundamentals Final Exam\02. Emoji Detector\obj\Debug\net6.0\02. Emoji Detector.csproj.AssemblyReference.cache
+C:\Users\BO\Desktop\C# Fundamentals\Fundamentals Final Exams\05. Programming Fundamentals Final Exam\02. Emoji Detector\obj\Debug\net6.0\02. Emoji Detector.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BO\Desktop\C# Fundamentals\Fundamentals Final Exams\05. Programming Fundamentals Final Exam\02. Emoji Detector\obj\Debug\net6.0\02. Emoji Detector.AssemblyInfoInputs.cache
+C:\Users\BO\Desktop\C# Fundamentals\Fundamentals Final Exams\05. Programming Fundamentals Final Exam\02. Emoji Detector\obj\Debug\net6.0\02. Emoji Detector.AssemblyInfo.cs
+C:\Users\BO\Desktop\C# Fundamentals\Fundamentals Final Exams\05. Programming Fundamentals Final Exam\02. Emoji Detector\obj\Debug\net6.0\02. Emoji Detector.csproj.CoreCompileInputs.cache
+C:\Users\BO\Desktop\C# Fundamentals\Fundamentals Final Exams\05. Programming Fundamentals Final Exam\02. Emoji Detector\obj\Debug\net6.0\02. Emoji Detector.dll
+C:\Users\BO\Desktop\C# Fundamentals\Fundamentals Final Exams\05. Programming Fundamentals Final Exam\02. Emoji Detector\obj\Debug\net6.0\refint\02. Emoji Detector.dll
+C:\Users\BO\Desktop\C# Fundamentals\Fundamentals Final Exams\05. Programming Fundamentals Final Exam\02. Emoji Detector\obj\Debug\net6.0\02. Emoji Detector.pdb
+C:\Users\BO\Desktop\C# Fundamentals\Fundamentals Final Exams\05. Programming Fundamentals Final Exam\02. Emoji Detector\obj\Debug\net6.0\02. Emoji Detector.genruntimeconfig.cache
+C:\Users\BO\Desktop\C# Fundamentals\Fundamentals Final Exams\05. Programming Fundamentals Final Exam\02. Emoji Detector\obj\Debug\net6.0\ref\02. Emoji Detector.dll

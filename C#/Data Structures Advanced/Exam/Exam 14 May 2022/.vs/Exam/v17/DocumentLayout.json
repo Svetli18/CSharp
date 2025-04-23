@@ -1,0 +1,166 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\BO\\Desktop\\Data Structures Advanced\\Exam\\Exam 14 May 2022\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1535D466-A90F-47D3-903A-6F0EA25A4DE0}|Exam.MoovIt\\Exam.MoovIt.csproj|c:\\users\\bo\\desktop\\data structures advanced\\exam\\exam 14 may 2022\\exam.moovit\\route.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1535D466-A90F-47D3-903A-6F0EA25A4DE0}|Exam.MoovIt\\Exam.MoovIt.csproj|solutionrelative:exam.moovit\\route.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22E02815-9EBA-47E4-8441-337E582B0A40}|Exam.Discord\\Exam.Discord.csproj|c:\\users\\bo\\desktop\\data structures advanced\\exam\\exam 14 may 2022\\exam.discord\\message.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22E02815-9EBA-47E4-8441-337E582B0A40}|Exam.Discord\\Exam.Discord.csproj|solutionrelative:exam.discord\\message.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\BO\\Desktop\\Data Structures Advanced\\Exam\\Exam 29 January 2023\\Exam\\Exam.Categorization\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1535D466-A90F-47D3-903A-6F0EA25A4DE0}|Exam.MoovIt\\Exam.MoovIt.csproj|c:\\users\\bo\\desktop\\data structures advanced\\exam\\exam 14 may 2022\\exam.moovit\\moovit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1535D466-A90F-47D3-903A-6F0EA25A4DE0}|Exam.MoovIt\\Exam.MoovIt.csproj|solutionrelative:exam.moovit\\moovit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45D68999-712C-4D1E-B3E0-04B6E1DE8F93}|Exam.MoovIt.Tests\\Exam.MoovIt.Tests.csproj|c:\\users\\bo\\desktop\\data structures advanced\\exam\\exam 14 may 2022\\exam.moovit.tests\\moovittests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45D68999-712C-4D1E-B3E0-04B6E1DE8F93}|Exam.MoovIt.Tests\\Exam.MoovIt.Tests.csproj|solutionrelative:exam.moovit.tests\\moovittests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C3B1FE5-2A1F-4BC7-9D4B-D9717DF3B20A}|Exam.Discord.Tests\\Exam.Discord.Tests.csproj|c:\\users\\bo\\desktop\\data structures advanced\\exam\\exam 14 may 2022\\exam.discord.tests\\discordtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C3B1FE5-2A1F-4BC7-9D4B-D9717DF3B20A}|Exam.Discord.Tests\\Exam.Discord.Tests.csproj|solutionrelative:exam.discord.tests\\discordtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22E02815-9EBA-47E4-8441-337E582B0A40}|Exam.Discord\\Exam.Discord.csproj|c:\\users\\bo\\desktop\\data structures advanced\\exam\\exam 14 may 2022\\exam.discord\\discord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22E02815-9EBA-47E4-8441-337E582B0A40}|Exam.Discord\\Exam.Discord.csproj|solutionrelative:exam.discord\\discord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22E02815-9EBA-47E4-8441-337E582B0A40}|Exam.Discord\\Exam.Discord.csproj|c:\\users\\bo\\desktop\\data structures advanced\\exam\\exam 14 may 2022\\exam.discord\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22E02815-9EBA-47E4-8441-337E582B0A40}|Exam.Discord\\Exam.Discord.csproj|solutionrelative:exam.discord\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22E02815-9EBA-47E4-8441-337E582B0A40}|Exam.Discord\\Exam.Discord.csproj|c:\\users\\bo\\desktop\\data structures advanced\\exam\\exam 14 may 2022\\exam.discord\\idiscord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22E02815-9EBA-47E4-8441-337E582B0A40}|Exam.Discord\\Exam.Discord.csproj|solutionrelative:exam.discord\\idiscord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\BO\\Desktop\\Data Structures Advanced\\Exam\\Exam 29 January 2023\\Exam\\Exam.Categorization\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Exam 29 January 2023\\Exam\\Exam.Categorization\\Program.cs",
+              "ToolTip": "C:\\Users\\BO\\Desktop\\Data Structures Advanced\\Exam\\Exam 29 January 2023\\Exam\\Exam.Categorization\\Program.cs",
+              "RelativeToolTip": "..\\Exam 29 January 2023\\Exam\\Exam.Categorization\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T20:34:58.487Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MoovItTests.cs",
+              "DocumentMoniker": "C:\\Users\\BO\\Desktop\\Data Structures Advanced\\Exam\\Exam 14 May 2022\\Exam.MoovIt.Tests\\MoovItTests.cs",
+              "RelativeDocumentMoniker": "Exam.MoovIt.Tests\\MoovItTests.cs",
+              "ToolTip": "C:\\Users\\BO\\Desktop\\Data Structures Advanced\\Exam\\Exam 14 May 2022\\Exam.MoovIt.Tests\\MoovItTests.cs",
+              "RelativeToolTip": "Exam.MoovIt.Tests\\MoovItTests.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAArwEAAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T12:46:48.77Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Route.cs",
+              "DocumentMoniker": "C:\\Users\\BO\\Desktop\\Data Structures Advanced\\Exam\\Exam 14 May 2022\\Exam.MoovIt\\Route.cs",
+              "RelativeDocumentMoniker": "Exam.MoovIt\\Route.cs",
+              "ToolTip": "C:\\Users\\BO\\Desktop\\Data Structures Advanced\\Exam\\Exam 14 May 2022\\Exam.MoovIt\\Route.cs",
+              "RelativeToolTip": "Exam.MoovIt\\Route.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAADwvyYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T11:13:23.864Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MoovIt.cs",
+              "DocumentMoniker": "C:\\Users\\BO\\Desktop\\Data Structures Advanced\\Exam\\Exam 14 May 2022\\Exam.MoovIt\\MoovIt.cs",
+              "RelativeDocumentMoniker": "Exam.MoovIt\\MoovIt.cs",
+              "ToolTip": "C:\\Users\\BO\\Desktop\\Data Structures Advanced\\Exam\\Exam 14 May 2022\\Exam.MoovIt\\MoovIt.cs",
+              "RelativeToolTip": "Exam.MoovIt\\MoovIt.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwA8AAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T11:13:19.664Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DiscordTests.cs",
+              "DocumentMoniker": "C:\\Users\\BO\\Desktop\\Data Structures Advanced\\Exam\\Exam 14 May 2022\\Exam.Discord.Tests\\DiscordTests.cs",
+              "RelativeDocumentMoniker": "Exam.Discord.Tests\\DiscordTests.cs",
+              "ToolTip": "C:\\Users\\BO\\Desktop\\Data Structures Advanced\\Exam\\Exam 14 May 2022\\Exam.Discord.Tests\\DiscordTests.cs",
+              "RelativeToolTip": "Exam.Discord.Tests\\DiscordTests.cs",
+              "ViewState": "AgIAAG8AAAAAAAAAAAAcwIwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T22:18:26.607Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\BO\\Desktop\\Data Structures Advanced\\Exam\\Exam 14 May 2022\\Exam.Discord\\Program.cs",
+              "RelativeDocumentMoniker": "Exam.Discord\\Program.cs",
+              "ToolTip": "C:\\Users\\BO\\Desktop\\Data Structures Advanced\\Exam\\Exam 14 May 2022\\Exam.Discord\\Program.cs",
+              "RelativeToolTip": "Exam.Discord\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T18:46:16.293Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Discord.cs",
+              "DocumentMoniker": "C:\\Users\\BO\\Desktop\\Data Structures Advanced\\Exam\\Exam 14 May 2022\\Exam.Discord\\Discord.cs",
+              "RelativeDocumentMoniker": "Exam.Discord\\Discord.cs",
+              "ToolTip": "C:\\Users\\BO\\Desktop\\Data Structures Advanced\\Exam\\Exam 14 May 2022\\Exam.Discord\\Discord.cs",
+              "RelativeToolTip": "Exam.Discord\\Discord.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T16:58:27.913Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Message.cs",
+              "DocumentMoniker": "C:\\Users\\BO\\Desktop\\Data Structures Advanced\\Exam\\Exam 14 May 2022\\Exam.Discord\\Message.cs",
+              "RelativeDocumentMoniker": "Exam.Discord\\Message.cs",
+              "ToolTip": "C:\\Users\\BO\\Desktop\\Data Structures Advanced\\Exam\\Exam 14 May 2022\\Exam.Discord\\Message.cs",
+              "RelativeToolTip": "Exam.Discord\\Message.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T16:58:18.677Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IDiscord.cs",
+              "DocumentMoniker": "C:\\Users\\BO\\Desktop\\Data Structures Advanced\\Exam\\Exam 14 May 2022\\Exam.Discord\\IDiscord.cs",
+              "RelativeDocumentMoniker": "Exam.Discord\\IDiscord.cs",
+              "ToolTip": "C:\\Users\\BO\\Desktop\\Data Structures Advanced\\Exam\\Exam 14 May 2022\\Exam.Discord\\IDiscord.cs",
+              "RelativeToolTip": "Exam.Discord\\IDiscord.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T16:58:11.293Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+C:\Users\BO\Desktop\C# Advanced\Defining Classes Lab Visual Studio\07. Raw Data\obj\Debug\netcoreapp3.1\07. Raw Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BO\Desktop\C# Advanced\Defining Classes Lab Visual Studio\07. Raw Data\obj\Debug\netcoreapp3.1\07. Raw Data.AssemblyInfoInputs.cache
+C:\Users\BO\Desktop\C# Advanced\Defining Classes Lab Visual Studio\07. Raw Data\obj\Debug\netcoreapp3.1\07. Raw Data.AssemblyInfo.cs
+C:\Users\BO\Desktop\C# Advanced\Defining Classes Lab Visual Studio\07. Raw Data\obj\Debug\netcoreapp3.1\07. Raw Data.csproj.CoreCompileInputs.cache
+C:\Users\BO\Desktop\C# Advanced\Defining Classes Lab Visual Studio\07. Raw Data\bin\Debug\netcoreapp3.1\07. Raw Data.exe
+C:\Users\BO\Desktop\C# Advanced\Defining Classes Lab Visual Studio\07. Raw Data\bin\Debug\netcoreapp3.1\07. Raw Data.deps.json
+C:\Users\BO\Desktop\C# Advanced\Defining Classes Lab Visual Studio\07. Raw Data\bin\Debug\netcoreapp3.1\07. Raw Data.runtimeconfig.json
+C:\Users\BO\Desktop\C# Advanced\Defining Classes Lab Visual Studio\07. Raw Data\bin\Debug\netcoreapp3.1\07. Raw Data.runtimeconfig.dev.json
+C:\Users\BO\Desktop\C# Advanced\Defining Classes Lab Visual Studio\07. Raw Data\bin\Debug\netcoreapp3.1\07. Raw Data.dll
+C:\Users\BO\Desktop\C# Advanced\Defining Classes Lab Visual Studio\07. Raw Data\bin\Debug\netcoreapp3.1\07. Raw Data.pdb
+C:\Users\BO\Desktop\C# Advanced\Defining Classes Lab Visual Studio\07. Raw Data\obj\Debug\netcoreapp3.1\07. Raw Data.dll
+C:\Users\BO\Desktop\C# Advanced\Defining Classes Lab Visual Studio\07. Raw Data\obj\Debug\netcoreapp3.1\07. Raw Data.pdb
+C:\Users\BO\Desktop\C# Advanced\Defining Classes Lab Visual Studio\07. Raw Data\obj\Debug\netcoreapp3.1\07. Raw Data.genruntimeconfig.cache

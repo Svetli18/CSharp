@@ -1,0 +1,15 @@
+C:\Users\BO\Desktop\C# Fundamentals\CSharpFundamentals Arrays More Exercise\04. Fold and Sum\bin\Debug\net6.0\04. Fold and Sum.exe
+C:\Users\BO\Desktop\C# Fundamentals\CSharpFundamentals Arrays More Exercise\04. Fold and Sum\bin\Debug\net6.0\04. Fold and Sum.deps.json
+C:\Users\BO\Desktop\C# Fundamentals\CSharpFundamentals Arrays More Exercise\04. Fold and Sum\bin\Debug\net6.0\04. Fold and Sum.runtimeconfig.json
+C:\Users\BO\Desktop\C# Fundamentals\CSharpFundamentals Arrays More Exercise\04. Fold and Sum\bin\Debug\net6.0\04. Fold and Sum.dll
+C:\Users\BO\Desktop\C# Fundamentals\CSharpFundamentals Arrays More Exercise\04. Fold and Sum\bin\Debug\net6.0\04. Fold and Sum.pdb
+C:\Users\BO\Desktop\C# Fundamentals\CSharpFundamentals Arrays More Exercise\04. Fold and Sum\obj\Debug\net6.0\04. Fold and Sum.csproj.AssemblyReference.cache
+C:\Users\BO\Desktop\C# Fundamentals\CSharpFundamentals Arrays More Exercise\04. Fold and Sum\obj\Debug\net6.0\04. Fold and Sum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BO\Desktop\C# Fundamentals\CSharpFundamentals Arrays More Exercise\04. Fold and Sum\obj\Debug\net6.0\04. Fold and Sum.AssemblyInfoInputs.cache
+C:\Users\BO\Desktop\C# Fundamentals\CSharpFundamentals Arrays More Exercise\04. Fold and Sum\obj\Debug\net6.0\04. Fold and Sum.AssemblyInfo.cs
+C:\Users\BO\Desktop\C# Fundamentals\CSharpFundamentals Arrays More Exercise\04. Fold and Sum\obj\Debug\net6.0\04. Fold and Sum.csproj.CoreCompileInputs.cache
+C:\Users\BO\Desktop\C# Fundamentals\CSharpFundamentals Arrays More Exercise\04. Fold and Sum\obj\Debug\net6.0\04. Fold and Sum.dll
+C:\Users\BO\Desktop\C# Fundamentals\CSharpFundamentals Arrays More Exercise\04. Fold and Sum\obj\Debug\net6.0\refint\04. Fold and Sum.dll
+C:\Users\BO\Desktop\C# Fundamentals\CSharpFundamentals Arrays More Exercise\04. Fold and Sum\obj\Debug\net6.0\04. Fold and Sum.pdb
+C:\Users\BO\Desktop\C# Fundamentals\CSharpFundamentals Arrays More Exercise\04. Fold and Sum\obj\Debug\net6.0\04. Fold and Sum.genruntimeconfig.cache
+C:\Users\BO\Desktop\C# Fundamentals\CSharpFundamentals Arrays More Exercise\04. Fold and Sum\obj\Debug\net6.0\ref\04. Fold and Sum.dll

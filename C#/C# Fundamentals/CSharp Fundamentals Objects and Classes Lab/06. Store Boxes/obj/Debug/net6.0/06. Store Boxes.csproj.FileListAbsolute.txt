@@ -1,0 +1,15 @@
+C:\Users\BO\Desktop\C# Fundamentals\CSharp Fundamentals Objects and Classes Lab\06. Store Boxes\bin\Debug\net6.0\06. Store Boxes.exe
+C:\Users\BO\Desktop\C# Fundamentals\CSharp Fundamentals Objects and Classes Lab\06. Store Boxes\bin\Debug\net6.0\06. Store Boxes.deps.json
+C:\Users\BO\Desktop\C# Fundamentals\CSharp Fundamentals Objects and Classes Lab\06. Store Boxes\bin\Debug\net6.0\06. Store Boxes.runtimeconfig.json
+C:\Users\BO\Desktop\C# Fundamentals\CSharp Fundamentals Objects and Classes Lab\06. Store Boxes\bin\Debug\net6.0\06. Store Boxes.dll
+C:\Users\BO\Desktop\C# Fundamentals\CSharp Fundamentals Objects and Classes Lab\06. Store Boxes\bin\Debug\net6.0\06. Store Boxes.pdb
+C:\Users\BO\Desktop\C# Fundamentals\CSharp Fundamentals Objects and Classes Lab\06. Store Boxes\obj\Debug\net6.0\06. Store Boxes.csproj.AssemblyReference.cache
+C:\Users\BO\Desktop\C# Fundamentals\CSharp Fundamentals Objects and Classes Lab\06. Store Boxes\obj\Debug\net6.0\06. Store Boxes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BO\Desktop\C# Fundamentals\CSharp Fundamentals Objects and Classes Lab\06. Store Boxes\obj\Debug\net6.0\06. Store Boxes.AssemblyInfoInputs.cache
+C:\Users\BO\Desktop\C# Fundamentals\CSharp Fundamentals Objects and Classes Lab\06. Store Boxes\obj\Debug\net6.0\06. Store Boxes.AssemblyInfo.cs
+C:\Users\BO\Desktop\C# Fundamentals\CSharp Fundamentals Objects and Classes Lab\06. Store Boxes\obj\Debug\net6.0\06. Store Boxes.csproj.CoreCompileInputs.cache
+C:\Users\BO\Desktop\C# Fundamentals\CSharp Fundamentals Objects and Classes Lab\06. Store Boxes\obj\Debug\net6.0\06. Store Boxes.dll
+C:\Users\BO\Desktop\C# Fundamentals\CSharp Fundamentals Objects and Classes Lab\06. Store Boxes\obj\Debug\net6.0\refint\06. Store Boxes.dll
+C:\Users\BO\Desktop\C# Fundamentals\CSharp Fundamentals Objects and Classes Lab\06. Store Boxes\obj\Debug\net6.0\06. Store Boxes.pdb
+C:\Users\BO\Desktop\C# Fundamentals\CSharp Fundamentals Objects and Classes Lab\06. Store Boxes\obj\Debug\net6.0\06. Store Boxes.genruntimeconfig.cache
+C:\Users\BO\Desktop\C# Fundamentals\CSharp Fundamentals Objects and Classes Lab\06. Store Boxes\obj\Debug\net6.0\ref\06. Store Boxes.dll

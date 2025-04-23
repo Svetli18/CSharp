@@ -1,0 +1,15 @@
+C:\Users\BO\Desktop\C# Advanced\CSharp Advanced Generics Exercise\CSharp Advanced Generics Exercise\obj\Debug\net6.0\Generic Box.csproj.AssemblyReference.cache
+C:\Users\BO\Desktop\C# Advanced\CSharp Advanced Generics Exercise\CSharp Advanced Generics Exercise\obj\Debug\net6.0\Generic Box.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BO\Desktop\C# Advanced\CSharp Advanced Generics Exercise\CSharp Advanced Generics Exercise\obj\Debug\net6.0\Generic Box.AssemblyInfoInputs.cache
+C:\Users\BO\Desktop\C# Advanced\CSharp Advanced Generics Exercise\CSharp Advanced Generics Exercise\obj\Debug\net6.0\Generic Box.AssemblyInfo.cs
+C:\Users\BO\Desktop\C# Advanced\CSharp Advanced Generics Exercise\CSharp Advanced Generics Exercise\obj\Debug\net6.0\Generic Box.csproj.CoreCompileInputs.cache
+C:\Users\BO\Desktop\C# Advanced\CSharp Advanced Generics Exercise\CSharp Advanced Generics Exercise\bin\Debug\net6.0\Generic Box.exe
+C:\Users\BO\Desktop\C# Advanced\CSharp Advanced Generics Exercise\CSharp Advanced Generics Exercise\bin\Debug\net6.0\Generic Box.deps.json
+C:\Users\BO\Desktop\C# Advanced\CSharp Advanced Generics Exercise\CSharp Advanced Generics Exercise\bin\Debug\net6.0\Generic Box.runtimeconfig.json
+C:\Users\BO\Desktop\C# Advanced\CSharp Advanced Generics Exercise\CSharp Advanced Generics Exercise\bin\Debug\net6.0\Generic Box.dll
+C:\Users\BO\Desktop\C# Advanced\CSharp Advanced Generics Exercise\CSharp Advanced Generics Exercise\bin\Debug\net6.0\Generic Box.pdb
+C:\Users\BO\Desktop\C# Advanced\CSharp Advanced Generics Exercise\CSharp Advanced Generics Exercise\obj\Debug\net6.0\Generic Box.dll
+C:\Users\BO\Desktop\C# Advanced\CSharp Advanced Generics Exercise\CSharp Advanced Generics Exercise\obj\Debug\net6.0\refint\Generic Box.dll
+C:\Users\BO\Desktop\C# Advanced\CSharp Advanced Generics Exercise\CSharp Advanced Generics Exercise\obj\Debug\net6.0\Generic Box.pdb
+C:\Users\BO\Desktop\C# Advanced\CSharp Advanced Generics Exercise\CSharp Advanced Generics Exercise\obj\Debug\net6.0\Generic Box.genruntimeconfig.cache
+C:\Users\BO\Desktop\C# Advanced\CSharp Advanced Generics Exercise\CSharp Advanced Generics Exercise\obj\Debug\net6.0\ref\Generic Box.dll

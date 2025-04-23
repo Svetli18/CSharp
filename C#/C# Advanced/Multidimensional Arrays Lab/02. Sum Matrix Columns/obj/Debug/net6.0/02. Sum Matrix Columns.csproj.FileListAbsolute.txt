@@ -1,0 +1,15 @@
+C:\Users\BO\Desktop\C# Advanced\CSharp Advanced Exercises Multidimensional Arrays Lab\02. Sum Matrix Columns\bin\Debug\net6.0\02. Sum Matrix Columns.exe
+C:\Users\BO\Desktop\C# Advanced\CSharp Advanced Exercises Multidimensional Arrays Lab\02. Sum Matrix Columns\bin\Debug\net6.0\02. Sum Matrix Columns.deps.json
+C:\Users\BO\Desktop\C# Advanced\CSharp Advanced Exercises Multidimensional Arrays Lab\02. Sum Matrix Columns\bin\Debug\net6.0\02. Sum Matrix Columns.runtimeconfig.json
+C:\Users\BO\Desktop\C# Advanced\CSharp Advanced Exercises Multidimensional Arrays Lab\02. Sum Matrix Columns\bin\Debug\net6.0\02. Sum Matrix Columns.dll
+C:\Users\BO\Desktop\C# Advanced\CSharp Advanced Exercises Multidimensional Arrays Lab\02. Sum Matrix Columns\bin\Debug\net6.0\02. Sum Matrix Columns.pdb
+C:\Users\BO\Desktop\C# Advanced\CSharp Advanced Exercises Multidimensional Arrays Lab\02. Sum Matrix Columns\obj\Debug\net6.0\02. Sum Matrix Columns.csproj.AssemblyReference.cache
+C:\Users\BO\Desktop\C# Advanced\CSharp Advanced Exercises Multidimensional Arrays Lab\02. Sum Matrix Columns\obj\Debug\net6.0\02. Sum Matrix Columns.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BO\Desktop\C# Advanced\CSharp Advanced Exercises Multidimensional Arrays Lab\02. Sum Matrix Columns\obj\Debug\net6.0\02. Sum Matrix Columns.AssemblyInfoInputs.cache
+C:\Users\BO\Desktop\C# Advanced\CSharp Advanced Exercises Multidimensional Arrays Lab\02. Sum Matrix Columns\obj\Debug\net6.0\02. Sum Matrix Columns.AssemblyInfo.cs
+C:\Users\BO\Desktop\C# Advanced\CSharp Advanced Exercises Multidimensional Arrays Lab\02. Sum Matrix Columns\obj\Debug\net6.0\02. Sum Matrix Columns.csproj.CoreCompileInputs.cache
+C:\Users\BO\Desktop\C# Advanced\CSharp Advanced Exercises Multidimensional Arrays Lab\02. Sum Matrix Columns\obj\Debug\net6.0\02. Sum Matrix Columns.dll
+C:\Users\BO\Desktop\C# Advanced\CSharp Advanced Exercises Multidimensional Arrays Lab\02. Sum Matrix Columns\obj\Debug\net6.0\refint\02. Sum Matrix Columns.dll
+C:\Users\BO\Desktop\C# Advanced\CSharp Advanced Exercises Multidimensional Arrays Lab\02. Sum Matrix Columns\obj\Debug\net6.0\02. Sum Matrix Columns.pdb
+C:\Users\BO\Desktop\C# Advanced\CSharp Advanced Exercises Multidimensional Arrays Lab\02. Sum Matrix Columns\obj\Debug\net6.0\02. Sum Matrix Columns.genruntimeconfig.cache
+C:\Users\BO\Desktop\C# Advanced\CSharp Advanced Exercises Multidimensional Arrays Lab\02. Sum Matrix Columns\obj\Debug\net6.0\ref\02. Sum Matrix Columns.dll

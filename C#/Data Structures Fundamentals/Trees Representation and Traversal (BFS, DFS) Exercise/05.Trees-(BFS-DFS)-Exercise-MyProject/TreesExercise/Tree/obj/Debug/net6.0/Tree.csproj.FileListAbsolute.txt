@@ -1,0 +1,4 @@
+C:\Users\BO\Desktop\Data Structures Fundamentals\Trees Representation and Traversal (BFS, DFS) Exercise\05.Trees-(BFS-DFS)-Exercise-MyProject\TreesExercise\Tree\obj\Debug\net6.0\Tree.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BO\Desktop\Data Structures Fundamentals\Trees Representation and Traversal (BFS, DFS) Exercise\05.Trees-(BFS-DFS)-Exercise-MyProject\TreesExercise\Tree\obj\Debug\net6.0\Tree.AssemblyInfoInputs.cache
+C:\Users\BO\Desktop\Data Structures Fundamentals\Trees Representation and Traversal (BFS, DFS) Exercise\05.Trees-(BFS-DFS)-Exercise-MyProject\TreesExercise\Tree\obj\Debug\net6.0\Tree.AssemblyInfo.cs
+C:\Users\BO\Desktop\Data Structures Fundamentals\Trees Representation and Traversal (BFS, DFS) Exercise\05.Trees-(BFS-DFS)-Exercise-MyProject\TreesExercise\Tree\obj\Debug\net6.0\Tree.csproj.CoreCompileInputs.cache

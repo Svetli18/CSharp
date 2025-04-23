@@ -1,0 +1,14 @@
+C:\Users\BO\Desktop\C# OOP\OOP Exams\09 December 2023\03 Unit Tests\Railway\bin\Debug\net6.0\Railway.exe
+C:\Users\BO\Desktop\C# OOP\OOP Exams\09 December 2023\03 Unit Tests\Railway\bin\Debug\net6.0\Railway.deps.json
+C:\Users\BO\Desktop\C# OOP\OOP Exams\09 December 2023\03 Unit Tests\Railway\bin\Debug\net6.0\Railway.runtimeconfig.json
+C:\Users\BO\Desktop\C# OOP\OOP Exams\09 December 2023\03 Unit Tests\Railway\bin\Debug\net6.0\Railway.dll
+C:\Users\BO\Desktop\C# OOP\OOP Exams\09 December 2023\03 Unit Tests\Railway\bin\Debug\net6.0\Railway.pdb
+C:\Users\BO\Desktop\C# OOP\OOP Exams\09 December 2023\03 Unit Tests\Railway\obj\Debug\net6.0\Railway.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BO\Desktop\C# OOP\OOP Exams\09 December 2023\03 Unit Tests\Railway\obj\Debug\net6.0\Railway.AssemblyInfoInputs.cache
+C:\Users\BO\Desktop\C# OOP\OOP Exams\09 December 2023\03 Unit Tests\Railway\obj\Debug\net6.0\Railway.AssemblyInfo.cs
+C:\Users\BO\Desktop\C# OOP\OOP Exams\09 December 2023\03 Unit Tests\Railway\obj\Debug\net6.0\Railway.csproj.CoreCompileInputs.cache
+C:\Users\BO\Desktop\C# OOP\OOP Exams\09 December 2023\03 Unit Tests\Railway\obj\Debug\net6.0\Railway.dll
+C:\Users\BO\Desktop\C# OOP\OOP Exams\09 December 2023\03 Unit Tests\Railway\obj\Debug\net6.0\refint\Railway.dll
+C:\Users\BO\Desktop\C# OOP\OOP Exams\09 December 2023\03 Unit Tests\Railway\obj\Debug\net6.0\Railway.pdb
+C:\Users\BO\Desktop\C# OOP\OOP Exams\09 December 2023\03 Unit Tests\Railway\obj\Debug\net6.0\Railway.genruntimeconfig.cache
+C:\Users\BO\Desktop\C# OOP\OOP Exams\09 December 2023\03 Unit Tests\Railway\obj\Debug\net6.0\ref\Railway.dll

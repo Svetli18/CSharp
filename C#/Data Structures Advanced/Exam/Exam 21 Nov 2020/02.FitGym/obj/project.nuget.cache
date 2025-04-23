@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "YUfyufMD/60=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\BO\\Desktop\\Data Structures Advanced\\Exam\\Exam 21 Nov 2020\\02.FitGym\\02.FitGym.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\BO\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\BO\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

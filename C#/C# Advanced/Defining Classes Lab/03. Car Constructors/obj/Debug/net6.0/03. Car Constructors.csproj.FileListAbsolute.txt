@@ -1,0 +1,15 @@
+C:\Users\BO\Desktop\C# Advanced\CSharp Advanced Exercises Defining Classes Lab\03. Car Constructors\bin\Debug\net6.0\03. Car Constructors.exe
+C:\Users\BO\Desktop\C# Advanced\CSharp Advanced Exercises Defining Classes Lab\03. Car Constructors\bin\Debug\net6.0\03. Car Constructors.deps.json
+C:\Users\BO\Desktop\C# Advanced\CSharp Advanced Exercises Defining Classes Lab\03. Car Constructors\bin\Debug\net6.0\03. Car Constructors.runtimeconfig.json
+C:\Users\BO\Desktop\C# Advanced\CSharp Advanced Exercises Defining Classes Lab\03. Car Constructors\bin\Debug\net6.0\03. Car Constructors.dll
+C:\Users\BO\Desktop\C# Advanced\CSharp Advanced Exercises Defining Classes Lab\03. Car Constructors\bin\Debug\net6.0\03. Car Constructors.pdb
+C:\Users\BO\Desktop\C# Advanced\CSharp Advanced Exercises Defining Classes Lab\03. Car Constructors\obj\Debug\net6.0\03. Car Constructors.csproj.AssemblyReference.cache
+C:\Users\BO\Desktop\C# Advanced\CSharp Advanced Exercises Defining Classes Lab\03. Car Constructors\obj\Debug\net6.0\03. Car Constructors.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BO\Desktop\C# Advanced\CSharp Advanced Exercises Defining Classes Lab\03. Car Constructors\obj\Debug\net6.0\03. Car Constructors.AssemblyInfoInputs.cache
+C:\Users\BO\Desktop\C# Advanced\CSharp Advanced Exercises Defining Classes Lab\03. Car Constructors\obj\Debug\net6.0\03. Car Constructors.AssemblyInfo.cs
+C:\Users\BO\Desktop\C# Advanced\CSharp Advanced Exercises Defining Classes Lab\03. Car Constructors\obj\Debug\net6.0\03. Car Constructors.csproj.CoreCompileInputs.cache
+C:\Users\BO\Desktop\C# Advanced\CSharp Advanced Exercises Defining Classes Lab\03. Car Constructors\obj\Debug\net6.0\03. Car Constructors.dll
+C:\Users\BO\Desktop\C# Advanced\CSharp Advanced Exercises Defining Classes Lab\03. Car Constructors\obj\Debug\net6.0\refint\03. Car Constructors.dll
+C:\Users\BO\Desktop\C# Advanced\CSharp Advanced Exercises Defining Classes Lab\03. Car Constructors\obj\Debug\net6.0\03. Car Constructors.pdb
+C:\Users\BO\Desktop\C# Advanced\CSharp Advanced Exercises Defining Classes Lab\03. Car Constructors\obj\Debug\net6.0\03. Car Constructors.genruntimeconfig.cache
+C:\Users\BO\Desktop\C# Advanced\CSharp Advanced Exercises Defining Classes Lab\03. Car Constructors\obj\Debug\net6.0\ref\03. Car Constructors.dll

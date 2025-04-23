@@ -1,0 +1,15 @@
+C:\Users\BO\Desktop\C# Fundamentals\Fundamentals Mid Exams\04. 3Inventory List\bin\Debug\net6.0\04. 3Inventory List.exe
+C:\Users\BO\Desktop\C# Fundamentals\Fundamentals Mid Exams\04. 3Inventory List\bin\Debug\net6.0\04. 3Inventory List.deps.json
+C:\Users\BO\Desktop\C# Fundamentals\Fundamentals Mid Exams\04. 3Inventory List\bin\Debug\net6.0\04. 3Inventory List.runtimeconfig.json
+C:\Users\BO\Desktop\C# Fundamentals\Fundamentals Mid Exams\04. 3Inventory List\bin\Debug\net6.0\04. 3Inventory List.dll
+C:\Users\BO\Desktop\C# Fundamentals\Fundamentals Mid Exams\04. 3Inventory List\bin\Debug\net6.0\04. 3Inventory List.pdb
+C:\Users\BO\Desktop\C# Fundamentals\Fundamentals Mid Exams\04. 3Inventory List\obj\Debug\net6.0\04. 3Inventory List.csproj.AssemblyReference.cache
+C:\Users\BO\Desktop\C# Fundamentals\Fundamentals Mid Exams\04. 3Inventory List\obj\Debug\net6.0\04. 3Inventory List.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BO\Desktop\C# Fundamentals\Fundamentals Mid Exams\04. 3Inventory List\obj\Debug\net6.0\04. 3Inventory List.AssemblyInfoInputs.cache
+C:\Users\BO\Desktop\C# Fundamentals\Fundamentals Mid Exams\04. 3Inventory List\obj\Debug\net6.0\04. 3Inventory List.AssemblyInfo.cs
+C:\Users\BO\Desktop\C# Fundamentals\Fundamentals Mid Exams\04. 3Inventory List\obj\Debug\net6.0\04. 3Inventory List.csproj.CoreCompileInputs.cache
+C:\Users\BO\Desktop\C# Fundamentals\Fundamentals Mid Exams\04. 3Inventory List\obj\Debug\net6.0\04. 3Inventory List.dll
+C:\Users\BO\Desktop\C# Fundamentals\Fundamentals Mid Exams\04. 3Inventory List\obj\Debug\net6.0\refint\04. 3Inventory List.dll
+C:\Users\BO\Desktop\C# Fundamentals\Fundamentals Mid Exams\04. 3Inventory List\obj\Debug\net6.0\04. 3Inventory List.pdb
+C:\Users\BO\Desktop\C# Fundamentals\Fundamentals Mid Exams\04. 3Inventory List\obj\Debug\net6.0\04. 3Inventory List.genruntimeconfig.cache
+C:\Users\BO\Desktop\C# Fundamentals\Fundamentals Mid Exams\04. 3Inventory List\obj\Debug\net6.0\ref\04. 3Inventory List.dll

@@ -1,0 +1,15 @@
+C:\Users\BO\Desktop\C# Fundamentals\CSharp Fundamentals Objects and Classes Lab\02. Big Factorial\obj\Debug\net6.0\02. Big Factorial.csproj.AssemblyReference.cache
+C:\Users\BO\Desktop\C# Fundamentals\CSharp Fundamentals Objects and Classes Lab\02. Big Factorial\obj\Debug\net6.0\02. Big Factorial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BO\Desktop\C# Fundamentals\CSharp Fundamentals Objects and Classes Lab\02. Big Factorial\obj\Debug\net6.0\02. Big Factorial.AssemblyInfoInputs.cache
+C:\Users\BO\Desktop\C# Fundamentals\CSharp Fundamentals Objects and Classes Lab\02. Big Factorial\obj\Debug\net6.0\02. Big Factorial.AssemblyInfo.cs
+C:\Users\BO\Desktop\C# Fundamentals\CSharp Fundamentals Objects and Classes Lab\02. Big Factorial\obj\Debug\net6.0\02. Big Factorial.csproj.CoreCompileInputs.cache
+C:\Users\BO\Desktop\C# Fundamentals\CSharp Fundamentals Objects and Classes Lab\02. Big Factorial\bin\Debug\net6.0\02. Big Factorial.exe
+C:\Users\BO\Desktop\C# Fundamentals\CSharp Fundamentals Objects and Classes Lab\02. Big Factorial\bin\Debug\net6.0\02. Big Factorial.deps.json
+C:\Users\BO\Desktop\C# Fundamentals\CSharp Fundamentals Objects and Classes Lab\02. Big Factorial\bin\Debug\net6.0\02. Big Factorial.runtimeconfig.json
+C:\Users\BO\Desktop\C# Fundamentals\CSharp Fundamentals Objects and Classes Lab\02. Big Factorial\bin\Debug\net6.0\02. Big Factorial.dll
+C:\Users\BO\Desktop\C# Fundamentals\CSharp Fundamentals Objects and Classes Lab\02. Big Factorial\bin\Debug\net6.0\02. Big Factorial.pdb
+C:\Users\BO\Desktop\C# Fundamentals\CSharp Fundamentals Objects and Classes Lab\02. Big Factorial\obj\Debug\net6.0\02. Big Factorial.dll
+C:\Users\BO\Desktop\C# Fundamentals\CSharp Fundamentals Objects and Classes Lab\02. Big Factorial\obj\Debug\net6.0\refint\02. Big Factorial.dll
+C:\Users\BO\Desktop\C# Fundamentals\CSharp Fundamentals Objects and Classes Lab\02. Big Factorial\obj\Debug\net6.0\02. Big Factorial.pdb
+C:\Users\BO\Desktop\C# Fundamentals\CSharp Fundamentals Objects and Classes Lab\02. Big Factorial\obj\Debug\net6.0\02. Big Factorial.genruntimeconfig.cache
+C:\Users\BO\Desktop\C# Fundamentals\CSharp Fundamentals Objects and Classes Lab\02. Big Factorial\obj\Debug\net6.0\ref\02. Big Factorial.dll

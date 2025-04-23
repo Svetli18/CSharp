@@ -1,0 +1,14 @@
+C:\Users\BO\Desktop\C# Fundamentals\Basic Syntax Lab\Basic Syntax Lab\bin\Debug\net8.0\Basic Syntax Lab.exe
+C:\Users\BO\Desktop\C# Fundamentals\Basic Syntax Lab\Basic Syntax Lab\bin\Debug\net8.0\Basic Syntax Lab.deps.json
+C:\Users\BO\Desktop\C# Fundamentals\Basic Syntax Lab\Basic Syntax Lab\bin\Debug\net8.0\Basic Syntax Lab.runtimeconfig.json
+C:\Users\BO\Desktop\C# Fundamentals\Basic Syntax Lab\Basic Syntax Lab\bin\Debug\net8.0\Basic Syntax Lab.dll
+C:\Users\BO\Desktop\C# Fundamentals\Basic Syntax Lab\Basic Syntax Lab\bin\Debug\net8.0\Basic Syntax Lab.pdb
+C:\Users\BO\Desktop\C# Fundamentals\Basic Syntax Lab\Basic Syntax Lab\obj\Debug\net8.0\Basic Syntax Lab.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BO\Desktop\C# Fundamentals\Basic Syntax Lab\Basic Syntax Lab\obj\Debug\net8.0\Basic Syntax Lab.AssemblyInfoInputs.cache
+C:\Users\BO\Desktop\C# Fundamentals\Basic Syntax Lab\Basic Syntax Lab\obj\Debug\net8.0\Basic Syntax Lab.AssemblyInfo.cs
+C:\Users\BO\Desktop\C# Fundamentals\Basic Syntax Lab\Basic Syntax Lab\obj\Debug\net8.0\Basic Syntax Lab.csproj.CoreCompileInputs.cache
+C:\Users\BO\Desktop\C# Fundamentals\Basic Syntax Lab\Basic Syntax Lab\obj\Debug\net8.0\Basic Syntax Lab.dll
+C:\Users\BO\Desktop\C# Fundamentals\Basic Syntax Lab\Basic Syntax Lab\obj\Debug\net8.0\refint\Basic Syntax Lab.dll
+C:\Users\BO\Desktop\C# Fundamentals\Basic Syntax Lab\Basic Syntax Lab\obj\Debug\net8.0\Basic Syntax Lab.pdb
+C:\Users\BO\Desktop\C# Fundamentals\Basic Syntax Lab\Basic Syntax Lab\obj\Debug\net8.0\Basic Syntax Lab.genruntimeconfig.cache
+C:\Users\BO\Desktop\C# Fundamentals\Basic Syntax Lab\Basic Syntax Lab\obj\Debug\net8.0\ref\Basic Syntax Lab.dll

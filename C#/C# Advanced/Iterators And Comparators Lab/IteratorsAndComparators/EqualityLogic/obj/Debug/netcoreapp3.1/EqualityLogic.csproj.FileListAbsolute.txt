@@ -1,0 +1,14 @@
+C:\Users\BO\Desktop\C# Advanced\Iterators And Comparators Lab\IteratorsAndComparators\EqualityLogic\bin\Debug\netcoreapp3.1\EqualityLogic.exe
+C:\Users\BO\Desktop\C# Advanced\Iterators And Comparators Lab\IteratorsAndComparators\EqualityLogic\bin\Debug\netcoreapp3.1\EqualityLogic.deps.json
+C:\Users\BO\Desktop\C# Advanced\Iterators And Comparators Lab\IteratorsAndComparators\EqualityLogic\bin\Debug\netcoreapp3.1\EqualityLogic.runtimeconfig.json
+C:\Users\BO\Desktop\C# Advanced\Iterators And Comparators Lab\IteratorsAndComparators\EqualityLogic\bin\Debug\netcoreapp3.1\EqualityLogic.runtimeconfig.dev.json
+C:\Users\BO\Desktop\C# Advanced\Iterators And Comparators Lab\IteratorsAndComparators\EqualityLogic\bin\Debug\netcoreapp3.1\EqualityLogic.dll
+C:\Users\BO\Desktop\C# Advanced\Iterators And Comparators Lab\IteratorsAndComparators\EqualityLogic\bin\Debug\netcoreapp3.1\EqualityLogic.pdb
+C:\Users\BO\Desktop\C# Advanced\Iterators And Comparators Lab\IteratorsAndComparators\EqualityLogic\obj\Debug\netcoreapp3.1\EqualityLogic.csproj.AssemblyReference.cache
+C:\Users\BO\Desktop\C# Advanced\Iterators And Comparators Lab\IteratorsAndComparators\EqualityLogic\obj\Debug\netcoreapp3.1\EqualityLogic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BO\Desktop\C# Advanced\Iterators And Comparators Lab\IteratorsAndComparators\EqualityLogic\obj\Debug\netcoreapp3.1\EqualityLogic.AssemblyInfoInputs.cache
+C:\Users\BO\Desktop\C# Advanced\Iterators And Comparators Lab\IteratorsAndComparators\EqualityLogic\obj\Debug\netcoreapp3.1\EqualityLogic.AssemblyInfo.cs
+C:\Users\BO\Desktop\C# Advanced\Iterators And Comparators Lab\IteratorsAndComparators\EqualityLogic\obj\Debug\netcoreapp3.1\EqualityLogic.csproj.CoreCompileInputs.cache
+C:\Users\BO\Desktop\C# Advanced\Iterators And Comparators Lab\IteratorsAndComparators\EqualityLogic\obj\Debug\netcoreapp3.1\EqualityLogic.dll
+C:\Users\BO\Desktop\C# Advanced\Iterators And Comparators Lab\IteratorsAndComparators\EqualityLogic\obj\Debug\netcoreapp3.1\EqualityLogic.pdb
+C:\Users\BO\Desktop\C# Advanced\Iterators And Comparators Lab\IteratorsAndComparators\EqualityLogic\obj\Debug\netcoreapp3.1\EqualityLogic.genruntimeconfig.cache

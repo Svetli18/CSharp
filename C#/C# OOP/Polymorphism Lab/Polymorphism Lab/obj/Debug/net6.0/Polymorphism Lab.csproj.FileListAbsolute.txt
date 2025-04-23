@@ -1,0 +1,14 @@
+C:\Users\BO\Desktop\C# OOP\Polymorphism Lab\Polymorphism Lab\bin\Debug\net6.0\Polymorphism Lab.exe
+C:\Users\BO\Desktop\C# OOP\Polymorphism Lab\Polymorphism Lab\bin\Debug\net6.0\Polymorphism Lab.deps.json
+C:\Users\BO\Desktop\C# OOP\Polymorphism Lab\Polymorphism Lab\bin\Debug\net6.0\Polymorphism Lab.runtimeconfig.json
+C:\Users\BO\Desktop\C# OOP\Polymorphism Lab\Polymorphism Lab\bin\Debug\net6.0\Polymorphism Lab.dll
+C:\Users\BO\Desktop\C# OOP\Polymorphism Lab\Polymorphism Lab\bin\Debug\net6.0\Polymorphism Lab.pdb
+C:\Users\BO\Desktop\C# OOP\Polymorphism Lab\Polymorphism Lab\obj\Debug\net6.0\Polymorphism Lab.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BO\Desktop\C# OOP\Polymorphism Lab\Polymorphism Lab\obj\Debug\net6.0\Polymorphism Lab.AssemblyInfoInputs.cache
+C:\Users\BO\Desktop\C# OOP\Polymorphism Lab\Polymorphism Lab\obj\Debug\net6.0\Polymorphism Lab.AssemblyInfo.cs
+C:\Users\BO\Desktop\C# OOP\Polymorphism Lab\Polymorphism Lab\obj\Debug\net6.0\Polymorphism Lab.csproj.CoreCompileInputs.cache
+C:\Users\BO\Desktop\C# OOP\Polymorphism Lab\Polymorphism Lab\obj\Debug\net6.0\Polymorphism Lab.dll
+C:\Users\BO\Desktop\C# OOP\Polymorphism Lab\Polymorphism Lab\obj\Debug\net6.0\refint\Polymorphism Lab.dll
+C:\Users\BO\Desktop\C# OOP\Polymorphism Lab\Polymorphism Lab\obj\Debug\net6.0\Polymorphism Lab.pdb
+C:\Users\BO\Desktop\C# OOP\Polymorphism Lab\Polymorphism Lab\obj\Debug\net6.0\Polymorphism Lab.genruntimeconfig.cache
+C:\Users\BO\Desktop\C# OOP\Polymorphism Lab\Polymorphism Lab\obj\Debug\net6.0\ref\Polymorphism Lab.dll

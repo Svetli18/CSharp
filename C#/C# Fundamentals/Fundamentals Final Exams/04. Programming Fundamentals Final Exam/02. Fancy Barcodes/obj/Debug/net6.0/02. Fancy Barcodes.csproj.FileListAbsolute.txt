@@ -1,0 +1,15 @@
+C:\Users\BO\Desktop\C# Fundamentals\Fundamentals Final Exams\04. Programming Fundamentals Final Exam\02. Fancy Barcodes\bin\Debug\net6.0\02. Fancy Barcodes.exe
+C:\Users\BO\Desktop\C# Fundamentals\Fundamentals Final Exams\04. Programming Fundamentals Final Exam\02. Fancy Barcodes\bin\Debug\net6.0\02. Fancy Barcodes.deps.json
+C:\Users\BO\Desktop\C# Fundamentals\Fundamentals Final Exams\04. Programming Fundamentals Final Exam\02. Fancy Barcodes\bin\Debug\net6.0\02. Fancy Barcodes.runtimeconfig.json
+C:\Users\BO\Desktop\C# Fundamentals\Fundamentals Final Exams\04. Programming Fundamentals Final Exam\02. Fancy Barcodes\bin\Debug\net6.0\02. Fancy Barcodes.dll
+C:\Users\BO\Desktop\C# Fundamentals\Fundamentals Final Exams\04. Programming Fundamentals Final Exam\02. Fancy Barcodes\bin\Debug\net6.0\02. Fancy Barcodes.pdb
+C:\Users\BO\Desktop\C# Fundamentals\Fundamentals Final Exams\04. Programming Fundamentals Final Exam\02. Fancy Barcodes\obj\Debug\net6.0\02. Fancy Barcodes.csproj.AssemblyReference.cache
+C:\Users\BO\Desktop\C# Fundamentals\Fundamentals Final Exams\04. Programming Fundamentals Final Exam\02. Fancy Barcodes\obj\Debug\net6.0\02. Fancy Barcodes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BO\Desktop\C# Fundamentals\Fundamentals Final Exams\04. Programming Fundamentals Final Exam\02. Fancy Barcodes\obj\Debug\net6.0\02. Fancy Barcodes.AssemblyInfoInputs.cache
+C:\Users\BO\Desktop\C# Fundamentals\Fundamentals Final Exams\04. Programming Fundamentals Final Exam\02. Fancy Barcodes\obj\Debug\net6.0\02. Fancy Barcodes.AssemblyInfo.cs
+C:\Users\BO\Desktop\C# Fundamentals\Fundamentals Final Exams\04. Programming Fundamentals Final Exam\02. Fancy Barcodes\obj\Debug\net6.0\02. Fancy Barcodes.csproj.CoreCompileInputs.cache
+C:\Users\BO\Desktop\C# Fundamentals\Fundamentals Final Exams\04. Programming Fundamentals Final Exam\02. Fancy Barcodes\obj\Debug\net6.0\02. Fancy Barcodes.dll
+C:\Users\BO\Desktop\C# Fundamentals\Fundamentals Final Exams\04. Programming Fundamentals Final Exam\02. Fancy Barcodes\obj\Debug\net6.0\refint\02. Fancy Barcodes.dll
+C:\Users\BO\Desktop\C# Fundamentals\Fundamentals Final Exams\04. Programming Fundamentals Final Exam\02. Fancy Barcodes\obj\Debug\net6.0\02. Fancy Barcodes.pdb
+C:\Users\BO\Desktop\C# Fundamentals\Fundamentals Final Exams\04. Programming Fundamentals Final Exam\02. Fancy Barcodes\obj\Debug\net6.0\02. Fancy Barcodes.genruntimeconfig.cache
+C:\Users\BO\Desktop\C# Fundamentals\Fundamentals Final Exams\04. Programming Fundamentals Final Exam\02. Fancy Barcodes\obj\Debug\net6.0\ref\02. Fancy Barcodes.dll

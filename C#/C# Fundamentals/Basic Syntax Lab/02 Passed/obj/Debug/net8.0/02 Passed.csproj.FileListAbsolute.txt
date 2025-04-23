@@ -1,0 +1,4 @@
+C:\Users\BO\Desktop\C# Fundamentals\Basic Syntax Lab\02 Passed\obj\Debug\net8.0\02 Passed.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BO\Desktop\C# Fundamentals\Basic Syntax Lab\02 Passed\obj\Debug\net8.0\02 Passed.AssemblyInfoInputs.cache
+C:\Users\BO\Desktop\C# Fundamentals\Basic Syntax Lab\02 Passed\obj\Debug\net8.0\02 Passed.AssemblyInfo.cs
+C:\Users\BO\Desktop\C# Fundamentals\Basic Syntax Lab\02 Passed\obj\Debug\net8.0\02 Passed.csproj.CoreCompileInputs.cache

@@ -1,0 +1,15 @@
+C:\Users\BO\Desktop\C# Fundamentals\Fundamentals Mid Exams\04. 2MuOnline\bin\Debug\net6.0\04. 2MuOnline.exe
+C:\Users\BO\Desktop\C# Fundamentals\Fundamentals Mid Exams\04. 2MuOnline\bin\Debug\net6.0\04. 2MuOnline.deps.json
+C:\Users\BO\Desktop\C# Fundamentals\Fundamentals Mid Exams\04. 2MuOnline\bin\Debug\net6.0\04. 2MuOnline.runtimeconfig.json
+C:\Users\BO\Desktop\C# Fundamentals\Fundamentals Mid Exams\04. 2MuOnline\bin\Debug\net6.0\04. 2MuOnline.dll
+C:\Users\BO\Desktop\C# Fundamentals\Fundamentals Mid Exams\04. 2MuOnline\bin\Debug\net6.0\04. 2MuOnline.pdb
+C:\Users\BO\Desktop\C# Fundamentals\Fundamentals Mid Exams\04. 2MuOnline\obj\Debug\net6.0\04. 2MuOnline.csproj.AssemblyReference.cache
+C:\Users\BO\Desktop\C# Fundamentals\Fundamentals Mid Exams\04. 2MuOnline\obj\Debug\net6.0\04. 2MuOnline.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BO\Desktop\C# Fundamentals\Fundamentals Mid Exams\04. 2MuOnline\obj\Debug\net6.0\04. 2MuOnline.AssemblyInfoInputs.cache
+C:\Users\BO\Desktop\C# Fundamentals\Fundamentals Mid Exams\04. 2MuOnline\obj\Debug\net6.0\04. 2MuOnline.AssemblyInfo.cs
+C:\Users\BO\Desktop\C# Fundamentals\Fundamentals Mid Exams\04. 2MuOnline\obj\Debug\net6.0\04. 2MuOnline.csproj.CoreCompileInputs.cache
+C:\Users\BO\Desktop\C# Fundamentals\Fundamentals Mid Exams\04. 2MuOnline\obj\Debug\net6.0\04. 2MuOnline.dll
+C:\Users\BO\Desktop\C# Fundamentals\Fundamentals Mid Exams\04. 2MuOnline\obj\Debug\net6.0\refint\04. 2MuOnline.dll
+C:\Users\BO\Desktop\C# Fundamentals\Fundamentals Mid Exams\04. 2MuOnline\obj\Debug\net6.0\04. 2MuOnline.pdb
+C:\Users\BO\Desktop\C# Fundamentals\Fundamentals Mid Exams\04. 2MuOnline\obj\Debug\net6.0\04. 2MuOnline.genruntimeconfig.cache
+C:\Users\BO\Desktop\C# Fundamentals\Fundamentals Mid Exams\04. 2MuOnline\obj\Debug\net6.0\ref\04. 2MuOnline.dll

@@ -1,0 +1,14 @@
+C:\Users\BO\Desktop\C# Advanced\Exams\Exam 14 April 2021\Super Mario\bin\Debug\netcoreapp3.1\Super Mario.exe
+C:\Users\BO\Desktop\C# Advanced\Exams\Exam 14 April 2021\Super Mario\bin\Debug\netcoreapp3.1\Super Mario.deps.json
+C:\Users\BO\Desktop\C# Advanced\Exams\Exam 14 April 2021\Super Mario\bin\Debug\netcoreapp3.1\Super Mario.runtimeconfig.json
+C:\Users\BO\Desktop\C# Advanced\Exams\Exam 14 April 2021\Super Mario\bin\Debug\netcoreapp3.1\Super Mario.runtimeconfig.dev.json
+C:\Users\BO\Desktop\C# Advanced\Exams\Exam 14 April 2021\Super Mario\bin\Debug\netcoreapp3.1\Super Mario.dll
+C:\Users\BO\Desktop\C# Advanced\Exams\Exam 14 April 2021\Super Mario\bin\Debug\netcoreapp3.1\Super Mario.pdb
+C:\Users\BO\Desktop\C# Advanced\Exams\Exam 14 April 2021\Super Mario\obj\Debug\netcoreapp3.1\Super Mario.csproj.AssemblyReference.cache
+C:\Users\BO\Desktop\C# Advanced\Exams\Exam 14 April 2021\Super Mario\obj\Debug\netcoreapp3.1\Super Mario.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BO\Desktop\C# Advanced\Exams\Exam 14 April 2021\Super Mario\obj\Debug\netcoreapp3.1\Super Mario.AssemblyInfoInputs.cache
+C:\Users\BO\Desktop\C# Advanced\Exams\Exam 14 April 2021\Super Mario\obj\Debug\netcoreapp3.1\Super Mario.AssemblyInfo.cs
+C:\Users\BO\Desktop\C# Advanced\Exams\Exam 14 April 2021\Super Mario\obj\Debug\netcoreapp3.1\Super Mario.csproj.CoreCompileInputs.cache
+C:\Users\BO\Desktop\C# Advanced\Exams\Exam 14 April 2021\Super Mario\obj\Debug\netcoreapp3.1\Super Mario.dll
+C:\Users\BO\Desktop\C# Advanced\Exams\Exam 14 April 2021\Super Mario\obj\Debug\netcoreapp3.1\Super Mario.pdb
+C:\Users\BO\Desktop\C# Advanced\Exams\Exam 14 April 2021\Super Mario\obj\Debug\netcoreapp3.1\Super Mario.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+C:\Users\BO\Desktop\C# Fundamentals\Fundamentals Final Exams\04. Programming Fundamentals Final Exam\03. Heroes of Code and Logic VII\bin\Debug\net6.0\03. Heroes of Code and Logic VII.exe
+C:\Users\BO\Desktop\C# Fundamentals\Fundamentals Final Exams\04. Programming Fundamentals Final Exam\03. Heroes of Code and Logic VII\bin\Debug\net6.0\03. Heroes of Code and Logic VII.deps.json
+C:\Users\BO\Desktop\C# Fundamentals\Fundamentals Final Exams\04. Programming Fundamentals Final Exam\03. Heroes of Code and Logic VII\bin\Debug\net6.0\03. Heroes of Code and Logic VII.runtimeconfig.json
+C:\Users\BO\Desktop\C# Fundamentals\Fundamentals Final Exams\04. Programming Fundamentals Final Exam\03. Heroes of Code and Logic VII\bin\Debug\net6.0\03. Heroes of Code and Logic VII.dll
+C:\Users\BO\Desktop\C# Fundamentals\Fundamentals Final Exams\04. Programming Fundamentals Final Exam\03. Heroes of Code and Logic VII\bin\Debug\net6.0\03. Heroes of Code and Logic VII.pdb
+C:\Users\BO\Desktop\C# Fundamentals\Fundamentals Final Exams\04. Programming Fundamentals Final Exam\03. Heroes of Code and Logic VII\obj\Debug\net6.0\03. Heroes of Code and Logic VII.csproj.AssemblyReference.cache
+C:\Users\BO\Desktop\C# Fundamentals\Fundamentals Final Exams\04. Programming Fundamentals Final Exam\03. Heroes of Code and Logic VII\obj\Debug\net6.0\03. Heroes of Code and Logic VII.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BO\Desktop\C# Fundamentals\Fundamentals Final Exams\04. Programming Fundamentals Final Exam\03. Heroes of Code and Logic VII\obj\Debug\net6.0\03. Heroes of Code and Logic VII.AssemblyInfoInputs.cache
+C:\Users\BO\Desktop\C# Fundamentals\Fundamentals Final Exams\04. Programming Fundamentals Final Exam\03. Heroes of Code and Logic VII\obj\Debug\net6.0\03. Heroes of Code and Logic VII.AssemblyInfo.cs
+C:\Users\BO\Desktop\C# Fundamentals\Fundamentals Final Exams\04. Programming Fundamentals Final Exam\03. Heroes of Code and Logic VII\obj\Debug\net6.0\03. Heroes of Code and Logic VII.csproj.CoreCompileInputs.cache
+C:\Users\BO\Desktop\C# Fundamentals\Fundamentals Final Exams\04. Programming Fundamentals Final Exam\03. Heroes of Code and Logic VII\obj\Debug\net6.0\03. Heroes of Code and Logic VII.dll
+C:\Users\BO\Desktop\C# Fundamentals\Fundamentals Final Exams\04. Programming Fundamentals Final Exam\03. Heroes of Code and Logic VII\obj\Debug\net6.0\refint\03. Heroes of Code and Logic VII.dll
+C:\Users\BO\Desktop\C# Fundamentals\Fundamentals Final Exams\04. Programming Fundamentals Final Exam\03. Heroes of Code and Logic VII\obj\Debug\net6.0\03. Heroes of Code and Logic VII.pdb
+C:\Users\BO\Desktop\C# Fundamentals\Fundamentals Final Exams\04. Programming Fundamentals Final Exam\03. Heroes of Code and Logic VII\obj\Debug\net6.0\03. Heroes of Code and Logic VII.genruntimeconfig.cache
+C:\Users\BO\Desktop\C# Fundamentals\Fundamentals Final Exams\04. Programming Fundamentals Final Exam\03. Heroes of Code and Logic VII\obj\Debug\net6.0\ref\03. Heroes of Code and Logic VII.dll

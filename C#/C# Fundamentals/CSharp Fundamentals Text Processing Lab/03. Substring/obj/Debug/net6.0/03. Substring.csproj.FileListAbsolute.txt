@@ -1,0 +1,15 @@
+C:\Users\BO\Desktop\C# Fundamentals\CSharp Fundamentals Text Processing Lab\03. Substring\bin\Debug\net6.0\03. Substring.exe
+C:\Users\BO\Desktop\C# Fundamentals\CSharp Fundamentals Text Processing Lab\03. Substring\bin\Debug\net6.0\03. Substring.deps.json
+C:\Users\BO\Desktop\C# Fundamentals\CSharp Fundamentals Text Processing Lab\03. Substring\bin\Debug\net6.0\03. Substring.runtimeconfig.json
+C:\Users\BO\Desktop\C# Fundamentals\CSharp Fundamentals Text Processing Lab\03. Substring\bin\Debug\net6.0\03. Substring.dll
+C:\Users\BO\Desktop\C# Fundamentals\CSharp Fundamentals Text Processing Lab\03. Substring\bin\Debug\net6.0\03. Substring.pdb
+C:\Users\BO\Desktop\C# Fundamentals\CSharp Fundamentals Text Processing Lab\03. Substring\obj\Debug\net6.0\03. Substring.csproj.AssemblyReference.cache
+C:\Users\BO\Desktop\C# Fundamentals\CSharp Fundamentals Text Processing Lab\03. Substring\obj\Debug\net6.0\03. Substring.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BO\Desktop\C# Fundamentals\CSharp Fundamentals Text Processing Lab\03. Substring\obj\Debug\net6.0\03. Substring.AssemblyInfoInputs.cache
+C:\Users\BO\Desktop\C# Fundamentals\CSharp Fundamentals Text Processing Lab\03. Substring\obj\Debug\net6.0\03. Substring.AssemblyInfo.cs
+C:\Users\BO\Desktop\C# Fundamentals\CSharp Fundamentals Text Processing Lab\03. Substring\obj\Debug\net6.0\03. Substring.csproj.CoreCompileInputs.cache
+C:\Users\BO\Desktop\C# Fundamentals\CSharp Fundamentals Text Processing Lab\03. Substring\obj\Debug\net6.0\03. Substring.dll
+C:\Users\BO\Desktop\C# Fundamentals\CSharp Fundamentals Text Processing Lab\03. Substring\obj\Debug\net6.0\refint\03. Substring.dll
+C:\Users\BO\Desktop\C# Fundamentals\CSharp Fundamentals Text Processing Lab\03. Substring\obj\Debug\net6.0\03. Substring.pdb
+C:\Users\BO\Desktop\C# Fundamentals\CSharp Fundamentals Text Processing Lab\03. Substring\obj\Debug\net6.0\03. Substring.genruntimeconfig.cache
+C:\Users\BO\Desktop\C# Fundamentals\CSharp Fundamentals Text Processing Lab\03. Substring\obj\Debug\net6.0\ref\03. Substring.dll

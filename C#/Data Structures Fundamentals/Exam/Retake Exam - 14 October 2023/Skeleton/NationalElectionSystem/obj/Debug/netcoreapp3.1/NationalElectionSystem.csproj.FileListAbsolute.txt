@@ -1,0 +1,13 @@
+C:\Users\BO\Desktop\Data Structures Fundamentals\Exam\Retake Exam - 14 October 2023\Skeleton\NationalElectionSystem\bin\Debug\netcoreapp3.1\NationalElectionSystem.exe
+C:\Users\BO\Desktop\Data Structures Fundamentals\Exam\Retake Exam - 14 October 2023\Skeleton\NationalElectionSystem\bin\Debug\netcoreapp3.1\NationalElectionSystem.deps.json
+C:\Users\BO\Desktop\Data Structures Fundamentals\Exam\Retake Exam - 14 October 2023\Skeleton\NationalElectionSystem\bin\Debug\netcoreapp3.1\NationalElectionSystem.runtimeconfig.json
+C:\Users\BO\Desktop\Data Structures Fundamentals\Exam\Retake Exam - 14 October 2023\Skeleton\NationalElectionSystem\bin\Debug\netcoreapp3.1\NationalElectionSystem.runtimeconfig.dev.json
+C:\Users\BO\Desktop\Data Structures Fundamentals\Exam\Retake Exam - 14 October 2023\Skeleton\NationalElectionSystem\bin\Debug\netcoreapp3.1\NationalElectionSystem.dll
+C:\Users\BO\Desktop\Data Structures Fundamentals\Exam\Retake Exam - 14 October 2023\Skeleton\NationalElectionSystem\bin\Debug\netcoreapp3.1\NationalElectionSystem.pdb
+C:\Users\BO\Desktop\Data Structures Fundamentals\Exam\Retake Exam - 14 October 2023\Skeleton\NationalElectionSystem\obj\Debug\netcoreapp3.1\NationalElectionSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BO\Desktop\Data Structures Fundamentals\Exam\Retake Exam - 14 October 2023\Skeleton\NationalElectionSystem\obj\Debug\netcoreapp3.1\NationalElectionSystem.AssemblyInfoInputs.cache
+C:\Users\BO\Desktop\Data Structures Fundamentals\Exam\Retake Exam - 14 October 2023\Skeleton\NationalElectionSystem\obj\Debug\netcoreapp3.1\NationalElectionSystem.AssemblyInfo.cs
+C:\Users\BO\Desktop\Data Structures Fundamentals\Exam\Retake Exam - 14 October 2023\Skeleton\NationalElectionSystem\obj\Debug\netcoreapp3.1\NationalElectionSystem.csproj.CoreCompileInputs.cache
+C:\Users\BO\Desktop\Data Structures Fundamentals\Exam\Retake Exam - 14 October 2023\Skeleton\NationalElectionSystem\obj\Debug\netcoreapp3.1\NationalElectionSystem.dll
+C:\Users\BO\Desktop\Data Structures Fundamentals\Exam\Retake Exam - 14 October 2023\Skeleton\NationalElectionSystem\obj\Debug\netcoreapp3.1\NationalElectionSystem.pdb
+C:\Users\BO\Desktop\Data Structures Fundamentals\Exam\Retake Exam - 14 October 2023\Skeleton\NationalElectionSystem\obj\Debug\netcoreapp3.1\NationalElectionSystem.genruntimeconfig.cache

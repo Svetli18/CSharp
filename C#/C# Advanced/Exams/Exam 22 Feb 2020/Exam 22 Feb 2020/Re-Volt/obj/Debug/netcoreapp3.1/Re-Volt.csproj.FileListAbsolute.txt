@@ -1,0 +1,14 @@
+C:\Users\BO\Desktop\C# Advanced\Exams\Exam 22 Feb 2020\Exam 22 Feb 2020\Re-Volt\bin\Debug\netcoreapp3.1\Re-Volt.exe
+C:\Users\BO\Desktop\C# Advanced\Exams\Exam 22 Feb 2020\Exam 22 Feb 2020\Re-Volt\bin\Debug\netcoreapp3.1\Re-Volt.deps.json
+C:\Users\BO\Desktop\C# Advanced\Exams\Exam 22 Feb 2020\Exam 22 Feb 2020\Re-Volt\bin\Debug\netcoreapp3.1\Re-Volt.runtimeconfig.json
+C:\Users\BO\Desktop\C# Advanced\Exams\Exam 22 Feb 2020\Exam 22 Feb 2020\Re-Volt\bin\Debug\netcoreapp3.1\Re-Volt.runtimeconfig.dev.json
+C:\Users\BO\Desktop\C# Advanced\Exams\Exam 22 Feb 2020\Exam 22 Feb 2020\Re-Volt\bin\Debug\netcoreapp3.1\Re-Volt.dll
+C:\Users\BO\Desktop\C# Advanced\Exams\Exam 22 Feb 2020\Exam 22 Feb 2020\Re-Volt\bin\Debug\netcoreapp3.1\Re-Volt.pdb
+C:\Users\BO\Desktop\C# Advanced\Exams\Exam 22 Feb 2020\Exam 22 Feb 2020\Re-Volt\obj\Debug\netcoreapp3.1\Re-Volt.csproj.AssemblyReference.cache
+C:\Users\BO\Desktop\C# Advanced\Exams\Exam 22 Feb 2020\Exam 22 Feb 2020\Re-Volt\obj\Debug\netcoreapp3.1\Re-Volt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BO\Desktop\C# Advanced\Exams\Exam 22 Feb 2020\Exam 22 Feb 2020\Re-Volt\obj\Debug\netcoreapp3.1\Re-Volt.AssemblyInfoInputs.cache
+C:\Users\BO\Desktop\C# Advanced\Exams\Exam 22 Feb 2020\Exam 22 Feb 2020\Re-Volt\obj\Debug\netcoreapp3.1\Re-Volt.AssemblyInfo.cs
+C:\Users\BO\Desktop\C# Advanced\Exams\Exam 22 Feb 2020\Exam 22 Feb 2020\Re-Volt\obj\Debug\netcoreapp3.1\Re-Volt.csproj.CoreCompileInputs.cache
+C:\Users\BO\Desktop\C# Advanced\Exams\Exam 22 Feb 2020\Exam 22 Feb 2020\Re-Volt\obj\Debug\netcoreapp3.1\Re-Volt.dll
+C:\Users\BO\Desktop\C# Advanced\Exams\Exam 22 Feb 2020\Exam 22 Feb 2020\Re-Volt\obj\Debug\netcoreapp3.1\Re-Volt.pdb
+C:\Users\BO\Desktop\C# Advanced\Exams\Exam 22 Feb 2020\Exam 22 Feb 2020\Re-Volt\obj\Debug\netcoreapp3.1\Re-Volt.genruntimeconfig.cache

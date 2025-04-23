@@ -1,0 +1,86 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\BO\\Desktop\\C# Fundamentals\\ConsoleApp1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{795D8E32-3193-4234-A4BD-64DDAA02F3F0}|ConsoleApp1\\CircularQueue.csproj|c:\\users\\bo\\desktop\\c# fundamentals\\consoleapp1\\consoleapp1\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{795D8E32-3193-4234-A4BD-64DDAA02F3F0}|ConsoleApp1\\CircularQueue.csproj|solutionrelative:consoleapp1\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{795D8E32-3193-4234-A4BD-64DDAA02F3F0}|ConsoleApp1\\CircularQueue.csproj|c:\\users\\bo\\desktop\\c# fundamentals\\consoleapp1\\consoleapp1\\circularqueue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{795D8E32-3193-4234-A4BD-64DDAA02F3F0}|ConsoleApp1\\CircularQueue.csproj|solutionrelative:consoleapp1\\circularqueue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEB933B5-EF24-43E1-B231-295213BC97D1}|CircularQueue.Tests\\CircularQueue.Tests.csproj|c:\\users\\bo\\desktop\\c# fundamentals\\consoleapp1\\circularqueue.tests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EEB933B5-EF24-43E1-B231-295213BC97D1}|CircularQueue.Tests\\CircularQueue.Tests.csproj|solutionrelative:circularqueue.tests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{795D8E32-3193-4234-A4BD-64DDAA02F3F0}|ConsoleApp1\\CircularQueue.csproj|c:\\users\\bo\\desktop\\c# fundamentals\\consoleapp1\\consoleapp1\\iabstractqueue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{795D8E32-3193-4234-A4BD-64DDAA02F3F0}|ConsoleApp1\\CircularQueue.csproj|solutionrelative:consoleapp1\\iabstractqueue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\BO\\Desktop\\C# Fundamentals\\ConsoleApp1\\CircularQueue.Tests\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "CircularQueue.Tests\\UnitTest1.cs",
+              "ToolTip": "C:\\Users\\BO\\Desktop\\C# Fundamentals\\ConsoleApp1\\CircularQueue.Tests\\UnitTest1.cs",
+              "RelativeToolTip": "CircularQueue.Tests\\UnitTest1.cs",
+              "ViewState": "AQIAAI0AAAAAAAAAAIA9wJoAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-06T16:52:09.705Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CircularQueue.cs",
+              "DocumentMoniker": "C:\\Users\\BO\\Desktop\\C# Fundamentals\\ConsoleApp1\\ConsoleApp1\\CircularQueue.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\CircularQueue.cs",
+              "ToolTip": "C:\\Users\\BO\\Desktop\\C# Fundamentals\\ConsoleApp1\\ConsoleApp1\\CircularQueue.cs",
+              "RelativeToolTip": "ConsoleApp1\\CircularQueue.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAE8AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-06T16:39:39.571Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IAbstractQueue.cs",
+              "DocumentMoniker": "C:\\Users\\BO\\Desktop\\C# Fundamentals\\ConsoleApp1\\ConsoleApp1\\IAbstractQueue.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\IAbstractQueue.cs",
+              "ToolTip": "C:\\Users\\BO\\Desktop\\C# Fundamentals\\ConsoleApp1\\ConsoleApp1\\IAbstractQueue.cs",
+              "RelativeToolTip": "ConsoleApp1\\IAbstractQueue.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T14:31:10.988Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StartUp.cs",
+              "DocumentMoniker": "C:\\Users\\BO\\Desktop\\C# Fundamentals\\ConsoleApp1\\ConsoleApp1\\StartUp.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\StartUp.cs",
+              "ToolTip": "C:\\Users\\BO\\Desktop\\C# Fundamentals\\ConsoleApp1\\ConsoleApp1\\StartUp.cs*",
+              "RelativeToolTip": "ConsoleApp1\\StartUp.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T14:31:10.989Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

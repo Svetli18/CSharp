@@ -1,0 +1,14 @@
+C:\Users\BO\Desktop\C# OOP\Interfaces and Abstraction Exercise\Border\bin\Debug\net6.0\Border.exe
+C:\Users\BO\Desktop\C# OOP\Interfaces and Abstraction Exercise\Border\bin\Debug\net6.0\Border.deps.json
+C:\Users\BO\Desktop\C# OOP\Interfaces and Abstraction Exercise\Border\bin\Debug\net6.0\Border.runtimeconfig.json
+C:\Users\BO\Desktop\C# OOP\Interfaces and Abstraction Exercise\Border\bin\Debug\net6.0\Border.dll
+C:\Users\BO\Desktop\C# OOP\Interfaces and Abstraction Exercise\Border\bin\Debug\net6.0\Border.pdb
+C:\Users\BO\Desktop\C# OOP\Interfaces and Abstraction Exercise\Border\obj\Debug\net6.0\Border.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BO\Desktop\C# OOP\Interfaces and Abstraction Exercise\Border\obj\Debug\net6.0\Border.AssemblyInfoInputs.cache
+C:\Users\BO\Desktop\C# OOP\Interfaces and Abstraction Exercise\Border\obj\Debug\net6.0\Border.AssemblyInfo.cs
+C:\Users\BO\Desktop\C# OOP\Interfaces and Abstraction Exercise\Border\obj\Debug\net6.0\Border.csproj.CoreCompileInputs.cache
+C:\Users\BO\Desktop\C# OOP\Interfaces and Abstraction Exercise\Border\obj\Debug\net6.0\Border.dll
+C:\Users\BO\Desktop\C# OOP\Interfaces and Abstraction Exercise\Border\obj\Debug\net6.0\refint\Border.dll
+C:\Users\BO\Desktop\C# OOP\Interfaces and Abstraction Exercise\Border\obj\Debug\net6.0\Border.pdb
+C:\Users\BO\Desktop\C# OOP\Interfaces and Abstraction Exercise\Border\obj\Debug\net6.0\Border.genruntimeconfig.cache
+C:\Users\BO\Desktop\C# OOP\Interfaces and Abstraction Exercise\Border\obj\Debug\net6.0\ref\Border.dll

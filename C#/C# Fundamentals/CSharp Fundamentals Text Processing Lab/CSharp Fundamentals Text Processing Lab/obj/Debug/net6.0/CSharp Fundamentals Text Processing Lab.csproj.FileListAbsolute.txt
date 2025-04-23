@@ -1,0 +1,15 @@
+C:\Users\BO\Desktop\C# Fundamentals\CSharp Fundamentals Text Processing Lab\CSharp Fundamentals Text Processing Lab\bin\Debug\net6.0\CSharp Fundamentals Text Processing Lab.exe
+C:\Users\BO\Desktop\C# Fundamentals\CSharp Fundamentals Text Processing Lab\CSharp Fundamentals Text Processing Lab\bin\Debug\net6.0\CSharp Fundamentals Text Processing Lab.deps.json
+C:\Users\BO\Desktop\C# Fundamentals\CSharp Fundamentals Text Processing Lab\CSharp Fundamentals Text Processing Lab\bin\Debug\net6.0\CSharp Fundamentals Text Processing Lab.runtimeconfig.json
+C:\Users\BO\Desktop\C# Fundamentals\CSharp Fundamentals Text Processing Lab\CSharp Fundamentals Text Processing Lab\bin\Debug\net6.0\CSharp Fundamentals Text Processing Lab.dll
+C:\Users\BO\Desktop\C# Fundamentals\CSharp Fundamentals Text Processing Lab\CSharp Fundamentals Text Processing Lab\bin\Debug\net6.0\CSharp Fundamentals Text Processing Lab.pdb
+C:\Users\BO\Desktop\C# Fundamentals\CSharp Fundamentals Text Processing Lab\CSharp Fundamentals Text Processing Lab\obj\Debug\net6.0\CSharp Fundamentals Text Processing Lab.csproj.AssemblyReference.cache
+C:\Users\BO\Desktop\C# Fundamentals\CSharp Fundamentals Text Processing Lab\CSharp Fundamentals Text Processing Lab\obj\Debug\net6.0\CSharp Fundamentals Text Processing Lab.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BO\Desktop\C# Fundamentals\CSharp Fundamentals Text Processing Lab\CSharp Fundamentals Text Processing Lab\obj\Debug\net6.0\CSharp Fundamentals Text Processing Lab.AssemblyInfoInputs.cache
+C:\Users\BO\Desktop\C# Fundamentals\CSharp Fundamentals Text Processing Lab\CSharp Fundamentals Text Processing Lab\obj\Debug\net6.0\CSharp Fundamentals Text Processing Lab.AssemblyInfo.cs
+C:\Users\BO\Desktop\C# Fundamentals\CSharp Fundamentals Text Processing Lab\CSharp Fundamentals Text Processing Lab\obj\Debug\net6.0\CSharp Fundamentals Text Processing Lab.csproj.CoreCompileInputs.cache
+C:\Users\BO\Desktop\C# Fundamentals\CSharp Fundamentals Text Processing Lab\CSharp Fundamentals Text Processing Lab\obj\Debug\net6.0\CSharp Fundamentals Text Processing Lab.dll
+C:\Users\BO\Desktop\C# Fundamentals\CSharp Fundamentals Text Processing Lab\CSharp Fundamentals Text Processing Lab\obj\Debug\net6.0\refint\CSharp Fundamentals Text Processing Lab.dll
+C:\Users\BO\Desktop\C# Fundamentals\CSharp Fundamentals Text Processing Lab\CSharp Fundamentals Text Processing Lab\obj\Debug\net6.0\CSharp Fundamentals Text Processing Lab.pdb
+C:\Users\BO\Desktop\C# Fundamentals\CSharp Fundamentals Text Processing Lab\CSharp Fundamentals Text Processing Lab\obj\Debug\net6.0\CSharp Fundamentals Text Processing Lab.genruntimeconfig.cache
+C:\Users\BO\Desktop\C# Fundamentals\CSharp Fundamentals Text Processing Lab\CSharp Fundamentals Text Processing Lab\obj\Debug\net6.0\ref\CSharp Fundamentals Text Processing Lab.dll

@@ -1,0 +1,15 @@
+C:\Users\BO\Desktop\C# Fundamentals\Fundamentals Final Exams\05. Programming Fundamentals Final Exam\05. Programming Fundamentals Final Exam\bin\Debug\net6.0\01. Activation Keys.exe
+C:\Users\BO\Desktop\C# Fundamentals\Fundamentals Final Exams\05. Programming Fundamentals Final Exam\05. Programming Fundamentals Final Exam\bin\Debug\net6.0\01. Activation Keys.deps.json
+C:\Users\BO\Desktop\C# Fundamentals\Fundamentals Final Exams\05. Programming Fundamentals Final Exam\05. Programming Fundamentals Final Exam\bin\Debug\net6.0\01. Activation Keys.runtimeconfig.json
+C:\Users\BO\Desktop\C# Fundamentals\Fundamentals Final Exams\05. Programming Fundamentals Final Exam\05. Programming Fundamentals Final Exam\bin\Debug\net6.0\01. Activation Keys.dll
+C:\Users\BO\Desktop\C# Fundamentals\Fundamentals Final Exams\05. Programming Fundamentals Final Exam\05. Programming Fundamentals Final Exam\bin\Debug\net6.0\01. Activation Keys.pdb
+C:\Users\BO\Desktop\C# Fundamentals\Fundamentals Final Exams\05. Programming Fundamentals Final Exam\05. Programming Fundamentals Final Exam\obj\Debug\net6.0\01. Activation Keys.csproj.AssemblyReference.cache
+C:\Users\BO\Desktop\C# Fundamentals\Fundamentals Final Exams\05. Programming Fundamentals Final Exam\05. Programming Fundamentals Final Exam\obj\Debug\net6.0\01. Activation Keys.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BO\Desktop\C# Fundamentals\Fundamentals Final Exams\05. Programming Fundamentals Final Exam\05. Programming Fundamentals Final Exam\obj\Debug\net6.0\01. Activation Keys.AssemblyInfoInputs.cache
+C:\Users\BO\Desktop\C# Fundamentals\Fundamentals Final Exams\05. Programming Fundamentals Final Exam\05. Programming Fundamentals Final Exam\obj\Debug\net6.0\01. Activation Keys.AssemblyInfo.cs
+C:\Users\BO\Desktop\C# Fundamentals\Fundamentals Final Exams\05. Programming Fundamentals Final Exam\05. Programming Fundamentals Final Exam\obj\Debug\net6.0\01. Activation Keys.csproj.CoreCompileInputs.cache
+C:\Users\BO\Desktop\C# Fundamentals\Fundamentals Final Exams\05. Programming Fundamentals Final Exam\05. Programming Fundamentals Final Exam\obj\Debug\net6.0\01. Activation Keys.dll
+C:\Users\BO\Desktop\C# Fundamentals\Fundamentals Final Exams\05. Programming Fundamentals Final Exam\05. Programming Fundamentals Final Exam\obj\Debug\net6.0\refint\01. Activation Keys.dll
+C:\Users\BO\Desktop\C# Fundamentals\Fundamentals Final Exams\05. Programming Fundamentals Final Exam\05. Programming Fundamentals Final Exam\obj\Debug\net6.0\01. Activation Keys.pdb
+C:\Users\BO\Desktop\C# Fundamentals\Fundamentals Final Exams\05. Programming Fundamentals Final Exam\05. Programming Fundamentals Final Exam\obj\Debug\net6.0\01. Activation Keys.genruntimeconfig.cache
+C:\Users\BO\Desktop\C# Fundamentals\Fundamentals Final Exams\05. Programming Fundamentals Final Exam\05. Programming Fundamentals Final Exam\obj\Debug\net6.0\ref\01. Activation Keys.dll

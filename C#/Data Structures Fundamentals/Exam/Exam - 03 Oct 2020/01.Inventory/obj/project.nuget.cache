@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "x6NbJARHoCDs7TLCV8Aeqq883JqRP5Gw6CIjAFOE9ZcIH9jFRUaa080O6iM2O5p0NJjcWHgPU910VuWjAzY/Fg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\BO\\Desktop\\Data Structures Fundamentals\\Exam\\Exam - 03 Oct 2020\\01.Inventory\\01.Inventory.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\BO\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\BO\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

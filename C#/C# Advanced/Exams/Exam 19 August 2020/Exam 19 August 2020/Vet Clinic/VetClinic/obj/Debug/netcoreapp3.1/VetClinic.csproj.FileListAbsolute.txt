@@ -1,0 +1,14 @@
+C:\Users\BO\Desktop\C# Advanced\Exams\Exam 19 August 2020\Exam 19 August 2020\Vet Clinic\VetClinic\bin\Debug\netcoreapp3.1\VetClinic.exe
+C:\Users\BO\Desktop\C# Advanced\Exams\Exam 19 August 2020\Exam 19 August 2020\Vet Clinic\VetClinic\bin\Debug\netcoreapp3.1\VetClinic.deps.json
+C:\Users\BO\Desktop\C# Advanced\Exams\Exam 19 August 2020\Exam 19 August 2020\Vet Clinic\VetClinic\bin\Debug\netcoreapp3.1\VetClinic.runtimeconfig.json
+C:\Users\BO\Desktop\C# Advanced\Exams\Exam 19 August 2020\Exam 19 August 2020\Vet Clinic\VetClinic\bin\Debug\netcoreapp3.1\VetClinic.runtimeconfig.dev.json
+C:\Users\BO\Desktop\C# Advanced\Exams\Exam 19 August 2020\Exam 19 August 2020\Vet Clinic\VetClinic\bin\Debug\netcoreapp3.1\VetClinic.dll
+C:\Users\BO\Desktop\C# Advanced\Exams\Exam 19 August 2020\Exam 19 August 2020\Vet Clinic\VetClinic\bin\Debug\netcoreapp3.1\VetClinic.pdb
+C:\Users\BO\Desktop\C# Advanced\Exams\Exam 19 August 2020\Exam 19 August 2020\Vet Clinic\VetClinic\obj\Debug\netcoreapp3.1\VetClinic.csproj.AssemblyReference.cache
+C:\Users\BO\Desktop\C# Advanced\Exams\Exam 19 August 2020\Exam 19 August 2020\Vet Clinic\VetClinic\obj\Debug\netcoreapp3.1\VetClinic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BO\Desktop\C# Advanced\Exams\Exam 19 August 2020\Exam 19 August 2020\Vet Clinic\VetClinic\obj\Debug\netcoreapp3.1\VetClinic.AssemblyInfoInputs.cache
+C:\Users\BO\Desktop\C# Advanced\Exams\Exam 19 August 2020\Exam 19 August 2020\Vet Clinic\VetClinic\obj\Debug\netcoreapp3.1\VetClinic.AssemblyInfo.cs
+C:\Users\BO\Desktop\C# Advanced\Exams\Exam 19 August 2020\Exam 19 August 2020\Vet Clinic\VetClinic\obj\Debug\netcoreapp3.1\VetClinic.csproj.CoreCompileInputs.cache
+C:\Users\BO\Desktop\C# Advanced\Exams\Exam 19 August 2020\Exam 19 August 2020\Vet Clinic\VetClinic\obj\Debug\netcoreapp3.1\VetClinic.dll
+C:\Users\BO\Desktop\C# Advanced\Exams\Exam 19 August 2020\Exam 19 August 2020\Vet Clinic\VetClinic\obj\Debug\netcoreapp3.1\VetClinic.pdb
+C:\Users\BO\Desktop\C# Advanced\Exams\Exam 19 August 2020\Exam 19 August 2020\Vet Clinic\VetClinic\obj\Debug\netcoreapp3.1\VetClinic.genruntimeconfig.cache

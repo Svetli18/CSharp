@@ -1,0 +1,14 @@
+C:\Users\BO\Desktop\C# OOP\Encapsulation Exercise\Box Data\bin\Debug\net6.0\Box Data.exe
+C:\Users\BO\Desktop\C# OOP\Encapsulation Exercise\Box Data\bin\Debug\net6.0\Box Data.deps.json
+C:\Users\BO\Desktop\C# OOP\Encapsulation Exercise\Box Data\bin\Debug\net6.0\Box Data.runtimeconfig.json
+C:\Users\BO\Desktop\C# OOP\Encapsulation Exercise\Box Data\bin\Debug\net6.0\Box Data.dll
+C:\Users\BO\Desktop\C# OOP\Encapsulation Exercise\Box Data\bin\Debug\net6.0\Box Data.pdb
+C:\Users\BO\Desktop\C# OOP\Encapsulation Exercise\Box Data\obj\Debug\net6.0\Box Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BO\Desktop\C# OOP\Encapsulation Exercise\Box Data\obj\Debug\net6.0\Box Data.AssemblyInfoInputs.cache
+C:\Users\BO\Desktop\C# OOP\Encapsulation Exercise\Box Data\obj\Debug\net6.0\Box Data.AssemblyInfo.cs
+C:\Users\BO\Desktop\C# OOP\Encapsulation Exercise\Box Data\obj\Debug\net6.0\Box Data.csproj.CoreCompileInputs.cache
+C:\Users\BO\Desktop\C# OOP\Encapsulation Exercise\Box Data\obj\Debug\net6.0\Box Data.dll
+C:\Users\BO\Desktop\C# OOP\Encapsulation Exercise\Box Data\obj\Debug\net6.0\refint\Box Data.dll
+C:\Users\BO\Desktop\C# OOP\Encapsulation Exercise\Box Data\obj\Debug\net6.0\Box Data.pdb
+C:\Users\BO\Desktop\C# OOP\Encapsulation Exercise\Box Data\obj\Debug\net6.0\Box Data.genruntimeconfig.cache
+C:\Users\BO\Desktop\C# OOP\Encapsulation Exercise\Box Data\obj\Debug\net6.0\ref\Box Data.dll

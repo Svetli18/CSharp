@@ -1,0 +1,15 @@
+C:\Users\BO\Desktop\C# Fundamentals\Fundamentals Final Exams\02. Programming Fundamentals Final Exam\03. Plant Discovery\bin\Debug\net6.0\03. Plant Discovery.exe
+C:\Users\BO\Desktop\C# Fundamentals\Fundamentals Final Exams\02. Programming Fundamentals Final Exam\03. Plant Discovery\bin\Debug\net6.0\03. Plant Discovery.deps.json
+C:\Users\BO\Desktop\C# Fundamentals\Fundamentals Final Exams\02. Programming Fundamentals Final Exam\03. Plant Discovery\bin\Debug\net6.0\03. Plant Discovery.runtimeconfig.json
+C:\Users\BO\Desktop\C# Fundamentals\Fundamentals Final Exams\02. Programming Fundamentals Final Exam\03. Plant Discovery\bin\Debug\net6.0\03. Plant Discovery.dll
+C:\Users\BO\Desktop\C# Fundamentals\Fundamentals Final Exams\02. Programming Fundamentals Final Exam\03. Plant Discovery\bin\Debug\net6.0\03. Plant Discovery.pdb
+C:\Users\BO\Desktop\C# Fundamentals\Fundamentals Final Exams\02. Programming Fundamentals Final Exam\03. Plant Discovery\obj\Debug\net6.0\03. Plant Discovery.csproj.AssemblyReference.cache
+C:\Users\BO\Desktop\C# Fundamentals\Fundamentals Final Exams\02. Programming Fundamentals Final Exam\03. Plant Discovery\obj\Debug\net6.0\03. Plant Discovery.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BO\Desktop\C# Fundamentals\Fundamentals Final Exams\02. Programming Fundamentals Final Exam\03. Plant Discovery\obj\Debug\net6.0\03. Plant Discovery.AssemblyInfoInputs.cache
+C:\Users\BO\Desktop\C# Fundamentals\Fundamentals Final Exams\02. Programming Fundamentals Final Exam\03. Plant Discovery\obj\Debug\net6.0\03. Plant Discovery.AssemblyInfo.cs
+C:\Users\BO\Desktop\C# Fundamentals\Fundamentals Final Exams\02. Programming Fundamentals Final Exam\03. Plant Discovery\obj\Debug\net6.0\03. Plant Discovery.csproj.CoreCompileInputs.cache
+C:\Users\BO\Desktop\C# Fundamentals\Fundamentals Final Exams\02. Programming Fundamentals Final Exam\03. Plant Discovery\obj\Debug\net6.0\03. Plant Discovery.dll
+C:\Users\BO\Desktop\C# Fundamentals\Fundamentals Final Exams\02. Programming Fundamentals Final Exam\03. Plant Discovery\obj\Debug\net6.0\refint\03. Plant Discovery.dll
+C:\Users\BO\Desktop\C# Fundamentals\Fundamentals Final Exams\02. Programming Fundamentals Final Exam\03. Plant Discovery\obj\Debug\net6.0\03. Plant Discovery.pdb
+C:\Users\BO\Desktop\C# Fundamentals\Fundamentals Final Exams\02. Programming Fundamentals Final Exam\03. Plant Discovery\obj\Debug\net6.0\03. Plant Discovery.genruntimeconfig.cache
+C:\Users\BO\Desktop\C# Fundamentals\Fundamentals Final Exams\02. Programming Fundamentals Final Exam\03. Plant Discovery\obj\Debug\net6.0\ref\03. Plant Discovery.dll

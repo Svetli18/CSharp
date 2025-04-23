@@ -1,0 +1,14 @@
+C:\Users\BO\Desktop\C# Advanced\Exams\Exam 19 August 2020\Exam 19 August 2020\Flower Wreaths\bin\Debug\netcoreapp3.1\Flower Wreaths.exe
+C:\Users\BO\Desktop\C# Advanced\Exams\Exam 19 August 2020\Exam 19 August 2020\Flower Wreaths\bin\Debug\netcoreapp3.1\Flower Wreaths.deps.json
+C:\Users\BO\Desktop\C# Advanced\Exams\Exam 19 August 2020\Exam 19 August 2020\Flower Wreaths\bin\Debug\netcoreapp3.1\Flower Wreaths.runtimeconfig.json
+C:\Users\BO\Desktop\C# Advanced\Exams\Exam 19 August 2020\Exam 19 August 2020\Flower Wreaths\bin\Debug\netcoreapp3.1\Flower Wreaths.runtimeconfig.dev.json
+C:\Users\BO\Desktop\C# Advanced\Exams\Exam 19 August 2020\Exam 19 August 2020\Flower Wreaths\bin\Debug\netcoreapp3.1\Flower Wreaths.dll
+C:\Users\BO\Desktop\C# Advanced\Exams\Exam 19 August 2020\Exam 19 August 2020\Flower Wreaths\bin\Debug\netcoreapp3.1\Flower Wreaths.pdb
+C:\Users\BO\Desktop\C# Advanced\Exams\Exam 19 August 2020\Exam 19 August 2020\Flower Wreaths\obj\Debug\netcoreapp3.1\Flower Wreaths.csproj.AssemblyReference.cache
+C:\Users\BO\Desktop\C# Advanced\Exams\Exam 19 August 2020\Exam 19 August 2020\Flower Wreaths\obj\Debug\netcoreapp3.1\Flower Wreaths.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BO\Desktop\C# Advanced\Exams\Exam 19 August 2020\Exam 19 August 2020\Flower Wreaths\obj\Debug\netcoreapp3.1\Flower Wreaths.AssemblyInfoInputs.cache
+C:\Users\BO\Desktop\C# Advanced\Exams\Exam 19 August 2020\Exam 19 August 2020\Flower Wreaths\obj\Debug\netcoreapp3.1\Flower Wreaths.AssemblyInfo.cs
+C:\Users\BO\Desktop\C# Advanced\Exams\Exam 19 August 2020\Exam 19 August 2020\Flower Wreaths\obj\Debug\netcoreapp3.1\Flower Wreaths.csproj.CoreCompileInputs.cache
+C:\Users\BO\Desktop\C# Advanced\Exams\Exam 19 August 2020\Exam 19 August 2020\Flower Wreaths\obj\Debug\netcoreapp3.1\Flower Wreaths.dll
+C:\Users\BO\Desktop\C# Advanced\Exams\Exam 19 August 2020\Exam 19 August 2020\Flower Wreaths\obj\Debug\netcoreapp3.1\Flower Wreaths.pdb
+C:\Users\BO\Desktop\C# Advanced\Exams\Exam 19 August 2020\Exam 19 August 2020\Flower Wreaths\obj\Debug\netcoreapp3.1\Flower Wreaths.genruntimeconfig.cache

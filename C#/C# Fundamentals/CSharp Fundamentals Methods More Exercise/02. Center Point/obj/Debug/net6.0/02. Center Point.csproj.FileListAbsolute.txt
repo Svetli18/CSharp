@@ -1,0 +1,15 @@
+C:\Users\BO\Desktop\C# Fundamentals\CSharp Fundamentals Methods More Exercise\02. Center Point\bin\Debug\net6.0\02. Center Point.exe
+C:\Users\BO\Desktop\C# Fundamentals\CSharp Fundamentals Methods More Exercise\02. Center Point\bin\Debug\net6.0\02. Center Point.deps.json
+C:\Users\BO\Desktop\C# Fundamentals\CSharp Fundamentals Methods More Exercise\02. Center Point\bin\Debug\net6.0\02. Center Point.runtimeconfig.json
+C:\Users\BO\Desktop\C# Fundamentals\CSharp Fundamentals Methods More Exercise\02. Center Point\bin\Debug\net6.0\02. Center Point.dll
+C:\Users\BO\Desktop\C# Fundamentals\CSharp Fundamentals Methods More Exercise\02. Center Point\bin\Debug\net6.0\02. Center Point.pdb
+C:\Users\BO\Desktop\C# Fundamentals\CSharp Fundamentals Methods More Exercise\02. Center Point\obj\Debug\net6.0\02. Center Point.csproj.AssemblyReference.cache
+C:\Users\BO\Desktop\C# Fundamentals\CSharp Fundamentals Methods More Exercise\02. Center Point\obj\Debug\net6.0\02. Center Point.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BO\Desktop\C# Fundamentals\CSharp Fundamentals Methods More Exercise\02. Center Point\obj\Debug\net6.0\02. Center Point.AssemblyInfoInputs.cache
+C:\Users\BO\Desktop\C# Fundamentals\CSharp Fundamentals Methods More Exercise\02. Center Point\obj\Debug\net6.0\02. Center Point.AssemblyInfo.cs
+C:\Users\BO\Desktop\C# Fundamentals\CSharp Fundamentals Methods More Exercise\02. Center Point\obj\Debug\net6.0\02. Center Point.csproj.CoreCompileInputs.cache
+C:\Users\BO\Desktop\C# Fundamentals\CSharp Fundamentals Methods More Exercise\02. Center Point\obj\Debug\net6.0\02. Center Point.dll
+C:\Users\BO\Desktop\C# Fundamentals\CSharp Fundamentals Methods More Exercise\02. Center Point\obj\Debug\net6.0\refint\02. Center Point.dll
+C:\Users\BO\Desktop\C# Fundamentals\CSharp Fundamentals Methods More Exercise\02. Center Point\obj\Debug\net6.0\02. Center Point.pdb
+C:\Users\BO\Desktop\C# Fundamentals\CSharp Fundamentals Methods More Exercise\02. Center Point\obj\Debug\net6.0\02. Center Point.genruntimeconfig.cache
+C:\Users\BO\Desktop\C# Fundamentals\CSharp Fundamentals Methods More Exercise\02. Center Point\obj\Debug\net6.0\ref\02. Center Point.dll

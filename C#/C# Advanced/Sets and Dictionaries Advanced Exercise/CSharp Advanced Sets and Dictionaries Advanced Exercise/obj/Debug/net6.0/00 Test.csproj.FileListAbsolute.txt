@@ -1,0 +1,15 @@
+C:\Users\BO\Desktop\C# Advanced\CSharp Advanced Sets and Dictionaries Advanced Exercise\CSharp Advanced Sets and Dictionaries Advanced Exercise\bin\Debug\net6.0\00 Test.exe
+C:\Users\BO\Desktop\C# Advanced\CSharp Advanced Sets and Dictionaries Advanced Exercise\CSharp Advanced Sets and Dictionaries Advanced Exercise\bin\Debug\net6.0\00 Test.deps.json
+C:\Users\BO\Desktop\C# Advanced\CSharp Advanced Sets and Dictionaries Advanced Exercise\CSharp Advanced Sets and Dictionaries Advanced Exercise\bin\Debug\net6.0\00 Test.runtimeconfig.json
+C:\Users\BO\Desktop\C# Advanced\CSharp Advanced Sets and Dictionaries Advanced Exercise\CSharp Advanced Sets and Dictionaries Advanced Exercise\bin\Debug\net6.0\00 Test.dll
+C:\Users\BO\Desktop\C# Advanced\CSharp Advanced Sets and Dictionaries Advanced Exercise\CSharp Advanced Sets and Dictionaries Advanced Exercise\bin\Debug\net6.0\00 Test.pdb
+C:\Users\BO\Desktop\C# Advanced\CSharp Advanced Sets and Dictionaries Advanced Exercise\CSharp Advanced Sets and Dictionaries Advanced Exercise\obj\Debug\net6.0\00 Test.csproj.AssemblyReference.cache
+C:\Users\BO\Desktop\C# Advanced\CSharp Advanced Sets and Dictionaries Advanced Exercise\CSharp Advanced Sets and Dictionaries Advanced Exercise\obj\Debug\net6.0\00 Test.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BO\Desktop\C# Advanced\CSharp Advanced Sets and Dictionaries Advanced Exercise\CSharp Advanced Sets and Dictionaries Advanced Exercise\obj\Debug\net6.0\00 Test.AssemblyInfoInputs.cache
+C:\Users\BO\Desktop\C# Advanced\CSharp Advanced Sets and Dictionaries Advanced Exercise\CSharp Advanced Sets and Dictionaries Advanced Exercise\obj\Debug\net6.0\00 Test.AssemblyInfo.cs
+C:\Users\BO\Desktop\C# Advanced\CSharp Advanced Sets and Dictionaries Advanced Exercise\CSharp Advanced Sets and Dictionaries Advanced Exercise\obj\Debug\net6.0\00 Test.csproj.CoreCompileInputs.cache
+C:\Users\BO\Desktop\C# Advanced\CSharp Advanced Sets and Dictionaries Advanced Exercise\CSharp Advanced Sets and Dictionaries Advanced Exercise\obj\Debug\net6.0\00 Test.dll
+C:\Users\BO\Desktop\C# Advanced\CSharp Advanced Sets and Dictionaries Advanced Exercise\CSharp Advanced Sets and Dictionaries Advanced Exercise\obj\Debug\net6.0\refint\00 Test.dll
+C:\Users\BO\Desktop\C# Advanced\CSharp Advanced Sets and Dictionaries Advanced Exercise\CSharp Advanced Sets and Dictionaries Advanced Exercise\obj\Debug\net6.0\00 Test.pdb
+C:\Users\BO\Desktop\C# Advanced\CSharp Advanced Sets and Dictionaries Advanced Exercise\CSharp Advanced Sets and Dictionaries Advanced Exercise\obj\Debug\net6.0\00 Test.genruntimeconfig.cache
+C:\Users\BO\Desktop\C# Advanced\CSharp Advanced Sets and Dictionaries Advanced Exercise\CSharp Advanced Sets and Dictionaries Advanced Exercise\obj\Debug\net6.0\ref\00 Test.dll

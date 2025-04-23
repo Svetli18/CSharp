@@ -1,0 +1,15 @@
+C:\Users\BO\Desktop\C# Fundamentals\01. Sign of Integer Numbers\CSharp Fundamentals Methods Lab\bin\Debug\net6.0\01. Sign of Integer Numbers.exe
+C:\Users\BO\Desktop\C# Fundamentals\01. Sign of Integer Numbers\CSharp Fundamentals Methods Lab\bin\Debug\net6.0\01. Sign of Integer Numbers.deps.json
+C:\Users\BO\Desktop\C# Fundamentals\01. Sign of Integer Numbers\CSharp Fundamentals Methods Lab\bin\Debug\net6.0\01. Sign of Integer Numbers.runtimeconfig.json
+C:\Users\BO\Desktop\C# Fundamentals\01. Sign of Integer Numbers\CSharp Fundamentals Methods Lab\bin\Debug\net6.0\01. Sign of Integer Numbers.dll
+C:\Users\BO\Desktop\C# Fundamentals\01. Sign of Integer Numbers\CSharp Fundamentals Methods Lab\bin\Debug\net6.0\01. Sign of Integer Numbers.pdb
+C:\Users\BO\Desktop\C# Fundamentals\01. Sign of Integer Numbers\CSharp Fundamentals Methods Lab\obj\Debug\net6.0\01. Sign of Integer Numbers.csproj.AssemblyReference.cache
+C:\Users\BO\Desktop\C# Fundamentals\01. Sign of Integer Numbers\CSharp Fundamentals Methods Lab\obj\Debug\net6.0\01. Sign of Integer Numbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BO\Desktop\C# Fundamentals\01. Sign of Integer Numbers\CSharp Fundamentals Methods Lab\obj\Debug\net6.0\01. Sign of Integer Numbers.AssemblyInfoInputs.cache
+C:\Users\BO\Desktop\C# Fundamentals\01. Sign of Integer Numbers\CSharp Fundamentals Methods Lab\obj\Debug\net6.0\01. Sign of Integer Numbers.AssemblyInfo.cs
+C:\Users\BO\Desktop\C# Fundamentals\01. Sign of Integer Numbers\CSharp Fundamentals Methods Lab\obj\Debug\net6.0\01. Sign of Integer Numbers.csproj.CoreCompileInputs.cache
+C:\Users\BO\Desktop\C# Fundamentals\01. Sign of Integer Numbers\CSharp Fundamentals Methods Lab\obj\Debug\net6.0\01. Sign of Integer Numbers.dll
+C:\Users\BO\Desktop\C# Fundamentals\01. Sign of Integer Numbers\CSharp Fundamentals Methods Lab\obj\Debug\net6.0\refint\01. Sign of Integer Numbers.dll
+C:\Users\BO\Desktop\C# Fundamentals\01. Sign of Integer Numbers\CSharp Fundamentals Methods Lab\obj\Debug\net6.0\01. Sign of Integer Numbers.pdb
+C:\Users\BO\Desktop\C# Fundamentals\01. Sign of Integer Numbers\CSharp Fundamentals Methods Lab\obj\Debug\net6.0\01. Sign of Integer Numbers.genruntimeconfig.cache
+C:\Users\BO\Desktop\C# Fundamentals\01. Sign of Integer Numbers\CSharp Fundamentals Methods Lab\obj\Debug\net6.0\ref\01. Sign of Integer Numbers.dll

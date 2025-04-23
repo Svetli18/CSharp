@@ -1,0 +1,16 @@
+C:\Users\BO\Desktop\Data Structures Advanced\Exam\Exam 10 December 2023\TaskManager\TaskManager\bin\Debug\netcoreapp3.1\TaskManager.exe
+C:\Users\BO\Desktop\Data Structures Advanced\Exam\Exam 10 December 2023\TaskManager\TaskManager\bin\Debug\netcoreapp3.1\TaskManager.deps.json
+C:\Users\BO\Desktop\Data Structures Advanced\Exam\Exam 10 December 2023\TaskManager\TaskManager\bin\Debug\netcoreapp3.1\TaskManager.runtimeconfig.json
+C:\Users\BO\Desktop\Data Structures Advanced\Exam\Exam 10 December 2023\TaskManager\TaskManager\bin\Debug\netcoreapp3.1\TaskManager.runtimeconfig.dev.json
+C:\Users\BO\Desktop\Data Structures Advanced\Exam\Exam 10 December 2023\TaskManager\TaskManager\bin\Debug\netcoreapp3.1\TaskManager.dll
+C:\Users\BO\Desktop\Data Structures Advanced\Exam\Exam 10 December 2023\TaskManager\TaskManager\bin\Debug\netcoreapp3.1\TaskManager.pdb
+C:\Users\BO\Desktop\Data Structures Advanced\Exam\Exam 10 December 2023\TaskManager\TaskManager\obj\Debug\netcoreapp3.1\TaskManager.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BO\Desktop\Data Structures Advanced\Exam\Exam 10 December 2023\TaskManager\TaskManager\obj\Debug\netcoreapp3.1\TaskManager.AssemblyInfoInputs.cache
+C:\Users\BO\Desktop\Data Structures Advanced\Exam\Exam 10 December 2023\TaskManager\TaskManager\obj\Debug\netcoreapp3.1\TaskManager.AssemblyInfo.cs
+C:\Users\BO\Desktop\Data Structures Advanced\Exam\Exam 10 December 2023\TaskManager\TaskManager\obj\Debug\netcoreapp3.1\TaskManager.csproj.CoreCompileInputs.cache
+C:\Users\BO\Desktop\Data Structures Advanced\Exam\Exam 10 December 2023\TaskManager\TaskManager\obj\Debug\netcoreapp3.1\TaskManager.dll
+C:\Users\BO\Desktop\Data Structures Advanced\Exam\Exam 10 December 2023\TaskManager\TaskManager\obj\Debug\netcoreapp3.1\TaskManager.pdb
+C:\Users\BO\Desktop\Data Structures Advanced\Exam\Exam 10 December 2023\TaskManager\TaskManager\obj\Debug\netcoreapp3.1\TaskManager.genruntimeconfig.cache
+C:\Users\BO\Desktop\Data Structures Advanced\Exam\Exam 10 December 2023\TaskManager\TaskManager\bin\Debug\netcoreapp3.1\Wintellect.PowerCollections.dll
+C:\Users\BO\Desktop\Data Structures Advanced\Exam\Exam 10 December 2023\TaskManager\TaskManager\obj\Debug\netcoreapp3.1\TaskManager.csproj.AssemblyReference.cache
+C:\Users\BO\Desktop\Data Structures Advanced\Exam\Exam 10 December 2023\TaskManager\TaskManager\obj\Debug\netcoreapp3.1\TaskMana.F3FB485A.Up2Date

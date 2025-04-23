@@ -1,0 +1,14 @@
+C:\Users\BO\Desktop\C# OOP\Encapsulation Exercise\FootballTeamGenerator\bin\Debug\net6.0\Football Team Generator.exe
+C:\Users\BO\Desktop\C# OOP\Encapsulation Exercise\FootballTeamGenerator\bin\Debug\net6.0\Football Team Generator.deps.json
+C:\Users\BO\Desktop\C# OOP\Encapsulation Exercise\FootballTeamGenerator\bin\Debug\net6.0\Football Team Generator.runtimeconfig.json
+C:\Users\BO\Desktop\C# OOP\Encapsulation Exercise\FootballTeamGenerator\bin\Debug\net6.0\Football Team Generator.dll
+C:\Users\BO\Desktop\C# OOP\Encapsulation Exercise\FootballTeamGenerator\bin\Debug\net6.0\Football Team Generator.pdb
+C:\Users\BO\Desktop\C# OOP\Encapsulation Exercise\FootballTeamGenerator\obj\Debug\net6.0\Football Team Generator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BO\Desktop\C# OOP\Encapsulation Exercise\FootballTeamGenerator\obj\Debug\net6.0\Football Team Generator.AssemblyInfoInputs.cache
+C:\Users\BO\Desktop\C# OOP\Encapsulation Exercise\FootballTeamGenerator\obj\Debug\net6.0\Football Team Generator.AssemblyInfo.cs
+C:\Users\BO\Desktop\C# OOP\Encapsulation Exercise\FootballTeamGenerator\obj\Debug\net6.0\Football Team Generator.csproj.CoreCompileInputs.cache
+C:\Users\BO\Desktop\C# OOP\Encapsulation Exercise\FootballTeamGenerator\obj\Debug\net6.0\Football Team Generator.dll
+C:\Users\BO\Desktop\C# OOP\Encapsulation Exercise\FootballTeamGenerator\obj\Debug\net6.0\refint\Football Team Generator.dll
+C:\Users\BO\Desktop\C# OOP\Encapsulation Exercise\FootballTeamGenerator\obj\Debug\net6.0\Football Team Generator.pdb
+C:\Users\BO\Desktop\C# OOP\Encapsulation Exercise\FootballTeamGenerator\obj\Debug\net6.0\Football Team Generator.genruntimeconfig.cache
+C:\Users\BO\Desktop\C# OOP\Encapsulation Exercise\FootballTeamGenerator\obj\Debug\net6.0\ref\Football Team Generator.dll

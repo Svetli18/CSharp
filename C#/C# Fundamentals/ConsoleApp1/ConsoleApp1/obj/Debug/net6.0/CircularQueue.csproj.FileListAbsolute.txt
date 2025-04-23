@@ -1,0 +1,14 @@
+C:\Users\BO\Desktop\C# Fundamentals\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\CircularQueue.exe
+C:\Users\BO\Desktop\C# Fundamentals\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\CircularQueue.deps.json
+C:\Users\BO\Desktop\C# Fundamentals\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\CircularQueue.runtimeconfig.json
+C:\Users\BO\Desktop\C# Fundamentals\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\CircularQueue.dll
+C:\Users\BO\Desktop\C# Fundamentals\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\CircularQueue.pdb
+C:\Users\BO\Desktop\C# Fundamentals\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\CircularQueue.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BO\Desktop\C# Fundamentals\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\CircularQueue.AssemblyInfoInputs.cache
+C:\Users\BO\Desktop\C# Fundamentals\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\CircularQueue.AssemblyInfo.cs
+C:\Users\BO\Desktop\C# Fundamentals\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\CircularQueue.csproj.CoreCompileInputs.cache
+C:\Users\BO\Desktop\C# Fundamentals\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\CircularQueue.dll
+C:\Users\BO\Desktop\C# Fundamentals\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\refint\CircularQueue.dll
+C:\Users\BO\Desktop\C# Fundamentals\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\CircularQueue.pdb
+C:\Users\BO\Desktop\C# Fundamentals\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\CircularQueue.genruntimeconfig.cache
+C:\Users\BO\Desktop\C# Fundamentals\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ref\CircularQueue.dll

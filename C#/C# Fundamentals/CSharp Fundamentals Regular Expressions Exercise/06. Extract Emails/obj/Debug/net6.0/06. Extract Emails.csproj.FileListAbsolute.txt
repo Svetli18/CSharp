@@ -1,0 +1,15 @@
+C:\Users\BO\Desktop\C# Fundamentals\CSharp Fundamentals Regular Expressions Exercise\06. Extract Emails\bin\Debug\net6.0\06. Extract Emails.exe
+C:\Users\BO\Desktop\C# Fundamentals\CSharp Fundamentals Regular Expressions Exercise\06. Extract Emails\bin\Debug\net6.0\06. Extract Emails.deps.json
+C:\Users\BO\Desktop\C# Fundamentals\CSharp Fundamentals Regular Expressions Exercise\06. Extract Emails\bin\Debug\net6.0\06. Extract Emails.runtimeconfig.json
+C:\Users\BO\Desktop\C# Fundamentals\CSharp Fundamentals Regular Expressions Exercise\06. Extract Emails\bin\Debug\net6.0\06. Extract Emails.dll
+C:\Users\BO\Desktop\C# Fundamentals\CSharp Fundamentals Regular Expressions Exercise\06. Extract Emails\bin\Debug\net6.0\06. Extract Emails.pdb
+C:\Users\BO\Desktop\C# Fundamentals\CSharp Fundamentals Regular Expressions Exercise\06. Extract Emails\obj\Debug\net6.0\06. Extract Emails.csproj.AssemblyReference.cache
+C:\Users\BO\Desktop\C# Fundamentals\CSharp Fundamentals Regular Expressions Exercise\06. Extract Emails\obj\Debug\net6.0\06. Extract Emails.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BO\Desktop\C# Fundamentals\CSharp Fundamentals Regular Expressions Exercise\06. Extract Emails\obj\Debug\net6.0\06. Extract Emails.AssemblyInfoInputs.cache
+C:\Users\BO\Desktop\C# Fundamentals\CSharp Fundamentals Regular Expressions Exercise\06. Extract Emails\obj\Debug\net6.0\06. Extract Emails.AssemblyInfo.cs
+C:\Users\BO\Desktop\C# Fundamentals\CSharp Fundamentals Regular Expressions Exercise\06. Extract Emails\obj\Debug\net6.0\06. Extract Emails.csproj.CoreCompileInputs.cache
+C:\Users\BO\Desktop\C# Fundamentals\CSharp Fundamentals Regular Expressions Exercise\06. Extract Emails\obj\Debug\net6.0\06. Extract Emails.dll
+C:\Users\BO\Desktop\C# Fundamentals\CSharp Fundamentals Regular Expressions Exercise\06. Extract Emails\obj\Debug\net6.0\refint\06. Extract Emails.dll
+C:\Users\BO\Desktop\C# Fundamentals\CSharp Fundamentals Regular Expressions Exercise\06. Extract Emails\obj\Debug\net6.0\06. Extract Emails.pdb
+C:\Users\BO\Desktop\C# Fundamentals\CSharp Fundamentals Regular Expressions Exercise\06. Extract Emails\obj\Debug\net6.0\06. Extract Emails.genruntimeconfig.cache
+C:\Users\BO\Desktop\C# Fundamentals\CSharp Fundamentals Regular Expressions Exercise\06. Extract Emails\obj\Debug\net6.0\ref\06. Extract Emails.dll

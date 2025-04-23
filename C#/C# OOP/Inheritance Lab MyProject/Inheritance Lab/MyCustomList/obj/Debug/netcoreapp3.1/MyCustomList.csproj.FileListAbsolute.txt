@@ -1,0 +1,14 @@
+C:\Users\BO\Desktop\C# OOP\Inheritance Lab MyProject\Inheritance Lab\MyCustomList\bin\Debug\netcoreapp3.1\MyCustomList.exe
+C:\Users\BO\Desktop\C# OOP\Inheritance Lab MyProject\Inheritance Lab\MyCustomList\bin\Debug\netcoreapp3.1\MyCustomList.deps.json
+C:\Users\BO\Desktop\C# OOP\Inheritance Lab MyProject\Inheritance Lab\MyCustomList\bin\Debug\netcoreapp3.1\MyCustomList.runtimeconfig.json
+C:\Users\BO\Desktop\C# OOP\Inheritance Lab MyProject\Inheritance Lab\MyCustomList\bin\Debug\netcoreapp3.1\MyCustomList.runtimeconfig.dev.json
+C:\Users\BO\Desktop\C# OOP\Inheritance Lab MyProject\Inheritance Lab\MyCustomList\bin\Debug\netcoreapp3.1\MyCustomList.dll
+C:\Users\BO\Desktop\C# OOP\Inheritance Lab MyProject\Inheritance Lab\MyCustomList\bin\Debug\netcoreapp3.1\MyCustomList.pdb
+C:\Users\BO\Desktop\C# OOP\Inheritance Lab MyProject\Inheritance Lab\MyCustomList\obj\Debug\netcoreapp3.1\MyCustomList.csproj.AssemblyReference.cache
+C:\Users\BO\Desktop\C# OOP\Inheritance Lab MyProject\Inheritance Lab\MyCustomList\obj\Debug\netcoreapp3.1\MyCustomList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BO\Desktop\C# OOP\Inheritance Lab MyProject\Inheritance Lab\MyCustomList\obj\Debug\netcoreapp3.1\MyCustomList.AssemblyInfoInputs.cache
+C:\Users\BO\Desktop\C# OOP\Inheritance Lab MyProject\Inheritance Lab\MyCustomList\obj\Debug\netcoreapp3.1\MyCustomList.AssemblyInfo.cs
+C:\Users\BO\Desktop\C# OOP\Inheritance Lab MyProject\Inheritance Lab\MyCustomList\obj\Debug\netcoreapp3.1\MyCustomList.csproj.CoreCompileInputs.cache
+C:\Users\BO\Desktop\C# OOP\Inheritance Lab MyProject\Inheritance Lab\MyCustomList\obj\Debug\netcoreapp3.1\MyCustomList.dll
+C:\Users\BO\Desktop\C# OOP\Inheritance Lab MyProject\Inheritance Lab\MyCustomList\obj\Debug\netcoreapp3.1\MyCustomList.pdb
+C:\Users\BO\Desktop\C# OOP\Inheritance Lab MyProject\Inheritance Lab\MyCustomList\obj\Debug\netcoreapp3.1\MyCustomList.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+C:\Users\BO\Desktop\C# OOP\Inheritance Lab MyProject\Inheritance Lab\StackOfStrings\bin\Debug\netcoreapp3.1\CustomStack.exe
+C:\Users\BO\Desktop\C# OOP\Inheritance Lab MyProject\Inheritance Lab\StackOfStrings\bin\Debug\netcoreapp3.1\CustomStack.deps.json
+C:\Users\BO\Desktop\C# OOP\Inheritance Lab MyProject\Inheritance Lab\StackOfStrings\bin\Debug\netcoreapp3.1\CustomStack.runtimeconfig.json
+C:\Users\BO\Desktop\C# OOP\Inheritance Lab MyProject\Inheritance Lab\StackOfStrings\bin\Debug\netcoreapp3.1\CustomStack.runtimeconfig.dev.json
+C:\Users\BO\Desktop\C# OOP\Inheritance Lab MyProject\Inheritance Lab\StackOfStrings\bin\Debug\netcoreapp3.1\CustomStack.dll
+C:\Users\BO\Desktop\C# OOP\Inheritance Lab MyProject\Inheritance Lab\StackOfStrings\bin\Debug\netcoreapp3.1\CustomStack.pdb
+C:\Users\BO\Desktop\C# OOP\Inheritance Lab MyProject\Inheritance Lab\StackOfStrings\obj\Debug\netcoreapp3.1\StackOfStrings.csproj.AssemblyReference.cache
+C:\Users\BO\Desktop\C# OOP\Inheritance Lab MyProject\Inheritance Lab\StackOfStrings\obj\Debug\netcoreapp3.1\StackOfStrings.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BO\Desktop\C# OOP\Inheritance Lab MyProject\Inheritance Lab\StackOfStrings\obj\Debug\netcoreapp3.1\StackOfStrings.AssemblyInfoInputs.cache
+C:\Users\BO\Desktop\C# OOP\Inheritance Lab MyProject\Inheritance Lab\StackOfStrings\obj\Debug\netcoreapp3.1\StackOfStrings.AssemblyInfo.cs
+C:\Users\BO\Desktop\C# OOP\Inheritance Lab MyProject\Inheritance Lab\StackOfStrings\obj\Debug\netcoreapp3.1\StackOfStrings.csproj.CoreCompileInputs.cache
+C:\Users\BO\Desktop\C# OOP\Inheritance Lab MyProject\Inheritance Lab\StackOfStrings\obj\Debug\netcoreapp3.1\CustomStack.dll
+C:\Users\BO\Desktop\C# OOP\Inheritance Lab MyProject\Inheritance Lab\StackOfStrings\obj\Debug\netcoreapp3.1\CustomStack.pdb
+C:\Users\BO\Desktop\C# OOP\Inheritance Lab MyProject\Inheritance Lab\StackOfStrings\obj\Debug\netcoreapp3.1\StackOfStrings.genruntimeconfig.cache

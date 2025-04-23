@@ -1,0 +1,14 @@
+C:\Users\BO\Desktop\C# Fundamentals\Basic Syntax Lab\Basic Syntax Lab\bin\Debug\net8.0\02 Passed.exe
+C:\Users\BO\Desktop\C# Fundamentals\Basic Syntax Lab\Basic Syntax Lab\bin\Debug\net8.0\02 Passed.deps.json
+C:\Users\BO\Desktop\C# Fundamentals\Basic Syntax Lab\Basic Syntax Lab\bin\Debug\net8.0\02 Passed.runtimeconfig.json
+C:\Users\BO\Desktop\C# Fundamentals\Basic Syntax Lab\Basic Syntax Lab\bin\Debug\net8.0\02 Passed.dll
+C:\Users\BO\Desktop\C# Fundamentals\Basic Syntax Lab\Basic Syntax Lab\bin\Debug\net8.0\02 Passed.pdb
+C:\Users\BO\Desktop\C# Fundamentals\Basic Syntax Lab\Basic Syntax Lab\obj\Debug\net8.0\02 Passed.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BO\Desktop\C# Fundamentals\Basic Syntax Lab\Basic Syntax Lab\obj\Debug\net8.0\02 Passed.AssemblyInfoInputs.cache
+C:\Users\BO\Desktop\C# Fundamentals\Basic Syntax Lab\Basic Syntax Lab\obj\Debug\net8.0\02 Passed.AssemblyInfo.cs
+C:\Users\BO\Desktop\C# Fundamentals\Basic Syntax Lab\Basic Syntax Lab\obj\Debug\net8.0\02 Passed.csproj.CoreCompileInputs.cache
+C:\Users\BO\Desktop\C# Fundamentals\Basic Syntax Lab\Basic Syntax Lab\obj\Debug\net8.0\02 Passed.dll
+C:\Users\BO\Desktop\C# Fundamentals\Basic Syntax Lab\Basic Syntax Lab\obj\Debug\net8.0\refint\02 Passed.dll
+C:\Users\BO\Desktop\C# Fundamentals\Basic Syntax Lab\Basic Syntax Lab\obj\Debug\net8.0\02 Passed.pdb
+C:\Users\BO\Desktop\C# Fundamentals\Basic Syntax Lab\Basic Syntax Lab\obj\Debug\net8.0\02 Passed.genruntimeconfig.cache
+C:\Users\BO\Desktop\C# Fundamentals\Basic Syntax Lab\Basic Syntax Lab\obj\Debug\net8.0\ref\02 Passed.dll

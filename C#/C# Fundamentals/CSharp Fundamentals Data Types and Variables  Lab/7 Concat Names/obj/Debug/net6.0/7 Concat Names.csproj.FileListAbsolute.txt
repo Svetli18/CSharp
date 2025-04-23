@@ -1,0 +1,15 @@
+C:\Users\BO\Desktop\C# Fundamentals\CSharp Fundamentals Data Types and Variables  Lab\7 Concat Names\bin\Debug\net6.0\7 Concat Names.exe
+C:\Users\BO\Desktop\C# Fundamentals\CSharp Fundamentals Data Types and Variables  Lab\7 Concat Names\bin\Debug\net6.0\7 Concat Names.deps.json
+C:\Users\BO\Desktop\C# Fundamentals\CSharp Fundamentals Data Types and Variables  Lab\7 Concat Names\bin\Debug\net6.0\7 Concat Names.runtimeconfig.json
+C:\Users\BO\Desktop\C# Fundamentals\CSharp Fundamentals Data Types and Variables  Lab\7 Concat Names\bin\Debug\net6.0\7 Concat Names.dll
+C:\Users\BO\Desktop\C# Fundamentals\CSharp Fundamentals Data Types and Variables  Lab\7 Concat Names\bin\Debug\net6.0\7 Concat Names.pdb
+C:\Users\BO\Desktop\C# Fundamentals\CSharp Fundamentals Data Types and Variables  Lab\7 Concat Names\obj\Debug\net6.0\7 Concat Names.csproj.AssemblyReference.cache
+C:\Users\BO\Desktop\C# Fundamentals\CSharp Fundamentals Data Types and Variables  Lab\7 Concat Names\obj\Debug\net6.0\7 Concat Names.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BO\Desktop\C# Fundamentals\CSharp Fundamentals Data Types and Variables  Lab\7 Concat Names\obj\Debug\net6.0\7 Concat Names.AssemblyInfoInputs.cache
+C:\Users\BO\Desktop\C# Fundamentals\CSharp Fundamentals Data Types and Variables  Lab\7 Concat Names\obj\Debug\net6.0\7 Concat Names.AssemblyInfo.cs
+C:\Users\BO\Desktop\C# Fundamentals\CSharp Fundamentals Data Types and Variables  Lab\7 Concat Names\obj\Debug\net6.0\7 Concat Names.csproj.CoreCompileInputs.cache
+C:\Users\BO\Desktop\C# Fundamentals\CSharp Fundamentals Data Types and Variables  Lab\7 Concat Names\obj\Debug\net6.0\7 Concat Names.dll
+C:\Users\BO\Desktop\C# Fundamentals\CSharp Fundamentals Data Types and Variables  Lab\7 Concat Names\obj\Debug\net6.0\refint\7 Concat Names.dll
+C:\Users\BO\Desktop\C# Fundamentals\CSharp Fundamentals Data Types and Variables  Lab\7 Concat Names\obj\Debug\net6.0\7 Concat Names.pdb
+C:\Users\BO\Desktop\C# Fundamentals\CSharp Fundamentals Data Types and Variables  Lab\7 Concat Names\obj\Debug\net6.0\7 Concat Names.genruntimeconfig.cache
+C:\Users\BO\Desktop\C# Fundamentals\CSharp Fundamentals Data Types and Variables  Lab\7 Concat Names\obj\Debug\net6.0\ref\7 Concat Names.dll

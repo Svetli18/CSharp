@@ -1,0 +1,15 @@
+C:\Users\BO\Desktop\C# Fundamentals\CSharp Fundamentals Regular Expressions Lab\CSharp Fundamentals Regular Expressions Lab\bin\Debug\net6.0\CSharp Fundamentals Regular Expressions Lab.exe
+C:\Users\BO\Desktop\C# Fundamentals\CSharp Fundamentals Regular Expressions Lab\CSharp Fundamentals Regular Expressions Lab\bin\Debug\net6.0\CSharp Fundamentals Regular Expressions Lab.deps.json
+C:\Users\BO\Desktop\C# Fundamentals\CSharp Fundamentals Regular Expressions Lab\CSharp Fundamentals Regular Expressions Lab\bin\Debug\net6.0\CSharp Fundamentals Regular Expressions Lab.runtimeconfig.json
+C:\Users\BO\Desktop\C# Fundamentals\CSharp Fundamentals Regular Expressions Lab\CSharp Fundamentals Regular Expressions Lab\bin\Debug\net6.0\CSharp Fundamentals Regular Expressions Lab.dll
+C:\Users\BO\Desktop\C# Fundamentals\CSharp Fundamentals Regular Expressions Lab\CSharp Fundamentals Regular Expressions Lab\bin\Debug\net6.0\CSharp Fundamentals Regular Expressions Lab.pdb
+C:\Users\BO\Desktop\C# Fundamentals\CSharp Fundamentals Regular Expressions Lab\CSharp Fundamentals Regular Expressions Lab\obj\Debug\net6.0\CSharp Fundamentals Regular Expressions Lab.csproj.AssemblyReference.cache
+C:\Users\BO\Desktop\C# Fundamentals\CSharp Fundamentals Regular Expressions Lab\CSharp Fundamentals Regular Expressions Lab\obj\Debug\net6.0\CSharp Fundamentals Regular Expressions Lab.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BO\Desktop\C# Fundamentals\CSharp Fundamentals Regular Expressions Lab\CSharp Fundamentals Regular Expressions Lab\obj\Debug\net6.0\CSharp Fundamentals Regular Expressions Lab.AssemblyInfoInputs.cache
+C:\Users\BO\Desktop\C# Fundamentals\CSharp Fundamentals Regular Expressions Lab\CSharp Fundamentals Regular Expressions Lab\obj\Debug\net6.0\CSharp Fundamentals Regular Expressions Lab.AssemblyInfo.cs
+C:\Users\BO\Desktop\C# Fundamentals\CSharp Fundamentals Regular Expressions Lab\CSharp Fundamentals Regular Expressions Lab\obj\Debug\net6.0\CSharp Fundamentals Regular Expressions Lab.csproj.CoreCompileInputs.cache
+C:\Users\BO\Desktop\C# Fundamentals\CSharp Fundamentals Regular Expressions Lab\CSharp Fundamentals Regular Expressions Lab\obj\Debug\net6.0\CSharp Fundamentals Regular Expressions Lab.dll
+C:\Users\BO\Desktop\C# Fundamentals\CSharp Fundamentals Regular Expressions Lab\CSharp Fundamentals Regular Expressions Lab\obj\Debug\net6.0\refint\CSharp Fundamentals Regular Expressions Lab.dll
+C:\Users\BO\Desktop\C# Fundamentals\CSharp Fundamentals Regular Expressions Lab\CSharp Fundamentals Regular Expressions Lab\obj\Debug\net6.0\CSharp Fundamentals Regular Expressions Lab.pdb
+C:\Users\BO\Desktop\C# Fundamentals\CSharp Fundamentals Regular Expressions Lab\CSharp Fundamentals Regular Expressions Lab\obj\Debug\net6.0\CSharp Fundamentals Regular Expressions Lab.genruntimeconfig.cache
+C:\Users\BO\Desktop\C# Fundamentals\CSharp Fundamentals Regular Expressions Lab\CSharp Fundamentals Regular Expressions Lab\obj\Debug\net6.0\ref\CSharp Fundamentals Regular Expressions Lab.dll

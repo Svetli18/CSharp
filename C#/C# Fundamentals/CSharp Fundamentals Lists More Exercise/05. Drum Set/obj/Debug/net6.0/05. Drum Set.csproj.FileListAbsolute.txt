@@ -1,0 +1,15 @@
+C:\Users\BO\Desktop\C# Fundamentals\CSharp Fundamentals Lists More Exercise\05. Drum Set\bin\Debug\net6.0\05. Drum Set.exe
+C:\Users\BO\Desktop\C# Fundamentals\CSharp Fundamentals Lists More Exercise\05. Drum Set\bin\Debug\net6.0\05. Drum Set.deps.json
+C:\Users\BO\Desktop\C# Fundamentals\CSharp Fundamentals Lists More Exercise\05. Drum Set\bin\Debug\net6.0\05. Drum Set.runtimeconfig.json
+C:\Users\BO\Desktop\C# Fundamentals\CSharp Fundamentals Lists More Exercise\05. Drum Set\bin\Debug\net6.0\05. Drum Set.dll
+C:\Users\BO\Desktop\C# Fundamentals\CSharp Fundamentals Lists More Exercise\05. Drum Set\bin\Debug\net6.0\05. Drum Set.pdb
+C:\Users\BO\Desktop\C# Fundamentals\CSharp Fundamentals Lists More Exercise\05. Drum Set\obj\Debug\net6.0\05. Drum Set.csproj.AssemblyReference.cache
+C:\Users\BO\Desktop\C# Fundamentals\CSharp Fundamentals Lists More Exercise\05. Drum Set\obj\Debug\net6.0\05. Drum Set.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BO\Desktop\C# Fundamentals\CSharp Fundamentals Lists More Exercise\05. Drum Set\obj\Debug\net6.0\05. Drum Set.AssemblyInfoInputs.cache
+C:\Users\BO\Desktop\C# Fundamentals\CSharp Fundamentals Lists More Exercise\05. Drum Set\obj\Debug\net6.0\05. Drum Set.AssemblyInfo.cs
+C:\Users\BO\Desktop\C# Fundamentals\CSharp Fundamentals Lists More Exercise\05. Drum Set\obj\Debug\net6.0\05. Drum Set.csproj.CoreCompileInputs.cache
+C:\Users\BO\Desktop\C# Fundamentals\CSharp Fundamentals Lists More Exercise\05. Drum Set\obj\Debug\net6.0\05. Drum Set.dll
+C:\Users\BO\Desktop\C# Fundamentals\CSharp Fundamentals Lists More Exercise\05. Drum Set\obj\Debug\net6.0\refint\05. Drum Set.dll
+C:\Users\BO\Desktop\C# Fundamentals\CSharp Fundamentals Lists More Exercise\05. Drum Set\obj\Debug\net6.0\05. Drum Set.pdb
+C:\Users\BO\Desktop\C# Fundamentals\CSharp Fundamentals Lists More Exercise\05. Drum Set\obj\Debug\net6.0\05. Drum Set.genruntimeconfig.cache
+C:\Users\BO\Desktop\C# Fundamentals\CSharp Fundamentals Lists More Exercise\05. Drum Set\obj\Debug\net6.0\ref\05. Drum Set.dll

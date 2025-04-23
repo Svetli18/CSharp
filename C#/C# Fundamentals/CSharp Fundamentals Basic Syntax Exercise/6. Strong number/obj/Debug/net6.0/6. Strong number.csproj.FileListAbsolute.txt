@@ -1,0 +1,15 @@
+C:\Users\BO\Desktop\C# Fundamentals\CSharp Fundamentals Basic Syntax Exercise\6. Strong number\bin\Debug\net6.0\6. Strong number.exe
+C:\Users\BO\Desktop\C# Fundamentals\CSharp Fundamentals Basic Syntax Exercise\6. Strong number\bin\Debug\net6.0\6. Strong number.deps.json
+C:\Users\BO\Desktop\C# Fundamentals\CSharp Fundamentals Basic Syntax Exercise\6. Strong number\bin\Debug\net6.0\6. Strong number.runtimeconfig.json
+C:\Users\BO\Desktop\C# Fundamentals\CSharp Fundamentals Basic Syntax Exercise\6. Strong number\bin\Debug\net6.0\6. Strong number.dll
+C:\Users\BO\Desktop\C# Fundamentals\CSharp Fundamentals Basic Syntax Exercise\6. Strong number\bin\Debug\net6.0\6. Strong number.pdb
+C:\Users\BO\Desktop\C# Fundamentals\CSharp Fundamentals Basic Syntax Exercise\6. Strong number\obj\Debug\net6.0\6. Strong number.csproj.AssemblyReference.cache
+C:\Users\BO\Desktop\C# Fundamentals\CSharp Fundamentals Basic Syntax Exercise\6. Strong number\obj\Debug\net6.0\6. Strong number.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BO\Desktop\C# Fundamentals\CSharp Fundamentals Basic Syntax Exercise\6. Strong number\obj\Debug\net6.0\6. Strong number.AssemblyInfoInputs.cache
+C:\Users\BO\Desktop\C# Fundamentals\CSharp Fundamentals Basic Syntax Exercise\6. Strong number\obj\Debug\net6.0\6. Strong number.AssemblyInfo.cs
+C:\Users\BO\Desktop\C# Fundamentals\CSharp Fundamentals Basic Syntax Exercise\6. Strong number\obj\Debug\net6.0\6. Strong number.csproj.CoreCompileInputs.cache
+C:\Users\BO\Desktop\C# Fundamentals\CSharp Fundamentals Basic Syntax Exercise\6. Strong number\obj\Debug\net6.0\6. Strong number.dll
+C:\Users\BO\Desktop\C# Fundamentals\CSharp Fundamentals Basic Syntax Exercise\6. Strong number\obj\Debug\net6.0\refint\6. Strong number.dll
+C:\Users\BO\Desktop\C# Fundamentals\CSharp Fundamentals Basic Syntax Exercise\6. Strong number\obj\Debug\net6.0\6. Strong number.pdb
+C:\Users\BO\Desktop\C# Fundamentals\CSharp Fundamentals Basic Syntax Exercise\6. Strong number\obj\Debug\net6.0\6. Strong number.genruntimeconfig.cache
+C:\Users\BO\Desktop\C# Fundamentals\CSharp Fundamentals Basic Syntax Exercise\6. Strong number\obj\Debug\net6.0\ref\6. Strong number.dll

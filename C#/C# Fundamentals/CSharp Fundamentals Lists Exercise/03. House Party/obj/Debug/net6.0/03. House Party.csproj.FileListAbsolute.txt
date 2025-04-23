@@ -1,0 +1,15 @@
+C:\Users\BO\Desktop\C# Fundamentals\CSharp Fundamentals Lists Exercise\03. House Party\bin\Debug\net6.0\03. House Party.exe
+C:\Users\BO\Desktop\C# Fundamentals\CSharp Fundamentals Lists Exercise\03. House Party\bin\Debug\net6.0\03. House Party.deps.json
+C:\Users\BO\Desktop\C# Fundamentals\CSharp Fundamentals Lists Exercise\03. House Party\bin\Debug\net6.0\03. House Party.runtimeconfig.json
+C:\Users\BO\Desktop\C# Fundamentals\CSharp Fundamentals Lists Exercise\03. House Party\bin\Debug\net6.0\03. House Party.dll
+C:\Users\BO\Desktop\C# Fundamentals\CSharp Fundamentals Lists Exercise\03. House Party\bin\Debug\net6.0\03. House Party.pdb
+C:\Users\BO\Desktop\C# Fundamentals\CSharp Fundamentals Lists Exercise\03. House Party\obj\Debug\net6.0\03. House Party.csproj.AssemblyReference.cache
+C:\Users\BO\Desktop\C# Fundamentals\CSharp Fundamentals Lists Exercise\03. House Party\obj\Debug\net6.0\03. House Party.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BO\Desktop\C# Fundamentals\CSharp Fundamentals Lists Exercise\03. House Party\obj\Debug\net6.0\03. House Party.AssemblyInfoInputs.cache
+C:\Users\BO\Desktop\C# Fundamentals\CSharp Fundamentals Lists Exercise\03. House Party\obj\Debug\net6.0\03. House Party.AssemblyInfo.cs
+C:\Users\BO\Desktop\C# Fundamentals\CSharp Fundamentals Lists Exercise\03. House Party\obj\Debug\net6.0\03. House Party.csproj.CoreCompileInputs.cache
+C:\Users\BO\Desktop\C# Fundamentals\CSharp Fundamentals Lists Exercise\03. House Party\obj\Debug\net6.0\03. House Party.dll
+C:\Users\BO\Desktop\C# Fundamentals\CSharp Fundamentals Lists Exercise\03. House Party\obj\Debug\net6.0\refint\03. House Party.dll
+C:\Users\BO\Desktop\C# Fundamentals\CSharp Fundamentals Lists Exercise\03. House Party\obj\Debug\net6.0\03. House Party.pdb
+C:\Users\BO\Desktop\C# Fundamentals\CSharp Fundamentals Lists Exercise\03. House Party\obj\Debug\net6.0\03. House Party.genruntimeconfig.cache
+C:\Users\BO\Desktop\C# Fundamentals\CSharp Fundamentals Lists Exercise\03. House Party\obj\Debug\net6.0\ref\03. House Party.dll

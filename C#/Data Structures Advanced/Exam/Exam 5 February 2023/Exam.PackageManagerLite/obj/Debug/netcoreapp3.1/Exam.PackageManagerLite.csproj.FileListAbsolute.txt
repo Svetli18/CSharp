@@ -1,0 +1,13 @@
+C:\Users\BO\Desktop\Data Structures Advanced\Exam\Exam 5 February 2023\Exam.PackageManagerLite\bin\Debug\netcoreapp3.1\Exam.PackageManagerLite.exe
+C:\Users\BO\Desktop\Data Structures Advanced\Exam\Exam 5 February 2023\Exam.PackageManagerLite\bin\Debug\netcoreapp3.1\Exam.PackageManagerLite.deps.json
+C:\Users\BO\Desktop\Data Structures Advanced\Exam\Exam 5 February 2023\Exam.PackageManagerLite\bin\Debug\netcoreapp3.1\Exam.PackageManagerLite.runtimeconfig.json
+C:\Users\BO\Desktop\Data Structures Advanced\Exam\Exam 5 February 2023\Exam.PackageManagerLite\bin\Debug\netcoreapp3.1\Exam.PackageManagerLite.runtimeconfig.dev.json
+C:\Users\BO\Desktop\Data Structures Advanced\Exam\Exam 5 February 2023\Exam.PackageManagerLite\bin\Debug\netcoreapp3.1\Exam.PackageManagerLite.dll
+C:\Users\BO\Desktop\Data Structures Advanced\Exam\Exam 5 February 2023\Exam.PackageManagerLite\bin\Debug\netcoreapp3.1\Exam.PackageManagerLite.pdb
+C:\Users\BO\Desktop\Data Structures Advanced\Exam\Exam 5 February 2023\Exam.PackageManagerLite\obj\Debug\netcoreapp3.1\Exam.PackageManagerLite.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BO\Desktop\Data Structures Advanced\Exam\Exam 5 February 2023\Exam.PackageManagerLite\obj\Debug\netcoreapp3.1\Exam.PackageManagerLite.AssemblyInfoInputs.cache
+C:\Users\BO\Desktop\Data Structures Advanced\Exam\Exam 5 February 2023\Exam.PackageManagerLite\obj\Debug\netcoreapp3.1\Exam.PackageManagerLite.AssemblyInfo.cs
+C:\Users\BO\Desktop\Data Structures Advanced\Exam\Exam 5 February 2023\Exam.PackageManagerLite\obj\Debug\netcoreapp3.1\Exam.PackageManagerLite.csproj.CoreCompileInputs.cache
+C:\Users\BO\Desktop\Data Structures Advanced\Exam\Exam 5 February 2023\Exam.PackageManagerLite\obj\Debug\netcoreapp3.1\Exam.PackageManagerLite.dll
+C:\Users\BO\Desktop\Data Structures Advanced\Exam\Exam 5 February 2023\Exam.PackageManagerLite\obj\Debug\netcoreapp3.1\Exam.PackageManagerLite.pdb
+C:\Users\BO\Desktop\Data Structures Advanced\Exam\Exam 5 February 2023\Exam.PackageManagerLite\obj\Debug\netcoreapp3.1\Exam.PackageManagerLite.genruntimeconfig.cache

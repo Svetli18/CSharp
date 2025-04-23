@@ -1,0 +1,14 @@
+C:\Users\BO\Desktop\C# Fundamentals\CSharp Fundamentals leson 1 Lab\CSharp Fundamentals leson 1 Lab\obj\Debug\netcoreapp3.1\CSharp Fundamentals leson 1 Lab.csproj.AssemblyReference.cache
+C:\Users\BO\Desktop\C# Fundamentals\CSharp Fundamentals leson 1 Lab\CSharp Fundamentals leson 1 Lab\obj\Debug\netcoreapp3.1\CSharp Fundamentals leson 1 Lab.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BO\Desktop\C# Fundamentals\CSharp Fundamentals leson 1 Lab\CSharp Fundamentals leson 1 Lab\obj\Debug\netcoreapp3.1\CSharp Fundamentals leson 1 Lab.AssemblyInfoInputs.cache
+C:\Users\BO\Desktop\C# Fundamentals\CSharp Fundamentals leson 1 Lab\CSharp Fundamentals leson 1 Lab\obj\Debug\netcoreapp3.1\CSharp Fundamentals leson 1 Lab.AssemblyInfo.cs
+C:\Users\BO\Desktop\C# Fundamentals\CSharp Fundamentals leson 1 Lab\CSharp Fundamentals leson 1 Lab\obj\Debug\netcoreapp3.1\CSharp Fundamentals leson 1 Lab.csproj.CoreCompileInputs.cache
+C:\Users\BO\Desktop\C# Fundamentals\CSharp Fundamentals leson 1 Lab\CSharp Fundamentals leson 1 Lab\bin\Debug\netcoreapp3.1\CSharp Fundamentals leson 1 Lab.exe
+C:\Users\BO\Desktop\C# Fundamentals\CSharp Fundamentals leson 1 Lab\CSharp Fundamentals leson 1 Lab\bin\Debug\netcoreapp3.1\CSharp Fundamentals leson 1 Lab.deps.json
+C:\Users\BO\Desktop\C# Fundamentals\CSharp Fundamentals leson 1 Lab\CSharp Fundamentals leson 1 Lab\bin\Debug\netcoreapp3.1\CSharp Fundamentals leson 1 Lab.runtimeconfig.json
+C:\Users\BO\Desktop\C# Fundamentals\CSharp Fundamentals leson 1 Lab\CSharp Fundamentals leson 1 Lab\bin\Debug\netcoreapp3.1\CSharp Fundamentals leson 1 Lab.runtimeconfig.dev.json
+C:\Users\BO\Desktop\C# Fundamentals\CSharp Fundamentals leson 1 Lab\CSharp Fundamentals leson 1 Lab\bin\Debug\netcoreapp3.1\CSharp Fundamentals leson 1 Lab.dll
+C:\Users\BO\Desktop\C# Fundamentals\CSharp Fundamentals leson 1 Lab\CSharp Fundamentals leson 1 Lab\bin\Debug\netcoreapp3.1\CSharp Fundamentals leson 1 Lab.pdb
+C:\Users\BO\Desktop\C# Fundamentals\CSharp Fundamentals leson 1 Lab\CSharp Fundamentals leson 1 Lab\obj\Debug\netcoreapp3.1\CSharp Fundamentals leson 1 Lab.dll
+C:\Users\BO\Desktop\C# Fundamentals\CSharp Fundamentals leson 1 Lab\CSharp Fundamentals leson 1 Lab\obj\Debug\netcoreapp3.1\CSharp Fundamentals leson 1 Lab.pdb
+C:\Users\BO\Desktop\C# Fundamentals\CSharp Fundamentals leson 1 Lab\CSharp Fundamentals leson 1 Lab\obj\Debug\netcoreapp3.1\CSharp Fundamentals leson 1 Lab.genruntimeconfig.cache

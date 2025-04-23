@@ -1,0 +1,15 @@
+C:\Users\BO\Desktop\C# Fundamentals\CSharp Fundamentals Data Types and Variables  Lab\4 Centuries to Minutes\bin\Debug\net6.0\4 Centuries to Minutes.exe
+C:\Users\BO\Desktop\C# Fundamentals\CSharp Fundamentals Data Types and Variables  Lab\4 Centuries to Minutes\bin\Debug\net6.0\4 Centuries to Minutes.deps.json
+C:\Users\BO\Desktop\C# Fundamentals\CSharp Fundamentals Data Types and Variables  Lab\4 Centuries to Minutes\bin\Debug\net6.0\4 Centuries to Minutes.runtimeconfig.json
+C:\Users\BO\Desktop\C# Fundamentals\CSharp Fundamentals Data Types and Variables  Lab\4 Centuries to Minutes\bin\Debug\net6.0\4 Centuries to Minutes.dll
+C:\Users\BO\Desktop\C# Fundamentals\CSharp Fundamentals Data Types and Variables  Lab\4 Centuries to Minutes\bin\Debug\net6.0\4 Centuries to Minutes.pdb
+C:\Users\BO\Desktop\C# Fundamentals\CSharp Fundamentals Data Types and Variables  Lab\4 Centuries to Minutes\obj\Debug\net6.0\4 Centuries to Minutes.csproj.AssemblyReference.cache
+C:\Users\BO\Desktop\C# Fundamentals\CSharp Fundamentals Data Types and Variables  Lab\4 Centuries to Minutes\obj\Debug\net6.0\4 Centuries to Minutes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BO\Desktop\C# Fundamentals\CSharp Fundamentals Data Types and Variables  Lab\4 Centuries to Minutes\obj\Debug\net6.0\4 Centuries to Minutes.AssemblyInfoInputs.cache
+C:\Users\BO\Desktop\C# Fundamentals\CSharp Fundamentals Data Types and Variables  Lab\4 Centuries to Minutes\obj\Debug\net6.0\4 Centuries to Minutes.AssemblyInfo.cs
+C:\Users\BO\Desktop\C# Fundamentals\CSharp Fundamentals Data Types and Variables  Lab\4 Centuries to Minutes\obj\Debug\net6.0\4 Centuries to Minutes.csproj.CoreCompileInputs.cache
+C:\Users\BO\Desktop\C# Fundamentals\CSharp Fundamentals Data Types and Variables  Lab\4 Centuries to Minutes\obj\Debug\net6.0\4 Centuries to Minutes.dll
+C:\Users\BO\Desktop\C# Fundamentals\CSharp Fundamentals Data Types and Variables  Lab\4 Centuries to Minutes\obj\Debug\net6.0\refint\4 Centuries to Minutes.dll
+C:\Users\BO\Desktop\C# Fundamentals\CSharp Fundamentals Data Types and Variables  Lab\4 Centuries to Minutes\obj\Debug\net6.0\4 Centuries to Minutes.pdb
+C:\Users\BO\Desktop\C# Fundamentals\CSharp Fundamentals Data Types and Variables  Lab\4 Centuries to Minutes\obj\Debug\net6.0\4 Centuries to Minutes.genruntimeconfig.cache
+C:\Users\BO\Desktop\C# Fundamentals\CSharp Fundamentals Data Types and Variables  Lab\4 Centuries to Minutes\obj\Debug\net6.0\ref\4 Centuries to Minutes.dll

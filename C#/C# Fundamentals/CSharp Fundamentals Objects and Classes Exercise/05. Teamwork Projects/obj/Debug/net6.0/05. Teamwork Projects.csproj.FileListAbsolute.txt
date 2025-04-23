@@ -1,0 +1,15 @@
+C:\Users\BO\Desktop\C# Fundamentals\CSharp Fundamentals Objects and Classes Exercise\05. Teamwork Projects\bin\Debug\net6.0\05. Teamwork Projects.exe
+C:\Users\BO\Desktop\C# Fundamentals\CSharp Fundamentals Objects and Classes Exercise\05. Teamwork Projects\bin\Debug\net6.0\05. Teamwork Projects.deps.json
+C:\Users\BO\Desktop\C# Fundamentals\CSharp Fundamentals Objects and Classes Exercise\05. Teamwork Projects\bin\Debug\net6.0\05. Teamwork Projects.runtimeconfig.json
+C:\Users\BO\Desktop\C# Fundamentals\CSharp Fundamentals Objects and Classes Exercise\05. Teamwork Projects\bin\Debug\net6.0\05. Teamwork Projects.dll
+C:\Users\BO\Desktop\C# Fundamentals\CSharp Fundamentals Objects and Classes Exercise\05. Teamwork Projects\bin\Debug\net6.0\05. Teamwork Projects.pdb
+C:\Users\BO\Desktop\C# Fundamentals\CSharp Fundamentals Objects and Classes Exercise\05. Teamwork Projects\obj\Debug\net6.0\05. Teamwork Projects.csproj.AssemblyReference.cache
+C:\Users\BO\Desktop\C# Fundamentals\CSharp Fundamentals Objects and Classes Exercise\05. Teamwork Projects\obj\Debug\net6.0\05. Teamwork Projects.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BO\Desktop\C# Fundamentals\CSharp Fundamentals Objects and Classes Exercise\05. Teamwork Projects\obj\Debug\net6.0\05. Teamwork Projects.AssemblyInfoInputs.cache
+C:\Users\BO\Desktop\C# Fundamentals\CSharp Fundamentals Objects and Classes Exercise\05. Teamwork Projects\obj\Debug\net6.0\05. Teamwork Projects.AssemblyInfo.cs
+C:\Users\BO\Desktop\C# Fundamentals\CSharp Fundamentals Objects and Classes Exercise\05. Teamwork Projects\obj\Debug\net6.0\05. Teamwork Projects.csproj.CoreCompileInputs.cache
+C:\Users\BO\Desktop\C# Fundamentals\CSharp Fundamentals Objects and Classes Exercise\05. Teamwork Projects\obj\Debug\net6.0\05. Teamwork Projects.dll
+C:\Users\BO\Desktop\C# Fundamentals\CSharp Fundamentals Objects and Classes Exercise\05. Teamwork Projects\obj\Debug\net6.0\refint\05. Teamwork Projects.dll
+C:\Users\BO\Desktop\C# Fundamentals\CSharp Fundamentals Objects and Classes Exercise\05. Teamwork Projects\obj\Debug\net6.0\05. Teamwork Projects.pdb
+C:\Users\BO\Desktop\C# Fundamentals\CSharp Fundamentals Objects and Classes Exercise\05. Teamwork Projects\obj\Debug\net6.0\05. Teamwork Projects.genruntimeconfig.cache
+C:\Users\BO\Desktop\C# Fundamentals\CSharp Fundamentals Objects and Classes Exercise\05. Teamwork Projects\obj\Debug\net6.0\ref\05. Teamwork Projects.dll

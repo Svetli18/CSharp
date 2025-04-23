@@ -1,0 +1,14 @@
+C:\Users\BO\Desktop\C# OOP\Encapsulation Exercise\Encapsulation Exercise\obj\Debug\net6.0\Encapsulation Exercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BO\Desktop\C# OOP\Encapsulation Exercise\Encapsulation Exercise\obj\Debug\net6.0\Encapsulation Exercise.AssemblyInfoInputs.cache
+C:\Users\BO\Desktop\C# OOP\Encapsulation Exercise\Encapsulation Exercise\obj\Debug\net6.0\Encapsulation Exercise.AssemblyInfo.cs
+C:\Users\BO\Desktop\C# OOP\Encapsulation Exercise\Encapsulation Exercise\obj\Debug\net6.0\Encapsulation Exercise.csproj.CoreCompileInputs.cache
+C:\Users\BO\Desktop\C# OOP\Encapsulation Exercise\Encapsulation Exercise\bin\Debug\net6.0\Encapsulation Exercise.exe
+C:\Users\BO\Desktop\C# OOP\Encapsulation Exercise\Encapsulation Exercise\bin\Debug\net6.0\Encapsulation Exercise.deps.json
+C:\Users\BO\Desktop\C# OOP\Encapsulation Exercise\Encapsulation Exercise\bin\Debug\net6.0\Encapsulation Exercise.runtimeconfig.json
+C:\Users\BO\Desktop\C# OOP\Encapsulation Exercise\Encapsulation Exercise\bin\Debug\net6.0\Encapsulation Exercise.dll
+C:\Users\BO\Desktop\C# OOP\Encapsulation Exercise\Encapsulation Exercise\bin\Debug\net6.0\Encapsulation Exercise.pdb
+C:\Users\BO\Desktop\C# OOP\Encapsulation Exercise\Encapsulation Exercise\obj\Debug\net6.0\Encapsulation Exercise.dll
+C:\Users\BO\Desktop\C# OOP\Encapsulation Exercise\Encapsulation Exercise\obj\Debug\net6.0\refint\Encapsulation Exercise.dll
+C:\Users\BO\Desktop\C# OOP\Encapsulation Exercise\Encapsulation Exercise\obj\Debug\net6.0\Encapsulation Exercise.pdb
+C:\Users\BO\Desktop\C# OOP\Encapsulation Exercise\Encapsulation Exercise\obj\Debug\net6.0\Encapsulation Exercise.genruntimeconfig.cache
+C:\Users\BO\Desktop\C# OOP\Encapsulation Exercise\Encapsulation Exercise\obj\Debug\net6.0\ref\Encapsulation Exercise.dll

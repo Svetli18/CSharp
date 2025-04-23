@@ -1,0 +1,14 @@
+C:\Users\BO\Desktop\C# OOP\Polymorphism Exercises\WildFarm\bin\Debug\net6.0\WildFarm.exe
+C:\Users\BO\Desktop\C# OOP\Polymorphism Exercises\WildFarm\bin\Debug\net6.0\WildFarm.deps.json
+C:\Users\BO\Desktop\C# OOP\Polymorphism Exercises\WildFarm\bin\Debug\net6.0\WildFarm.runtimeconfig.json
+C:\Users\BO\Desktop\C# OOP\Polymorphism Exercises\WildFarm\bin\Debug\net6.0\WildFarm.dll
+C:\Users\BO\Desktop\C# OOP\Polymorphism Exercises\WildFarm\bin\Debug\net6.0\WildFarm.pdb
+C:\Users\BO\Desktop\C# OOP\Polymorphism Exercises\WildFarm\obj\Debug\net6.0\WildFarm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BO\Desktop\C# OOP\Polymorphism Exercises\WildFarm\obj\Debug\net6.0\WildFarm.AssemblyInfoInputs.cache
+C:\Users\BO\Desktop\C# OOP\Polymorphism Exercises\WildFarm\obj\Debug\net6.0\WildFarm.AssemblyInfo.cs
+C:\Users\BO\Desktop\C# OOP\Polymorphism Exercises\WildFarm\obj\Debug\net6.0\WildFarm.csproj.CoreCompileInputs.cache
+C:\Users\BO\Desktop\C# OOP\Polymorphism Exercises\WildFarm\obj\Debug\net6.0\WildFarm.dll
+C:\Users\BO\Desktop\C# OOP\Polymorphism Exercises\WildFarm\obj\Debug\net6.0\refint\WildFarm.dll
+C:\Users\BO\Desktop\C# OOP\Polymorphism Exercises\WildFarm\obj\Debug\net6.0\WildFarm.pdb
+C:\Users\BO\Desktop\C# OOP\Polymorphism Exercises\WildFarm\obj\Debug\net6.0\WildFarm.genruntimeconfig.cache
+C:\Users\BO\Desktop\C# OOP\Polymorphism Exercises\WildFarm\obj\Debug\net6.0\ref\WildFarm.dll

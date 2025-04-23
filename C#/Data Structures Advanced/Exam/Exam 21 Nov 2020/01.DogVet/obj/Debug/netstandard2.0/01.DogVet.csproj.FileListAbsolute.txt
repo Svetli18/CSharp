@@ -1,0 +1,10 @@
+C:\Users\BO\Desktop\Data Structures Advanced\Exam\Exam 21 Nov 2020\01.DogVet\bin\Debug\netstandard2.0\01.DogVet.deps.json
+C:\Users\BO\Desktop\Data Structures Advanced\Exam\Exam 21 Nov 2020\01.DogVet\bin\Debug\netstandard2.0\01.DogVet.dll
+C:\Users\BO\Desktop\Data Structures Advanced\Exam\Exam 21 Nov 2020\01.DogVet\bin\Debug\netstandard2.0\01.DogVet.pdb
+C:\Users\BO\Desktop\Data Structures Advanced\Exam\Exam 21 Nov 2020\01.DogVet\obj\Debug\netstandard2.0\01.DogVet.csproj.AssemblyReference.cache
+C:\Users\BO\Desktop\Data Structures Advanced\Exam\Exam 21 Nov 2020\01.DogVet\obj\Debug\netstandard2.0\01.DogVet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BO\Desktop\Data Structures Advanced\Exam\Exam 21 Nov 2020\01.DogVet\obj\Debug\netstandard2.0\01.DogVet.AssemblyInfoInputs.cache
+C:\Users\BO\Desktop\Data Structures Advanced\Exam\Exam 21 Nov 2020\01.DogVet\obj\Debug\netstandard2.0\01.DogVet.AssemblyInfo.cs
+C:\Users\BO\Desktop\Data Structures Advanced\Exam\Exam 21 Nov 2020\01.DogVet\obj\Debug\netstandard2.0\01.DogVet.csproj.CoreCompileInputs.cache
+C:\Users\BO\Desktop\Data Structures Advanced\Exam\Exam 21 Nov 2020\01.DogVet\obj\Debug\netstandard2.0\01.DogVet.dll
+C:\Users\BO\Desktop\Data Structures Advanced\Exam\Exam 21 Nov 2020\01.DogVet\obj\Debug\netstandard2.0\01.DogVet.pdb

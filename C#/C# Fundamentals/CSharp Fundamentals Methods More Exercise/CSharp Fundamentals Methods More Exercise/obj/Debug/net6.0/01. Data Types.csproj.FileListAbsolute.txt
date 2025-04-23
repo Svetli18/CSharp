@@ -1,0 +1,15 @@
+C:\Users\BO\Desktop\C# Fundamentals\CSharp Fundamentals Methods More Exercise\CSharp Fundamentals Methods More Exercise\bin\Debug\net6.0\01. Data Types.exe
+C:\Users\BO\Desktop\C# Fundamentals\CSharp Fundamentals Methods More Exercise\CSharp Fundamentals Methods More Exercise\bin\Debug\net6.0\01. Data Types.deps.json
+C:\Users\BO\Desktop\C# Fundamentals\CSharp Fundamentals Methods More Exercise\CSharp Fundamentals Methods More Exercise\bin\Debug\net6.0\01. Data Types.runtimeconfig.json
+C:\Users\BO\Desktop\C# Fundamentals\CSharp Fundamentals Methods More Exercise\CSharp Fundamentals Methods More Exercise\bin\Debug\net6.0\01. Data Types.dll
+C:\Users\BO\Desktop\C# Fundamentals\CSharp Fundamentals Methods More Exercise\CSharp Fundamentals Methods More Exercise\bin\Debug\net6.0\01. Data Types.pdb
+C:\Users\BO\Desktop\C# Fundamentals\CSharp Fundamentals Methods More Exercise\CSharp Fundamentals Methods More Exercise\obj\Debug\net6.0\01. Data Types.csproj.AssemblyReference.cache
+C:\Users\BO\Desktop\C# Fundamentals\CSharp Fundamentals Methods More Exercise\CSharp Fundamentals Methods More Exercise\obj\Debug\net6.0\01. Data Types.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BO\Desktop\C# Fundamentals\CSharp Fundamentals Methods More Exercise\CSharp Fundamentals Methods More Exercise\obj\Debug\net6.0\01. Data Types.AssemblyInfoInputs.cache
+C:\Users\BO\Desktop\C# Fundamentals\CSharp Fundamentals Methods More Exercise\CSharp Fundamentals Methods More Exercise\obj\Debug\net6.0\01. Data Types.AssemblyInfo.cs
+C:\Users\BO\Desktop\C# Fundamentals\CSharp Fundamentals Methods More Exercise\CSharp Fundamentals Methods More Exercise\obj\Debug\net6.0\01. Data Types.csproj.CoreCompileInputs.cache
+C:\Users\BO\Desktop\C# Fundamentals\CSharp Fundamentals Methods More Exercise\CSharp Fundamentals Methods More Exercise\obj\Debug\net6.0\01. Data Types.dll
+C:\Users\BO\Desktop\C# Fundamentals\CSharp Fundamentals Methods More Exercise\CSharp Fundamentals Methods More Exercise\obj\Debug\net6.0\refint\01. Data Types.dll
+C:\Users\BO\Desktop\C# Fundamentals\CSharp Fundamentals Methods More Exercise\CSharp Fundamentals Methods More Exercise\obj\Debug\net6.0\01. Data Types.pdb
+C:\Users\BO\Desktop\C# Fundamentals\CSharp Fundamentals Methods More Exercise\CSharp Fundamentals Methods More Exercise\obj\Debug\net6.0\01. Data Types.genruntimeconfig.cache
+C:\Users\BO\Desktop\C# Fundamentals\CSharp Fundamentals Methods More Exercise\CSharp Fundamentals Methods More Exercise\obj\Debug\net6.0\ref\01. Data Types.dll

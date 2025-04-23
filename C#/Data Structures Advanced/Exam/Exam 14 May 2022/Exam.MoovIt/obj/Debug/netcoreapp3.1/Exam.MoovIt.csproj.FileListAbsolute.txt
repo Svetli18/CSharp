@@ -1,0 +1,16 @@
+C:\Users\BO\Desktop\Data Structures Advanced\Exam\Exam 14 May 2022\Exam.MoovIt\bin\Debug\netcoreapp3.1\Exam.MoovIt.exe
+C:\Users\BO\Desktop\Data Structures Advanced\Exam\Exam 14 May 2022\Exam.MoovIt\bin\Debug\netcoreapp3.1\Exam.MoovIt.deps.json
+C:\Users\BO\Desktop\Data Structures Advanced\Exam\Exam 14 May 2022\Exam.MoovIt\bin\Debug\netcoreapp3.1\Exam.MoovIt.runtimeconfig.json
+C:\Users\BO\Desktop\Data Structures Advanced\Exam\Exam 14 May 2022\Exam.MoovIt\bin\Debug\netcoreapp3.1\Exam.MoovIt.runtimeconfig.dev.json
+C:\Users\BO\Desktop\Data Structures Advanced\Exam\Exam 14 May 2022\Exam.MoovIt\bin\Debug\netcoreapp3.1\Exam.MoovIt.dll
+C:\Users\BO\Desktop\Data Structures Advanced\Exam\Exam 14 May 2022\Exam.MoovIt\bin\Debug\netcoreapp3.1\Exam.MoovIt.pdb
+C:\Users\BO\Desktop\Data Structures Advanced\Exam\Exam 14 May 2022\Exam.MoovIt\bin\Debug\netcoreapp3.1\Wintellect.PowerCollections.dll
+C:\Users\BO\Desktop\Data Structures Advanced\Exam\Exam 14 May 2022\Exam.MoovIt\obj\Debug\netcoreapp3.1\Exam.MoovIt.csproj.AssemblyReference.cache
+C:\Users\BO\Desktop\Data Structures Advanced\Exam\Exam 14 May 2022\Exam.MoovIt\obj\Debug\netcoreapp3.1\Exam.MoovIt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BO\Desktop\Data Structures Advanced\Exam\Exam 14 May 2022\Exam.MoovIt\obj\Debug\netcoreapp3.1\Exam.MoovIt.AssemblyInfoInputs.cache
+C:\Users\BO\Desktop\Data Structures Advanced\Exam\Exam 14 May 2022\Exam.MoovIt\obj\Debug\netcoreapp3.1\Exam.MoovIt.AssemblyInfo.cs
+C:\Users\BO\Desktop\Data Structures Advanced\Exam\Exam 14 May 2022\Exam.MoovIt\obj\Debug\netcoreapp3.1\Exam.MoovIt.csproj.CoreCompileInputs.cache
+C:\Users\BO\Desktop\Data Structures Advanced\Exam\Exam 14 May 2022\Exam.MoovIt\obj\Debug\netcoreapp3.1\Exam.Moo.49D235EC.Up2Date
+C:\Users\BO\Desktop\Data Structures Advanced\Exam\Exam 14 May 2022\Exam.MoovIt\obj\Debug\netcoreapp3.1\Exam.MoovIt.dll
+C:\Users\BO\Desktop\Data Structures Advanced\Exam\Exam 14 May 2022\Exam.MoovIt\obj\Debug\netcoreapp3.1\Exam.MoovIt.pdb
+C:\Users\BO\Desktop\Data Structures Advanced\Exam\Exam 14 May 2022\Exam.MoovIt\obj\Debug\netcoreapp3.1\Exam.MoovIt.genruntimeconfig.cache

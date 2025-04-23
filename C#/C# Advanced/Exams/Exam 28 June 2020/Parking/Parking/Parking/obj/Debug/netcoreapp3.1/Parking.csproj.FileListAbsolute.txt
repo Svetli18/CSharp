@@ -1,0 +1,14 @@
+C:\Users\BO\Desktop\C# Advanced\Exams\Exam 28 June 2020\Parking\Parking\Parking\bin\Debug\netcoreapp3.1\Parking.exe
+C:\Users\BO\Desktop\C# Advanced\Exams\Exam 28 June 2020\Parking\Parking\Parking\bin\Debug\netcoreapp3.1\Parking.deps.json
+C:\Users\BO\Desktop\C# Advanced\Exams\Exam 28 June 2020\Parking\Parking\Parking\bin\Debug\netcoreapp3.1\Parking.runtimeconfig.json
+C:\Users\BO\Desktop\C# Advanced\Exams\Exam 28 June 2020\Parking\Parking\Parking\bin\Debug\netcoreapp3.1\Parking.runtimeconfig.dev.json
+C:\Users\BO\Desktop\C# Advanced\Exams\Exam 28 June 2020\Parking\Parking\Parking\bin\Debug\netcoreapp3.1\Parking.dll
+C:\Users\BO\Desktop\C# Advanced\Exams\Exam 28 June 2020\Parking\Parking\Parking\bin\Debug\netcoreapp3.1\Parking.pdb
+C:\Users\BO\Desktop\C# Advanced\Exams\Exam 28 June 2020\Parking\Parking\Parking\obj\Debug\netcoreapp3.1\Parking.csproj.AssemblyReference.cache
+C:\Users\BO\Desktop\C# Advanced\Exams\Exam 28 June 2020\Parking\Parking\Parking\obj\Debug\netcoreapp3.1\Parking.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BO\Desktop\C# Advanced\Exams\Exam 28 June 2020\Parking\Parking\Parking\obj\Debug\netcoreapp3.1\Parking.AssemblyInfoInputs.cache
+C:\Users\BO\Desktop\C# Advanced\Exams\Exam 28 June 2020\Parking\Parking\Parking\obj\Debug\netcoreapp3.1\Parking.AssemblyInfo.cs
+C:\Users\BO\Desktop\C# Advanced\Exams\Exam 28 June 2020\Parking\Parking\Parking\obj\Debug\netcoreapp3.1\Parking.csproj.CoreCompileInputs.cache
+C:\Users\BO\Desktop\C# Advanced\Exams\Exam 28 June 2020\Parking\Parking\Parking\obj\Debug\netcoreapp3.1\Parking.dll
+C:\Users\BO\Desktop\C# Advanced\Exams\Exam 28 June 2020\Parking\Parking\Parking\obj\Debug\netcoreapp3.1\Parking.pdb
+C:\Users\BO\Desktop\C# Advanced\Exams\Exam 28 June 2020\Parking\Parking\Parking\obj\Debug\netcoreapp3.1\Parking.genruntimeconfig.cache

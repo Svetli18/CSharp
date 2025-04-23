@@ -1,0 +1,16 @@
+C:\Users\BO\Desktop\Data Structures Advanced\Exam\Exam 19 Sept 2021\Exam.MobileX\bin\Debug\netcoreapp3.1\Exam.MobileX.exe
+C:\Users\BO\Desktop\Data Structures Advanced\Exam\Exam 19 Sept 2021\Exam.MobileX\bin\Debug\netcoreapp3.1\Exam.MobileX.deps.json
+C:\Users\BO\Desktop\Data Structures Advanced\Exam\Exam 19 Sept 2021\Exam.MobileX\bin\Debug\netcoreapp3.1\Exam.MobileX.runtimeconfig.json
+C:\Users\BO\Desktop\Data Structures Advanced\Exam\Exam 19 Sept 2021\Exam.MobileX\bin\Debug\netcoreapp3.1\Exam.MobileX.runtimeconfig.dev.json
+C:\Users\BO\Desktop\Data Structures Advanced\Exam\Exam 19 Sept 2021\Exam.MobileX\bin\Debug\netcoreapp3.1\Exam.MobileX.dll
+C:\Users\BO\Desktop\Data Structures Advanced\Exam\Exam 19 Sept 2021\Exam.MobileX\bin\Debug\netcoreapp3.1\Exam.MobileX.pdb
+C:\Users\BO\Desktop\Data Structures Advanced\Exam\Exam 19 Sept 2021\Exam.MobileX\obj\Debug\netcoreapp3.1\Exam.MobileX.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BO\Desktop\Data Structures Advanced\Exam\Exam 19 Sept 2021\Exam.MobileX\obj\Debug\netcoreapp3.1\Exam.MobileX.AssemblyInfoInputs.cache
+C:\Users\BO\Desktop\Data Structures Advanced\Exam\Exam 19 Sept 2021\Exam.MobileX\obj\Debug\netcoreapp3.1\Exam.MobileX.AssemblyInfo.cs
+C:\Users\BO\Desktop\Data Structures Advanced\Exam\Exam 19 Sept 2021\Exam.MobileX\obj\Debug\netcoreapp3.1\Exam.MobileX.csproj.CoreCompileInputs.cache
+C:\Users\BO\Desktop\Data Structures Advanced\Exam\Exam 19 Sept 2021\Exam.MobileX\obj\Debug\netcoreapp3.1\Exam.MobileX.dll
+C:\Users\BO\Desktop\Data Structures Advanced\Exam\Exam 19 Sept 2021\Exam.MobileX\obj\Debug\netcoreapp3.1\Exam.MobileX.pdb
+C:\Users\BO\Desktop\Data Structures Advanced\Exam\Exam 19 Sept 2021\Exam.MobileX\obj\Debug\netcoreapp3.1\Exam.MobileX.genruntimeconfig.cache
+C:\Users\BO\Desktop\Data Structures Advanced\Exam\Exam 19 Sept 2021\Exam.MobileX\bin\Debug\netcoreapp3.1\Wintellect.PowerCollections.dll
+C:\Users\BO\Desktop\Data Structures Advanced\Exam\Exam 19 Sept 2021\Exam.MobileX\obj\Debug\netcoreapp3.1\Exam.MobileX.csproj.AssemblyReference.cache
+C:\Users\BO\Desktop\Data Structures Advanced\Exam\Exam 19 Sept 2021\Exam.MobileX\obj\Debug\netcoreapp3.1\Exam.Mob.54356F87.Up2Date

@@ -1,0 +1,15 @@
+C:\Users\BO\Desktop\C# Fundamentals\CSharp Fundamentals Text Processing Exercise\07. String Explosion\bin\Debug\net6.0\07. String Explosion.exe
+C:\Users\BO\Desktop\C# Fundamentals\CSharp Fundamentals Text Processing Exercise\07. String Explosion\bin\Debug\net6.0\07. String Explosion.deps.json
+C:\Users\BO\Desktop\C# Fundamentals\CSharp Fundamentals Text Processing Exercise\07. String Explosion\bin\Debug\net6.0\07. String Explosion.runtimeconfig.json
+C:\Users\BO\Desktop\C# Fundamentals\CSharp Fundamentals Text Processing Exercise\07. String Explosion\bin\Debug\net6.0\07. String Explosion.dll
+C:\Users\BO\Desktop\C# Fundamentals\CSharp Fundamentals Text Processing Exercise\07. String Explosion\bin\Debug\net6.0\07. String Explosion.pdb
+C:\Users\BO\Desktop\C# Fundamentals\CSharp Fundamentals Text Processing Exercise\07. String Explosion\obj\Debug\net6.0\07. String Explosion.csproj.AssemblyReference.cache
+C:\Users\BO\Desktop\C# Fundamentals\CSharp Fundamentals Text Processing Exercise\07. String Explosion\obj\Debug\net6.0\07. String Explosion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BO\Desktop\C# Fundamentals\CSharp Fundamentals Text Processing Exercise\07. String Explosion\obj\Debug\net6.0\07. String Explosion.AssemblyInfoInputs.cache
+C:\Users\BO\Desktop\C# Fundamentals\CSharp Fundamentals Text Processing Exercise\07. String Explosion\obj\Debug\net6.0\07. String Explosion.AssemblyInfo.cs
+C:\Users\BO\Desktop\C# Fundamentals\CSharp Fundamentals Text Processing Exercise\07. String Explosion\obj\Debug\net6.0\07. String Explosion.csproj.CoreCompileInputs.cache
+C:\Users\BO\Desktop\C# Fundamentals\CSharp Fundamentals Text Processing Exercise\07. String Explosion\obj\Debug\net6.0\07. String Explosion.dll
+C:\Users\BO\Desktop\C# Fundamentals\CSharp Fundamentals Text Processing Exercise\07. String Explosion\obj\Debug\net6.0\refint\07. String Explosion.dll
+C:\Users\BO\Desktop\C# Fundamentals\CSharp Fundamentals Text Processing Exercise\07. String Explosion\obj\Debug\net6.0\07. String Explosion.pdb
+C:\Users\BO\Desktop\C# Fundamentals\CSharp Fundamentals Text Processing Exercise\07. String Explosion\obj\Debug\net6.0\07. String Explosion.genruntimeconfig.cache
+C:\Users\BO\Desktop\C# Fundamentals\CSharp Fundamentals Text Processing Exercise\07. String Explosion\obj\Debug\net6.0\ref\07. String Explosion.dll

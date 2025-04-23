@@ -1,0 +1,14 @@
+C:\Users\BO\Desktop\C# OOP\Encapsulation Lab\Encapsulation Lab\Encapsulation Lab\bin\Debug\net6.0\01  Sort Persons by Name and Age.exe
+C:\Users\BO\Desktop\C# OOP\Encapsulation Lab\Encapsulation Lab\Encapsulation Lab\bin\Debug\net6.0\01  Sort Persons by Name and Age.deps.json
+C:\Users\BO\Desktop\C# OOP\Encapsulation Lab\Encapsulation Lab\Encapsulation Lab\bin\Debug\net6.0\01  Sort Persons by Name and Age.runtimeconfig.json
+C:\Users\BO\Desktop\C# OOP\Encapsulation Lab\Encapsulation Lab\Encapsulation Lab\bin\Debug\net6.0\01  Sort Persons by Name and Age.dll
+C:\Users\BO\Desktop\C# OOP\Encapsulation Lab\Encapsulation Lab\Encapsulation Lab\bin\Debug\net6.0\01  Sort Persons by Name and Age.pdb
+C:\Users\BO\Desktop\C# OOP\Encapsulation Lab\Encapsulation Lab\Encapsulation Lab\obj\Debug\net6.0\01  Sort Persons by Name and Age.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BO\Desktop\C# OOP\Encapsulation Lab\Encapsulation Lab\Encapsulation Lab\obj\Debug\net6.0\01  Sort Persons by Name and Age.AssemblyInfoInputs.cache
+C:\Users\BO\Desktop\C# OOP\Encapsulation Lab\Encapsulation Lab\Encapsulation Lab\obj\Debug\net6.0\01  Sort Persons by Name and Age.AssemblyInfo.cs
+C:\Users\BO\Desktop\C# OOP\Encapsulation Lab\Encapsulation Lab\Encapsulation Lab\obj\Debug\net6.0\01  Sort Persons by Name and Age.csproj.CoreCompileInputs.cache
+C:\Users\BO\Desktop\C# OOP\Encapsulation Lab\Encapsulation Lab\Encapsulation Lab\obj\Debug\net6.0\01  Sort Persons by Name and Age.dll
+C:\Users\BO\Desktop\C# OOP\Encapsulation Lab\Encapsulation Lab\Encapsulation Lab\obj\Debug\net6.0\refint\01  Sort Persons by Name and Age.dll
+C:\Users\BO\Desktop\C# OOP\Encapsulation Lab\Encapsulation Lab\Encapsulation Lab\obj\Debug\net6.0\01  Sort Persons by Name and Age.pdb
+C:\Users\BO\Desktop\C# OOP\Encapsulation Lab\Encapsulation Lab\Encapsulation Lab\obj\Debug\net6.0\01  Sort Persons by Name and Age.genruntimeconfig.cache
+C:\Users\BO\Desktop\C# OOP\Encapsulation Lab\Encapsulation Lab\Encapsulation Lab\obj\Debug\net6.0\ref\01  Sort Persons by Name and Age.dll

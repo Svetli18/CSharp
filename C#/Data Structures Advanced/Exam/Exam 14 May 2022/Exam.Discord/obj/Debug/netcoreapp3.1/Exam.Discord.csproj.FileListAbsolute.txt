@@ -1,0 +1,16 @@
+C:\Users\BO\Desktop\Data Structures Advanced\Exam\Exam 14 May 2022\Exam.Discord\bin\Debug\netcoreapp3.1\Exam.Discord.exe
+C:\Users\BO\Desktop\Data Structures Advanced\Exam\Exam 14 May 2022\Exam.Discord\bin\Debug\netcoreapp3.1\Exam.Discord.deps.json
+C:\Users\BO\Desktop\Data Structures Advanced\Exam\Exam 14 May 2022\Exam.Discord\bin\Debug\netcoreapp3.1\Exam.Discord.runtimeconfig.json
+C:\Users\BO\Desktop\Data Structures Advanced\Exam\Exam 14 May 2022\Exam.Discord\bin\Debug\netcoreapp3.1\Exam.Discord.runtimeconfig.dev.json
+C:\Users\BO\Desktop\Data Structures Advanced\Exam\Exam 14 May 2022\Exam.Discord\bin\Debug\netcoreapp3.1\Exam.Discord.dll
+C:\Users\BO\Desktop\Data Structures Advanced\Exam\Exam 14 May 2022\Exam.Discord\bin\Debug\netcoreapp3.1\Exam.Discord.pdb
+C:\Users\BO\Desktop\Data Structures Advanced\Exam\Exam 14 May 2022\Exam.Discord\bin\Debug\netcoreapp3.1\Wintellect.PowerCollections.dll
+C:\Users\BO\Desktop\Data Structures Advanced\Exam\Exam 14 May 2022\Exam.Discord\obj\Debug\netcoreapp3.1\Exam.Discord.csproj.AssemblyReference.cache
+C:\Users\BO\Desktop\Data Structures Advanced\Exam\Exam 14 May 2022\Exam.Discord\obj\Debug\netcoreapp3.1\Exam.Discord.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BO\Desktop\Data Structures Advanced\Exam\Exam 14 May 2022\Exam.Discord\obj\Debug\netcoreapp3.1\Exam.Discord.AssemblyInfoInputs.cache
+C:\Users\BO\Desktop\Data Structures Advanced\Exam\Exam 14 May 2022\Exam.Discord\obj\Debug\netcoreapp3.1\Exam.Discord.AssemblyInfo.cs
+C:\Users\BO\Desktop\Data Structures Advanced\Exam\Exam 14 May 2022\Exam.Discord\obj\Debug\netcoreapp3.1\Exam.Discord.csproj.CoreCompileInputs.cache
+C:\Users\BO\Desktop\Data Structures Advanced\Exam\Exam 14 May 2022\Exam.Discord\obj\Debug\netcoreapp3.1\Exam.Dis.554F25D5.Up2Date
+C:\Users\BO\Desktop\Data Structures Advanced\Exam\Exam 14 May 2022\Exam.Discord\obj\Debug\netcoreapp3.1\Exam.Discord.dll
+C:\Users\BO\Desktop\Data Structures Advanced\Exam\Exam 14 May 2022\Exam.Discord\obj\Debug\netcoreapp3.1\Exam.Discord.pdb
+C:\Users\BO\Desktop\Data Structures Advanced\Exam\Exam 14 May 2022\Exam.Discord\obj\Debug\netcoreapp3.1\Exam.Discord.genruntimeconfig.cache

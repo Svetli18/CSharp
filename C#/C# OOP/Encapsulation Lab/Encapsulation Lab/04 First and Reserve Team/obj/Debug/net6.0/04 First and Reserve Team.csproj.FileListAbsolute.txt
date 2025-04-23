@@ -1,0 +1,14 @@
+C:\Users\BO\Desktop\C# OOP\Encapsulation Lab\Encapsulation Lab\04 First and Reserve Team\bin\Debug\net6.0\04 First and Reserve Team.exe
+C:\Users\BO\Desktop\C# OOP\Encapsulation Lab\Encapsulation Lab\04 First and Reserve Team\bin\Debug\net6.0\04 First and Reserve Team.deps.json
+C:\Users\BO\Desktop\C# OOP\Encapsulation Lab\Encapsulation Lab\04 First and Reserve Team\bin\Debug\net6.0\04 First and Reserve Team.runtimeconfig.json
+C:\Users\BO\Desktop\C# OOP\Encapsulation Lab\Encapsulation Lab\04 First and Reserve Team\bin\Debug\net6.0\04 First and Reserve Team.dll
+C:\Users\BO\Desktop\C# OOP\Encapsulation Lab\Encapsulation Lab\04 First and Reserve Team\bin\Debug\net6.0\04 First and Reserve Team.pdb
+C:\Users\BO\Desktop\C# OOP\Encapsulation Lab\Encapsulation Lab\04 First and Reserve Team\obj\Debug\net6.0\04 First and Reserve Team.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BO\Desktop\C# OOP\Encapsulation Lab\Encapsulation Lab\04 First and Reserve Team\obj\Debug\net6.0\04 First and Reserve Team.AssemblyInfoInputs.cache
+C:\Users\BO\Desktop\C# OOP\Encapsulation Lab\Encapsulation Lab\04 First and Reserve Team\obj\Debug\net6.0\04 First and Reserve Team.AssemblyInfo.cs
+C:\Users\BO\Desktop\C# OOP\Encapsulation Lab\Encapsulation Lab\04 First and Reserve Team\obj\Debug\net6.0\04 First and Reserve Team.csproj.CoreCompileInputs.cache
+C:\Users\BO\Desktop\C# OOP\Encapsulation Lab\Encapsulation Lab\04 First and Reserve Team\obj\Debug\net6.0\04 First and Reserve Team.dll
+C:\Users\BO\Desktop\C# OOP\Encapsulation Lab\Encapsulation Lab\04 First and Reserve Team\obj\Debug\net6.0\refint\04 First and Reserve Team.dll
+C:\Users\BO\Desktop\C# OOP\Encapsulation Lab\Encapsulation Lab\04 First and Reserve Team\obj\Debug\net6.0\04 First and Reserve Team.pdb
+C:\Users\BO\Desktop\C# OOP\Encapsulation Lab\Encapsulation Lab\04 First and Reserve Team\obj\Debug\net6.0\04 First and Reserve Team.genruntimeconfig.cache
+C:\Users\BO\Desktop\C# OOP\Encapsulation Lab\Encapsulation Lab\04 First and Reserve Team\obj\Debug\net6.0\ref\04 First and Reserve Team.dll

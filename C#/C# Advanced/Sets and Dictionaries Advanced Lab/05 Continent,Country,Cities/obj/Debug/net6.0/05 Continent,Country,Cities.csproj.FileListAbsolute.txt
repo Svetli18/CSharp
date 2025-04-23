@@ -1,0 +1,15 @@
+C:\Users\BO\Desktop\C# Advanced\CSharp Advanced Exercises Sets and Dictionaries Advanced Lab\05 Continent,Country,Cities\bin\Debug\net6.0\05 Continent,Country,Cities.exe
+C:\Users\BO\Desktop\C# Advanced\CSharp Advanced Exercises Sets and Dictionaries Advanced Lab\05 Continent,Country,Cities\bin\Debug\net6.0\05 Continent,Country,Cities.deps.json
+C:\Users\BO\Desktop\C# Advanced\CSharp Advanced Exercises Sets and Dictionaries Advanced Lab\05 Continent,Country,Cities\bin\Debug\net6.0\05 Continent,Country,Cities.runtimeconfig.json
+C:\Users\BO\Desktop\C# Advanced\CSharp Advanced Exercises Sets and Dictionaries Advanced Lab\05 Continent,Country,Cities\bin\Debug\net6.0\05 Continent,Country,Cities.dll
+C:\Users\BO\Desktop\C# Advanced\CSharp Advanced Exercises Sets and Dictionaries Advanced Lab\05 Continent,Country,Cities\bin\Debug\net6.0\05 Continent,Country,Cities.pdb
+C:\Users\BO\Desktop\C# Advanced\CSharp Advanced Exercises Sets and Dictionaries Advanced Lab\05 Continent,Country,Cities\obj\Debug\net6.0\05 Continent,Country,Cities.csproj.AssemblyReference.cache
+C:\Users\BO\Desktop\C# Advanced\CSharp Advanced Exercises Sets and Dictionaries Advanced Lab\05 Continent,Country,Cities\obj\Debug\net6.0\05 Continent,Country,Cities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BO\Desktop\C# Advanced\CSharp Advanced Exercises Sets and Dictionaries Advanced Lab\05 Continent,Country,Cities\obj\Debug\net6.0\05 Continent,Country,Cities.AssemblyInfoInputs.cache
+C:\Users\BO\Desktop\C# Advanced\CSharp Advanced Exercises Sets and Dictionaries Advanced Lab\05 Continent,Country,Cities\obj\Debug\net6.0\05 Continent,Country,Cities.AssemblyInfo.cs
+C:\Users\BO\Desktop\C# Advanced\CSharp Advanced Exercises Sets and Dictionaries Advanced Lab\05 Continent,Country,Cities\obj\Debug\net6.0\05 Continent,Country,Cities.csproj.CoreCompileInputs.cache
+C:\Users\BO\Desktop\C# Advanced\CSharp Advanced Exercises Sets and Dictionaries Advanced Lab\05 Continent,Country,Cities\obj\Debug\net6.0\05 Continent,Country,Cities.dll
+C:\Users\BO\Desktop\C# Advanced\CSharp Advanced Exercises Sets and Dictionaries Advanced Lab\05 Continent,Country,Cities\obj\Debug\net6.0\refint\05 Continent,Country,Cities.dll
+C:\Users\BO\Desktop\C# Advanced\CSharp Advanced Exercises Sets and Dictionaries Advanced Lab\05 Continent,Country,Cities\obj\Debug\net6.0\05 Continent,Country,Cities.pdb
+C:\Users\BO\Desktop\C# Advanced\CSharp Advanced Exercises Sets and Dictionaries Advanced Lab\05 Continent,Country,Cities\obj\Debug\net6.0\05 Continent,Country,Cities.genruntimeconfig.cache
+C:\Users\BO\Desktop\C# Advanced\CSharp Advanced Exercises Sets and Dictionaries Advanced Lab\05 Continent,Country,Cities\obj\Debug\net6.0\ref\05 Continent,Country,Cities.dll

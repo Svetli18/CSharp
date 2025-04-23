@@ -1,0 +1,15 @@
+C:\Users\BO\Desktop\C# Fundamentals\Fundamentals Mid Exams\Fundamentals Mid Exams\bin\Debug\net6.0\01. SoftUni Reception calc.exe
+C:\Users\BO\Desktop\C# Fundamentals\Fundamentals Mid Exams\Fundamentals Mid Exams\bin\Debug\net6.0\01. SoftUni Reception calc.deps.json
+C:\Users\BO\Desktop\C# Fundamentals\Fundamentals Mid Exams\Fundamentals Mid Exams\bin\Debug\net6.0\01. SoftUni Reception calc.runtimeconfig.json
+C:\Users\BO\Desktop\C# Fundamentals\Fundamentals Mid Exams\Fundamentals Mid Exams\bin\Debug\net6.0\01. SoftUni Reception calc.dll
+C:\Users\BO\Desktop\C# Fundamentals\Fundamentals Mid Exams\Fundamentals Mid Exams\bin\Debug\net6.0\01. SoftUni Reception calc.pdb
+C:\Users\BO\Desktop\C# Fundamentals\Fundamentals Mid Exams\Fundamentals Mid Exams\obj\Debug\net6.0\01. SoftUni Reception calc.csproj.AssemblyReference.cache
+C:\Users\BO\Desktop\C# Fundamentals\Fundamentals Mid Exams\Fundamentals Mid Exams\obj\Debug\net6.0\01. SoftUni Reception calc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BO\Desktop\C# Fundamentals\Fundamentals Mid Exams\Fundamentals Mid Exams\obj\Debug\net6.0\01. SoftUni Reception calc.AssemblyInfoInputs.cache
+C:\Users\BO\Desktop\C# Fundamentals\Fundamentals Mid Exams\Fundamentals Mid Exams\obj\Debug\net6.0\01. SoftUni Reception calc.AssemblyInfo.cs
+C:\Users\BO\Desktop\C# Fundamentals\Fundamentals Mid Exams\Fundamentals Mid Exams\obj\Debug\net6.0\01. SoftUni Reception calc.csproj.CoreCompileInputs.cache
+C:\Users\BO\Desktop\C# Fundamentals\Fundamentals Mid Exams\Fundamentals Mid Exams\obj\Debug\net6.0\01. SoftUni Reception calc.dll
+C:\Users\BO\Desktop\C# Fundamentals\Fundamentals Mid Exams\Fundamentals Mid Exams\obj\Debug\net6.0\refint\01. SoftUni Reception calc.dll
+C:\Users\BO\Desktop\C# Fundamentals\Fundamentals Mid Exams\Fundamentals Mid Exams\obj\Debug\net6.0\01. SoftUni Reception calc.pdb
+C:\Users\BO\Desktop\C# Fundamentals\Fundamentals Mid Exams\Fundamentals Mid Exams\obj\Debug\net6.0\01. SoftUni Reception calc.genruntimeconfig.cache
+C:\Users\BO\Desktop\C# Fundamentals\Fundamentals Mid Exams\Fundamentals Mid Exams\obj\Debug\net6.0\ref\01. SoftUni Reception calc.dll

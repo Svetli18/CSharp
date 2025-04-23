@@ -1,0 +1,15 @@
+C:\Users\BO\Desktop\C# Fundamentals\CSharp Fundamentals Data Types and Variables  Lab\3 Exact Sum of Real Numbers\bin\Debug\net6.0\3 Exact Sum of Real Numbers.exe
+C:\Users\BO\Desktop\C# Fundamentals\CSharp Fundamentals Data Types and Variables  Lab\3 Exact Sum of Real Numbers\bin\Debug\net6.0\3 Exact Sum of Real Numbers.deps.json
+C:\Users\BO\Desktop\C# Fundamentals\CSharp Fundamentals Data Types and Variables  Lab\3 Exact Sum of Real Numbers\bin\Debug\net6.0\3 Exact Sum of Real Numbers.runtimeconfig.json
+C:\Users\BO\Desktop\C# Fundamentals\CSharp Fundamentals Data Types and Variables  Lab\3 Exact Sum of Real Numbers\bin\Debug\net6.0\3 Exact Sum of Real Numbers.dll
+C:\Users\BO\Desktop\C# Fundamentals\CSharp Fundamentals Data Types and Variables  Lab\3 Exact Sum of Real Numbers\bin\Debug\net6.0\3 Exact Sum of Real Numbers.pdb
+C:\Users\BO\Desktop\C# Fundamentals\CSharp Fundamentals Data Types and Variables  Lab\3 Exact Sum of Real Numbers\obj\Debug\net6.0\3 Exact Sum of Real Numbers.csproj.AssemblyReference.cache
+C:\Users\BO\Desktop\C# Fundamentals\CSharp Fundamentals Data Types and Variables  Lab\3 Exact Sum of Real Numbers\obj\Debug\net6.0\3 Exact Sum of Real Numbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BO\Desktop\C# Fundamentals\CSharp Fundamentals Data Types and Variables  Lab\3 Exact Sum of Real Numbers\obj\Debug\net6.0\3 Exact Sum of Real Numbers.AssemblyInfoInputs.cache
+C:\Users\BO\Desktop\C# Fundamentals\CSharp Fundamentals Data Types and Variables  Lab\3 Exact Sum of Real Numbers\obj\Debug\net6.0\3 Exact Sum of Real Numbers.AssemblyInfo.cs
+C:\Users\BO\Desktop\C# Fundamentals\CSharp Fundamentals Data Types and Variables  Lab\3 Exact Sum of Real Numbers\obj\Debug\net6.0\3 Exact Sum of Real Numbers.csproj.CoreCompileInputs.cache
+C:\Users\BO\Desktop\C# Fundamentals\CSharp Fundamentals Data Types and Variables  Lab\3 Exact Sum of Real Numbers\obj\Debug\net6.0\3 Exact Sum of Real Numbers.dll
+C:\Users\BO\Desktop\C# Fundamentals\CSharp Fundamentals Data Types and Variables  Lab\3 Exact Sum of Real Numbers\obj\Debug\net6.0\refint\3 Exact Sum of Real Numbers.dll
+C:\Users\BO\Desktop\C# Fundamentals\CSharp Fundamentals Data Types and Variables  Lab\3 Exact Sum of Real Numbers\obj\Debug\net6.0\3 Exact Sum of Real Numbers.pdb
+C:\Users\BO\Desktop\C# Fundamentals\CSharp Fundamentals Data Types and Variables  Lab\3 Exact Sum of Real Numbers\obj\Debug\net6.0\3 Exact Sum of Real Numbers.genruntimeconfig.cache
+C:\Users\BO\Desktop\C# Fundamentals\CSharp Fundamentals Data Types and Variables  Lab\3 Exact Sum of Real Numbers\obj\Debug\net6.0\ref\3 Exact Sum of Real Numbers.dll

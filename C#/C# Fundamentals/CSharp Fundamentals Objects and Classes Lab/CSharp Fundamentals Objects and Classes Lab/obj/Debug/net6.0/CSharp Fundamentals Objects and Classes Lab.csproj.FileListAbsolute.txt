@@ -1,0 +1,15 @@
+C:\Users\BO\Desktop\C# Fundamentals\CSharp Fundamentals Objects and Classes Lab\CSharp Fundamentals Objects and Classes Lab\bin\Debug\net6.0\CSharp Fundamentals Objects and Classes Lab.exe
+C:\Users\BO\Desktop\C# Fundamentals\CSharp Fundamentals Objects and Classes Lab\CSharp Fundamentals Objects and Classes Lab\bin\Debug\net6.0\CSharp Fundamentals Objects and Classes Lab.deps.json
+C:\Users\BO\Desktop\C# Fundamentals\CSharp Fundamentals Objects and Classes Lab\CSharp Fundamentals Objects and Classes Lab\bin\Debug\net6.0\CSharp Fundamentals Objects and Classes Lab.runtimeconfig.json
+C:\Users\BO\Desktop\C# Fundamentals\CSharp Fundamentals Objects and Classes Lab\CSharp Fundamentals Objects and Classes Lab\bin\Debug\net6.0\CSharp Fundamentals Objects and Classes Lab.dll
+C:\Users\BO\Desktop\C# Fundamentals\CSharp Fundamentals Objects and Classes Lab\CSharp Fundamentals Objects and Classes Lab\bin\Debug\net6.0\CSharp Fundamentals Objects and Classes Lab.pdb
+C:\Users\BO\Desktop\C# Fundamentals\CSharp Fundamentals Objects and Classes Lab\CSharp Fundamentals Objects and Classes Lab\obj\Debug\net6.0\CSharp Fundamentals Objects and Classes Lab.csproj.AssemblyReference.cache
+C:\Users\BO\Desktop\C# Fundamentals\CSharp Fundamentals Objects and Classes Lab\CSharp Fundamentals Objects and Classes Lab\obj\Debug\net6.0\CSharp Fundamentals Objects and Classes Lab.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BO\Desktop\C# Fundamentals\CSharp Fundamentals Objects and Classes Lab\CSharp Fundamentals Objects and Classes Lab\obj\Debug\net6.0\CSharp Fundamentals Objects and Classes Lab.AssemblyInfoInputs.cache
+C:\Users\BO\Desktop\C# Fundamentals\CSharp Fundamentals Objects and Classes Lab\CSharp Fundamentals Objects and Classes Lab\obj\Debug\net6.0\CSharp Fundamentals Objects and Classes Lab.AssemblyInfo.cs
+C:\Users\BO\Desktop\C# Fundamentals\CSharp Fundamentals Objects and Classes Lab\CSharp Fundamentals Objects and Classes Lab\obj\Debug\net6.0\CSharp Fundamentals Objects and Classes Lab.csproj.CoreCompileInputs.cache
+C:\Users\BO\Desktop\C# Fundamentals\CSharp Fundamentals Objects and Classes Lab\CSharp Fundamentals Objects and Classes Lab\obj\Debug\net6.0\CSharp Fundamentals Objects and Classes Lab.dll
+C:\Users\BO\Desktop\C# Fundamentals\CSharp Fundamentals Objects and Classes Lab\CSharp Fundamentals Objects and Classes Lab\obj\Debug\net6.0\refint\CSharp Fundamentals Objects and Classes Lab.dll
+C:\Users\BO\Desktop\C# Fundamentals\CSharp Fundamentals Objects and Classes Lab\CSharp Fundamentals Objects and Classes Lab\obj\Debug\net6.0\CSharp Fundamentals Objects and Classes Lab.pdb
+C:\Users\BO\Desktop\C# Fundamentals\CSharp Fundamentals Objects and Classes Lab\CSharp Fundamentals Objects and Classes Lab\obj\Debug\net6.0\CSharp Fundamentals Objects and Classes Lab.genruntimeconfig.cache
+C:\Users\BO\Desktop\C# Fundamentals\CSharp Fundamentals Objects and Classes Lab\CSharp Fundamentals Objects and Classes Lab\obj\Debug\net6.0\ref\CSharp Fundamentals Objects and Classes Lab.dll

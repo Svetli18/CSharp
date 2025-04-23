@@ -1,0 +1,15 @@
+C:\Users\BO\Desktop\C# Fundamentals\CSharp Fundamentals Data Types and Variables  Lab\2. Pounds to Dollars\bin\Debug\net6.0\2. Pounds to Dollars.exe
+C:\Users\BO\Desktop\C# Fundamentals\CSharp Fundamentals Data Types and Variables  Lab\2. Pounds to Dollars\bin\Debug\net6.0\2. Pounds to Dollars.deps.json
+C:\Users\BO\Desktop\C# Fundamentals\CSharp Fundamentals Data Types and Variables  Lab\2. Pounds to Dollars\bin\Debug\net6.0\2. Pounds to Dollars.runtimeconfig.json
+C:\Users\BO\Desktop\C# Fundamentals\CSharp Fundamentals Data Types and Variables  Lab\2. Pounds to Dollars\bin\Debug\net6.0\2. Pounds to Dollars.dll
+C:\Users\BO\Desktop\C# Fundamentals\CSharp Fundamentals Data Types and Variables  Lab\2. Pounds to Dollars\bin\Debug\net6.0\2. Pounds to Dollars.pdb
+C:\Users\BO\Desktop\C# Fundamentals\CSharp Fundamentals Data Types and Variables  Lab\2. Pounds to Dollars\obj\Debug\net6.0\2. Pounds to Dollars.csproj.AssemblyReference.cache
+C:\Users\BO\Desktop\C# Fundamentals\CSharp Fundamentals Data Types and Variables  Lab\2. Pounds to Dollars\obj\Debug\net6.0\2. Pounds to Dollars.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BO\Desktop\C# Fundamentals\CSharp Fundamentals Data Types and Variables  Lab\2. Pounds to Dollars\obj\Debug\net6.0\2. Pounds to Dollars.AssemblyInfoInputs.cache
+C:\Users\BO\Desktop\C# Fundamentals\CSharp Fundamentals Data Types and Variables  Lab\2. Pounds to Dollars\obj\Debug\net6.0\2. Pounds to Dollars.AssemblyInfo.cs
+C:\Users\BO\Desktop\C# Fundamentals\CSharp Fundamentals Data Types and Variables  Lab\2. Pounds to Dollars\obj\Debug\net6.0\2. Pounds to Dollars.csproj.CoreCompileInputs.cache
+C:\Users\BO\Desktop\C# Fundamentals\CSharp Fundamentals Data Types and Variables  Lab\2. Pounds to Dollars\obj\Debug\net6.0\2. Pounds to Dollars.dll
+C:\Users\BO\Desktop\C# Fundamentals\CSharp Fundamentals Data Types and Variables  Lab\2. Pounds to Dollars\obj\Debug\net6.0\refint\2. Pounds to Dollars.dll
+C:\Users\BO\Desktop\C# Fundamentals\CSharp Fundamentals Data Types and Variables  Lab\2. Pounds to Dollars\obj\Debug\net6.0\2. Pounds to Dollars.pdb
+C:\Users\BO\Desktop\C# Fundamentals\CSharp Fundamentals Data Types and Variables  Lab\2. Pounds to Dollars\obj\Debug\net6.0\2. Pounds to Dollars.genruntimeconfig.cache
+C:\Users\BO\Desktop\C# Fundamentals\CSharp Fundamentals Data Types and Variables  Lab\2. Pounds to Dollars\obj\Debug\net6.0\ref\2. Pounds to Dollars.dll

@@ -1,0 +1,13 @@
+C:\Users\BO\Desktop\Data Structures Fundamentals\Exam\Retake Exam - 8 August 2021\Olympics\bin\Debug\netcoreapp2.1\Olympics.deps.json
+C:\Users\BO\Desktop\Data Structures Fundamentals\Exam\Retake Exam - 8 August 2021\Olympics\bin\Debug\netcoreapp2.1\Olympics.runtimeconfig.json
+C:\Users\BO\Desktop\Data Structures Fundamentals\Exam\Retake Exam - 8 August 2021\Olympics\bin\Debug\netcoreapp2.1\Olympics.runtimeconfig.dev.json
+C:\Users\BO\Desktop\Data Structures Fundamentals\Exam\Retake Exam - 8 August 2021\Olympics\bin\Debug\netcoreapp2.1\Olympics.dll
+C:\Users\BO\Desktop\Data Structures Fundamentals\Exam\Retake Exam - 8 August 2021\Olympics\bin\Debug\netcoreapp2.1\Olympics.pdb
+C:\Users\BO\Desktop\Data Structures Fundamentals\Exam\Retake Exam - 8 August 2021\Olympics\obj\Debug\netcoreapp2.1\Olympics.csproj.AssemblyReference.cache
+C:\Users\BO\Desktop\Data Structures Fundamentals\Exam\Retake Exam - 8 August 2021\Olympics\obj\Debug\netcoreapp2.1\Olympics.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BO\Desktop\Data Structures Fundamentals\Exam\Retake Exam - 8 August 2021\Olympics\obj\Debug\netcoreapp2.1\Olympics.AssemblyInfoInputs.cache
+C:\Users\BO\Desktop\Data Structures Fundamentals\Exam\Retake Exam - 8 August 2021\Olympics\obj\Debug\netcoreapp2.1\Olympics.AssemblyInfo.cs
+C:\Users\BO\Desktop\Data Structures Fundamentals\Exam\Retake Exam - 8 August 2021\Olympics\obj\Debug\netcoreapp2.1\Olympics.csproj.CoreCompileInputs.cache
+C:\Users\BO\Desktop\Data Structures Fundamentals\Exam\Retake Exam - 8 August 2021\Olympics\obj\Debug\netcoreapp2.1\Olympics.dll
+C:\Users\BO\Desktop\Data Structures Fundamentals\Exam\Retake Exam - 8 August 2021\Olympics\obj\Debug\netcoreapp2.1\Olympics.pdb
+C:\Users\BO\Desktop\Data Structures Fundamentals\Exam\Retake Exam - 8 August 2021\Olympics\obj\Debug\netcoreapp2.1\Olympics.genruntimeconfig.cache

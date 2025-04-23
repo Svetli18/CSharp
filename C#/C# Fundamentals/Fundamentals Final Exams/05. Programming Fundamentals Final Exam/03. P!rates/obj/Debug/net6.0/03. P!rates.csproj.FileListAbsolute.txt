@@ -1,0 +1,15 @@
+C:\Users\BO\Desktop\C# Fundamentals\Fundamentals Final Exams\05. Programming Fundamentals Final Exam\03. P!rates\bin\Debug\net6.0\03. P!rates.exe
+C:\Users\BO\Desktop\C# Fundamentals\Fundamentals Final Exams\05. Programming Fundamentals Final Exam\03. P!rates\bin\Debug\net6.0\03. P!rates.deps.json
+C:\Users\BO\Desktop\C# Fundamentals\Fundamentals Final Exams\05. Programming Fundamentals Final Exam\03. P!rates\bin\Debug\net6.0\03. P!rates.runtimeconfig.json
+C:\Users\BO\Desktop\C# Fundamentals\Fundamentals Final Exams\05. Programming Fundamentals Final Exam\03. P!rates\bin\Debug\net6.0\03. P!rates.dll
+C:\Users\BO\Desktop\C# Fundamentals\Fundamentals Final Exams\05. Programming Fundamentals Final Exam\03. P!rates\bin\Debug\net6.0\03. P!rates.pdb
+C:\Users\BO\Desktop\C# Fundamentals\Fundamentals Final Exams\05. Programming Fundamentals Final Exam\03. P!rates\obj\Debug\net6.0\03. P!rates.csproj.AssemblyReference.cache
+C:\Users\BO\Desktop\C# Fundamentals\Fundamentals Final Exams\05. Programming Fundamentals Final Exam\03. P!rates\obj\Debug\net6.0\03. P!rates.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BO\Desktop\C# Fundamentals\Fundamentals Final Exams\05. Programming Fundamentals Final Exam\03. P!rates\obj\Debug\net6.0\03. P!rates.AssemblyInfoInputs.cache
+C:\Users\BO\Desktop\C# Fundamentals\Fundamentals Final Exams\05. Programming Fundamentals Final Exam\03. P!rates\obj\Debug\net6.0\03. P!rates.AssemblyInfo.cs
+C:\Users\BO\Desktop\C# Fundamentals\Fundamentals Final Exams\05. Programming Fundamentals Final Exam\03. P!rates\obj\Debug\net6.0\03. P!rates.csproj.CoreCompileInputs.cache
+C:\Users\BO\Desktop\C# Fundamentals\Fundamentals Final Exams\05. Programming Fundamentals Final Exam\03. P!rates\obj\Debug\net6.0\03. P!rates.dll
+C:\Users\BO\Desktop\C# Fundamentals\Fundamentals Final Exams\05. Programming Fundamentals Final Exam\03. P!rates\obj\Debug\net6.0\refint\03. P!rates.dll
+C:\Users\BO\Desktop\C# Fundamentals\Fundamentals Final Exams\05. Programming Fundamentals Final Exam\03. P!rates\obj\Debug\net6.0\03. P!rates.pdb
+C:\Users\BO\Desktop\C# Fundamentals\Fundamentals Final Exams\05. Programming Fundamentals Final Exam\03. P!rates\obj\Debug\net6.0\03. P!rates.genruntimeconfig.cache
+C:\Users\BO\Desktop\C# Fundamentals\Fundamentals Final Exams\05. Programming Fundamentals Final Exam\03. P!rates\obj\Debug\net6.0\ref\03. P!rates.dll

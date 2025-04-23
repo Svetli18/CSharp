@@ -1,0 +1,224 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\BO\\Desktop\\C# Fundamentals\\Basic Syntax Lab\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0BA86EA5-A2E1-4A2F-8ED2-F3F4E169F893}|04 Back In 30 Minutes\\04 Back In 30 Minutes.csproj|c:\\users\\bo\\desktop\\c# fundamentals\\basic syntax lab\\04 back in 30 minutes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BA86EA5-A2E1-4A2F-8ED2-F3F4E169F893}|04 Back In 30 Minutes\\04 Back In 30 Minutes.csproj|solutionrelative:04 back in 30 minutes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79932077-4C9E-4D12-86E8-FB557194B8D7}|05 Month Printer\\05 Month Printer.csproj|c:\\users\\bo\\desktop\\c# fundamentals\\basic syntax lab\\05 month printer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79932077-4C9E-4D12-86E8-FB557194B8D7}|05 Month Printer\\05 Month Printer.csproj|solutionrelative:05 month printer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B355CEAE-45CD-40CE-A7AE-FD94AC41F281}|06 Foreign Languages\\06 Foreign Languages.csproj|c:\\users\\bo\\desktop\\c# fundamentals\\basic syntax lab\\06 foreign languages\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B355CEAE-45CD-40CE-A7AE-FD94AC41F281}|06 Foreign Languages\\06 Foreign Languages.csproj|solutionrelative:06 foreign languages\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C522322-1313-43B4-8787-F0A93BD5E77D}|07 Theatre Promotion\\07 Theatre Promotion.csproj|c:\\users\\bo\\desktop\\c# fundamentals\\basic syntax lab\\07 theatre promotion\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C522322-1313-43B4-8787-F0A93BD5E77D}|07 Theatre Promotion\\07 Theatre Promotion.csproj|solutionrelative:07 theatre promotion\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B8CA9C9-2A41-48CD-B1D6-06B44F8C61A9}|08 Divisible by 3\\08 Divisible by 3.csproj|c:\\users\\bo\\desktop\\c# fundamentals\\basic syntax lab\\08 divisible by 3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B8CA9C9-2A41-48CD-B1D6-06B44F8C61A9}|08 Divisible by 3\\08 Divisible by 3.csproj|solutionrelative:08 divisible by 3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{223C18C2-1231-4890-A4FE-A6DBCE790B7C}|09 Sum of Odd Numbers\\09 Sum of Odd Numbers.csproj|c:\\users\\bo\\desktop\\c# fundamentals\\basic syntax lab\\09 sum of odd numbers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{223C18C2-1231-4890-A4FE-A6DBCE790B7C}|09 Sum of Odd Numbers\\09 Sum of Odd Numbers.csproj|solutionrelative:09 sum of odd numbers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36BCE967-F3B8-4DF6-85A8-81673CBD1916}|10 Multiplication Table\\10 Multiplication Table.csproj|c:\\users\\bo\\desktop\\c# fundamentals\\basic syntax lab\\10 multiplication table\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36BCE967-F3B8-4DF6-85A8-81673CBD1916}|10 Multiplication Table\\10 Multiplication Table.csproj|solutionrelative:10 multiplication table\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B4F4835-8A90-48ED-A940-F290BAE949DE}|11 Multiplication Table 2.0\\11 Multiplication Table 2.0.csproj|c:\\users\\bo\\desktop\\c# fundamentals\\basic syntax lab\\11 multiplication table 2.0\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B4F4835-8A90-48ED-A940-F290BAE949DE}|11 Multiplication Table 2.0\\11 Multiplication Table 2.0.csproj|solutionrelative:11 multiplication table 2.0\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65FC1834-9374-4978-BDE8-BF56ED15F219}|12 Even Number\\12 Even Number.csproj|c:\\users\\bo\\desktop\\c# fundamentals\\basic syntax lab\\12 even number\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65FC1834-9374-4978-BDE8-BF56ED15F219}|12 Even Number\\12 Even Number.csproj|solutionrelative:12 even number\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3F5C93B-5FEC-463E-AFE3-197E08758C15}|13 Holidays Between Two Dates\\13 Holidays Between Two Dates.csproj|c:\\users\\bo\\desktop\\c# fundamentals\\basic syntax lab\\13 holidays between two dates\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3F5C93B-5FEC-463E-AFE3-197E08758C15}|13 Holidays Between Two Dates\\13 Holidays Between Two Dates.csproj|solutionrelative:13 holidays between two dates\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87AD620E-3DDA-4B52-823C-4AD65F99F114}|03 Passed or Failed\\03 Passed or Failed.csproj|c:\\users\\bo\\desktop\\c# fundamentals\\basic syntax lab\\03 passed or failed\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87AD620E-3DDA-4B52-823C-4AD65F99F114}|03 Passed or Failed\\03 Passed or Failed.csproj|solutionrelative:03 passed or failed\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3890A78A-21C0-40EB-BF62-5D91A49F0F1F}|Basic Syntax Lab\\02 Passed.csproj|c:\\users\\bo\\desktop\\c# fundamentals\\basic syntax lab\\basic syntax lab\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3890A78A-21C0-40EB-BF62-5D91A49F0F1F}|Basic Syntax Lab\\02 Passed.csproj|solutionrelative:basic syntax lab\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\BO\\Desktop\\C# Fundamentals\\Basic Syntax Lab\\13 Holidays Between Two Dates\\Program.cs",
+              "RelativeDocumentMoniker": "13 Holidays Between Two Dates\\Program.cs",
+              "ToolTip": "C:\\Users\\BO\\Desktop\\C# Fundamentals\\Basic Syntax Lab\\13 Holidays Between Two Dates\\Program.cs",
+              "RelativeToolTip": "13 Holidays Between Two Dates\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T12:28:07.802Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\BO\\Desktop\\C# Fundamentals\\Basic Syntax Lab\\12 Even Number\\Program.cs",
+              "RelativeDocumentMoniker": "12 Even Number\\Program.cs",
+              "ToolTip": "C:\\Users\\BO\\Desktop\\C# Fundamentals\\Basic Syntax Lab\\12 Even Number\\Program.cs",
+              "RelativeToolTip": "12 Even Number\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T12:25:41.426Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\BO\\Desktop\\C# Fundamentals\\Basic Syntax Lab\\11 Multiplication Table 2.0\\Program.cs",
+              "RelativeDocumentMoniker": "11 Multiplication Table 2.0\\Program.cs",
+              "ToolTip": "C:\\Users\\BO\\Desktop\\C# Fundamentals\\Basic Syntax Lab\\11 Multiplication Table 2.0\\Program.cs",
+              "RelativeToolTip": "11 Multiplication Table 2.0\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T12:23:50.857Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\BO\\Desktop\\C# Fundamentals\\Basic Syntax Lab\\10 Multiplication Table\\Program.cs",
+              "RelativeDocumentMoniker": "10 Multiplication Table\\Program.cs",
+              "ToolTip": "C:\\Users\\BO\\Desktop\\C# Fundamentals\\Basic Syntax Lab\\10 Multiplication Table\\Program.cs",
+              "RelativeToolTip": "10 Multiplication Table\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T12:22:40.337Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\BO\\Desktop\\C# Fundamentals\\Basic Syntax Lab\\09 Sum of Odd Numbers\\Program.cs",
+              "RelativeDocumentMoniker": "09 Sum of Odd Numbers\\Program.cs",
+              "ToolTip": "C:\\Users\\BO\\Desktop\\C# Fundamentals\\Basic Syntax Lab\\09 Sum of Odd Numbers\\Program.cs",
+              "RelativeToolTip": "09 Sum of Odd Numbers\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T12:17:57.562Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\BO\\Desktop\\C# Fundamentals\\Basic Syntax Lab\\08 Divisible by 3\\Program.cs",
+              "RelativeDocumentMoniker": "08 Divisible by 3\\Program.cs",
+              "ToolTip": "C:\\Users\\BO\\Desktop\\C# Fundamentals\\Basic Syntax Lab\\08 Divisible by 3\\Program.cs",
+              "RelativeToolTip": "08 Divisible by 3\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T12:13:16.942Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\BO\\Desktop\\C# Fundamentals\\Basic Syntax Lab\\07 Theatre Promotion\\Program.cs",
+              "RelativeDocumentMoniker": "07 Theatre Promotion\\Program.cs",
+              "ToolTip": "C:\\Users\\BO\\Desktop\\C# Fundamentals\\Basic Syntax Lab\\07 Theatre Promotion\\Program.cs",
+              "RelativeToolTip": "07 Theatre Promotion\\Program.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwEEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T12:10:19.222Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\BO\\Desktop\\C# Fundamentals\\Basic Syntax Lab\\06 Foreign Languages\\Program.cs",
+              "RelativeDocumentMoniker": "06 Foreign Languages\\Program.cs",
+              "ToolTip": "C:\\Users\\BO\\Desktop\\C# Fundamentals\\Basic Syntax Lab\\06 Foreign Languages\\Program.cs",
+              "RelativeToolTip": "06 Foreign Languages\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T12:08:29.134Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\BO\\Desktop\\C# Fundamentals\\Basic Syntax Lab\\05 Month Printer\\Program.cs",
+              "RelativeDocumentMoniker": "05 Month Printer\\Program.cs",
+              "ToolTip": "C:\\Users\\BO\\Desktop\\C# Fundamentals\\Basic Syntax Lab\\05 Month Printer\\Program.cs",
+              "RelativeToolTip": "05 Month Printer\\Program.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAAACAAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T12:06:25.662Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\BO\\Desktop\\C# Fundamentals\\Basic Syntax Lab\\04 Back In 30 Minutes\\Program.cs",
+              "RelativeDocumentMoniker": "04 Back In 30 Minutes\\Program.cs",
+              "ToolTip": "C:\\Users\\BO\\Desktop\\C# Fundamentals\\Basic Syntax Lab\\04 Back In 30 Minutes\\Program.cs",
+              "RelativeToolTip": "04 Back In 30 Minutes\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T12:04:45.027Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\BO\\Desktop\\C# Fundamentals\\Basic Syntax Lab\\03 Passed or Failed\\Program.cs",
+              "RelativeDocumentMoniker": "03 Passed or Failed\\Program.cs",
+              "ToolTip": "C:\\Users\\BO\\Desktop\\C# Fundamentals\\Basic Syntax Lab\\03 Passed or Failed\\Program.cs",
+              "RelativeToolTip": "03 Passed or Failed\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T12:03:00.887Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\BO\\Desktop\\C# Fundamentals\\Basic Syntax Lab\\Basic Syntax Lab\\Program.cs",
+              "RelativeDocumentMoniker": "Basic Syntax Lab\\Program.cs",
+              "ToolTip": "C:\\Users\\BO\\Desktop\\C# Fundamentals\\Basic Syntax Lab\\Basic Syntax Lab\\Program.cs",
+              "RelativeToolTip": "Basic Syntax Lab\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T12:01:36.556Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

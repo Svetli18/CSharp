@@ -1,0 +1,14 @@
+C:\Users\BO\Desktop\C# Advanced\Iterators And Comparators Lab\IteratorsAndComparators\CustomComparator\bin\Debug\netcoreapp3.1\CustomComparator.exe
+C:\Users\BO\Desktop\C# Advanced\Iterators And Comparators Lab\IteratorsAndComparators\CustomComparator\bin\Debug\netcoreapp3.1\CustomComparator.deps.json
+C:\Users\BO\Desktop\C# Advanced\Iterators And Comparators Lab\IteratorsAndComparators\CustomComparator\bin\Debug\netcoreapp3.1\CustomComparator.runtimeconfig.json
+C:\Users\BO\Desktop\C# Advanced\Iterators And Comparators Lab\IteratorsAndComparators\CustomComparator\bin\Debug\netcoreapp3.1\CustomComparator.runtimeconfig.dev.json
+C:\Users\BO\Desktop\C# Advanced\Iterators And Comparators Lab\IteratorsAndComparators\CustomComparator\bin\Debug\netcoreapp3.1\CustomComparator.dll
+C:\Users\BO\Desktop\C# Advanced\Iterators And Comparators Lab\IteratorsAndComparators\CustomComparator\bin\Debug\netcoreapp3.1\CustomComparator.pdb
+C:\Users\BO\Desktop\C# Advanced\Iterators And Comparators Lab\IteratorsAndComparators\CustomComparator\obj\Debug\netcoreapp3.1\CustomComparator.csproj.AssemblyReference.cache
+C:\Users\BO\Desktop\C# Advanced\Iterators And Comparators Lab\IteratorsAndComparators\CustomComparator\obj\Debug\netcoreapp3.1\CustomComparator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BO\Desktop\C# Advanced\Iterators And Comparators Lab\IteratorsAndComparators\CustomComparator\obj\Debug\netcoreapp3.1\CustomComparator.AssemblyInfoInputs.cache
+C:\Users\BO\Desktop\C# Advanced\Iterators And Comparators Lab\IteratorsAndComparators\CustomComparator\obj\Debug\netcoreapp3.1\CustomComparator.AssemblyInfo.cs
+C:\Users\BO\Desktop\C# Advanced\Iterators And Comparators Lab\IteratorsAndComparators\CustomComparator\obj\Debug\netcoreapp3.1\CustomComparator.csproj.CoreCompileInputs.cache
+C:\Users\BO\Desktop\C# Advanced\Iterators And Comparators Lab\IteratorsAndComparators\CustomComparator\obj\Debug\netcoreapp3.1\CustomComparator.dll
+C:\Users\BO\Desktop\C# Advanced\Iterators And Comparators Lab\IteratorsAndComparators\CustomComparator\obj\Debug\netcoreapp3.1\CustomComparator.pdb
+C:\Users\BO\Desktop\C# Advanced\Iterators And Comparators Lab\IteratorsAndComparators\CustomComparator\obj\Debug\netcoreapp3.1\CustomComparator.genruntimeconfig.cache

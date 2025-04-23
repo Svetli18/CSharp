@@ -1,0 +1,15 @@
+C:\Users\BO\Desktop\C# Fundamentals\CSharp Fundamentals Lists More Exercise\03. Take Skip Rope\bin\Debug\net6.0\03. Take Skip Rope.exe
+C:\Users\BO\Desktop\C# Fundamentals\CSharp Fundamentals Lists More Exercise\03. Take Skip Rope\bin\Debug\net6.0\03. Take Skip Rope.deps.json
+C:\Users\BO\Desktop\C# Fundamentals\CSharp Fundamentals Lists More Exercise\03. Take Skip Rope\bin\Debug\net6.0\03. Take Skip Rope.runtimeconfig.json
+C:\Users\BO\Desktop\C# Fundamentals\CSharp Fundamentals Lists More Exercise\03. Take Skip Rope\bin\Debug\net6.0\03. Take Skip Rope.dll
+C:\Users\BO\Desktop\C# Fundamentals\CSharp Fundamentals Lists More Exercise\03. Take Skip Rope\bin\Debug\net6.0\03. Take Skip Rope.pdb
+C:\Users\BO\Desktop\C# Fundamentals\CSharp Fundamentals Lists More Exercise\03. Take Skip Rope\obj\Debug\net6.0\03. Take Skip Rope.csproj.AssemblyReference.cache
+C:\Users\BO\Desktop\C# Fundamentals\CSharp Fundamentals Lists More Exercise\03. Take Skip Rope\obj\Debug\net6.0\03. Take Skip Rope.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BO\Desktop\C# Fundamentals\CSharp Fundamentals Lists More Exercise\03. Take Skip Rope\obj\Debug\net6.0\03. Take Skip Rope.AssemblyInfoInputs.cache
+C:\Users\BO\Desktop\C# Fundamentals\CSharp Fundamentals Lists More Exercise\03. Take Skip Rope\obj\Debug\net6.0\03. Take Skip Rope.AssemblyInfo.cs
+C:\Users\BO\Desktop\C# Fundamentals\CSharp Fundamentals Lists More Exercise\03. Take Skip Rope\obj\Debug\net6.0\03. Take Skip Rope.csproj.CoreCompileInputs.cache
+C:\Users\BO\Desktop\C# Fundamentals\CSharp Fundamentals Lists More Exercise\03. Take Skip Rope\obj\Debug\net6.0\03. Take Skip Rope.dll
+C:\Users\BO\Desktop\C# Fundamentals\CSharp Fundamentals Lists More Exercise\03. Take Skip Rope\obj\Debug\net6.0\refint\03. Take Skip Rope.dll
+C:\Users\BO\Desktop\C# Fundamentals\CSharp Fundamentals Lists More Exercise\03. Take Skip Rope\obj\Debug\net6.0\03. Take Skip Rope.pdb
+C:\Users\BO\Desktop\C# Fundamentals\CSharp Fundamentals Lists More Exercise\03. Take Skip Rope\obj\Debug\net6.0\03. Take Skip Rope.genruntimeconfig.cache
+C:\Users\BO\Desktop\C# Fundamentals\CSharp Fundamentals Lists More Exercise\03. Take Skip Rope\obj\Debug\net6.0\ref\03. Take Skip Rope.dll

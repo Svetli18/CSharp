@@ -1,0 +1,15 @@
+C:\Users\BO\Desktop\C# Fundamentals\CSharp Fundamentals Data Types and Variables Exercise\8 Beer Kegs\bin\Debug\net6.0\8 Beer Kegs.exe
+C:\Users\BO\Desktop\C# Fundamentals\CSharp Fundamentals Data Types and Variables Exercise\8 Beer Kegs\bin\Debug\net6.0\8 Beer Kegs.deps.json
+C:\Users\BO\Desktop\C# Fundamentals\CSharp Fundamentals Data Types and Variables Exercise\8 Beer Kegs\bin\Debug\net6.0\8 Beer Kegs.runtimeconfig.json
+C:\Users\BO\Desktop\C# Fundamentals\CSharp Fundamentals Data Types and Variables Exercise\8 Beer Kegs\bin\Debug\net6.0\8 Beer Kegs.dll
+C:\Users\BO\Desktop\C# Fundamentals\CSharp Fundamentals Data Types and Variables Exercise\8 Beer Kegs\bin\Debug\net6.0\8 Beer Kegs.pdb
+C:\Users\BO\Desktop\C# Fundamentals\CSharp Fundamentals Data Types and Variables Exercise\8 Beer Kegs\obj\Debug\net6.0\8 Beer Kegs.csproj.AssemblyReference.cache
+C:\Users\BO\Desktop\C# Fundamentals\CSharp Fundamentals Data Types and Variables Exercise\8 Beer Kegs\obj\Debug\net6.0\8 Beer Kegs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BO\Desktop\C# Fundamentals\CSharp Fundamentals Data Types and Variables Exercise\8 Beer Kegs\obj\Debug\net6.0\8 Beer Kegs.AssemblyInfoInputs.cache
+C:\Users\BO\Desktop\C# Fundamentals\CSharp Fundamentals Data Types and Variables Exercise\8 Beer Kegs\obj\Debug\net6.0\8 Beer Kegs.AssemblyInfo.cs
+C:\Users\BO\Desktop\C# Fundamentals\CSharp Fundamentals Data Types and Variables Exercise\8 Beer Kegs\obj\Debug\net6.0\8 Beer Kegs.csproj.CoreCompileInputs.cache
+C:\Users\BO\Desktop\C# Fundamentals\CSharp Fundamentals Data Types and Variables Exercise\8 Beer Kegs\obj\Debug\net6.0\8 Beer Kegs.dll
+C:\Users\BO\Desktop\C# Fundamentals\CSharp Fundamentals Data Types and Variables Exercise\8 Beer Kegs\obj\Debug\net6.0\refint\8 Beer Kegs.dll
+C:\Users\BO\Desktop\C# Fundamentals\CSharp Fundamentals Data Types and Variables Exercise\8 Beer Kegs\obj\Debug\net6.0\8 Beer Kegs.pdb
+C:\Users\BO\Desktop\C# Fundamentals\CSharp Fundamentals Data Types and Variables Exercise\8 Beer Kegs\obj\Debug\net6.0\8 Beer Kegs.genruntimeconfig.cache
+C:\Users\BO\Desktop\C# Fundamentals\CSharp Fundamentals Data Types and Variables Exercise\8 Beer Kegs\obj\Debug\net6.0\ref\8 Beer Kegs.dll

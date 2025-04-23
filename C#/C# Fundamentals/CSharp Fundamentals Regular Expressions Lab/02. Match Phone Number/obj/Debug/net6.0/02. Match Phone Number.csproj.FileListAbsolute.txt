@@ -1,0 +1,15 @@
+C:\Users\BO\Desktop\C# Fundamentals\CSharp Fundamentals Regular Expressions Lab\02. Match Phone Number\bin\Debug\net6.0\02. Match Phone Number.exe
+C:\Users\BO\Desktop\C# Fundamentals\CSharp Fundamentals Regular Expressions Lab\02. Match Phone Number\bin\Debug\net6.0\02. Match Phone Number.deps.json
+C:\Users\BO\Desktop\C# Fundamentals\CSharp Fundamentals Regular Expressions Lab\02. Match Phone Number\bin\Debug\net6.0\02. Match Phone Number.runtimeconfig.json
+C:\Users\BO\Desktop\C# Fundamentals\CSharp Fundamentals Regular Expressions Lab\02. Match Phone Number\bin\Debug\net6.0\02. Match Phone Number.dll
+C:\Users\BO\Desktop\C# Fundamentals\CSharp Fundamentals Regular Expressions Lab\02. Match Phone Number\bin\Debug\net6.0\02. Match Phone Number.pdb
+C:\Users\BO\Desktop\C# Fundamentals\CSharp Fundamentals Regular Expressions Lab\02. Match Phone Number\obj\Debug\net6.0\02. Match Phone Number.csproj.AssemblyReference.cache
+C:\Users\BO\Desktop\C# Fundamentals\CSharp Fundamentals Regular Expressions Lab\02. Match Phone Number\obj\Debug\net6.0\02. Match Phone Number.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BO\Desktop\C# Fundamentals\CSharp Fundamentals Regular Expressions Lab\02. Match Phone Number\obj\Debug\net6.0\02. Match Phone Number.AssemblyInfoInputs.cache
+C:\Users\BO\Desktop\C# Fundamentals\CSharp Fundamentals Regular Expressions Lab\02. Match Phone Number\obj\Debug\net6.0\02. Match Phone Number.AssemblyInfo.cs
+C:\Users\BO\Desktop\C# Fundamentals\CSharp Fundamentals Regular Expressions Lab\02. Match Phone Number\obj\Debug\net6.0\02. Match Phone Number.csproj.CoreCompileInputs.cache
+C:\Users\BO\Desktop\C# Fundamentals\CSharp Fundamentals Regular Expressions Lab\02. Match Phone Number\obj\Debug\net6.0\02. Match Phone Number.dll
+C:\Users\BO\Desktop\C# Fundamentals\CSharp Fundamentals Regular Expressions Lab\02. Match Phone Number\obj\Debug\net6.0\refint\02. Match Phone Number.dll
+C:\Users\BO\Desktop\C# Fundamentals\CSharp Fundamentals Regular Expressions Lab\02. Match Phone Number\obj\Debug\net6.0\02. Match Phone Number.pdb
+C:\Users\BO\Desktop\C# Fundamentals\CSharp Fundamentals Regular Expressions Lab\02. Match Phone Number\obj\Debug\net6.0\02. Match Phone Number.genruntimeconfig.cache
+C:\Users\BO\Desktop\C# Fundamentals\CSharp Fundamentals Regular Expressions Lab\02. Match Phone Number\obj\Debug\net6.0\ref\02. Match Phone Number.dll

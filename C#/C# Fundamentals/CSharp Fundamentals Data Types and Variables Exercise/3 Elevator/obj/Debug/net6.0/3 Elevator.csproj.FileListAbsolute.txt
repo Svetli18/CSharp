@@ -1,0 +1,15 @@
+C:\Users\BO\Desktop\C# Fundamentals\CSharp Fundamentals Data Types and Variables Exercise\3 Elevator\bin\Debug\net6.0\3 Elevator.exe
+C:\Users\BO\Desktop\C# Fundamentals\CSharp Fundamentals Data Types and Variables Exercise\3 Elevator\bin\Debug\net6.0\3 Elevator.deps.json
+C:\Users\BO\Desktop\C# Fundamentals\CSharp Fundamentals Data Types and Variables Exercise\3 Elevator\bin\Debug\net6.0\3 Elevator.runtimeconfig.json
+C:\Users\BO\Desktop\C# Fundamentals\CSharp Fundamentals Data Types and Variables Exercise\3 Elevator\bin\Debug\net6.0\3 Elevator.dll
+C:\Users\BO\Desktop\C# Fundamentals\CSharp Fundamentals Data Types and Variables Exercise\3 Elevator\bin\Debug\net6.0\3 Elevator.pdb
+C:\Users\BO\Desktop\C# Fundamentals\CSharp Fundamentals Data Types and Variables Exercise\3 Elevator\obj\Debug\net6.0\3 Elevator.csproj.AssemblyReference.cache
+C:\Users\BO\Desktop\C# Fundamentals\CSharp Fundamentals Data Types and Variables Exercise\3 Elevator\obj\Debug\net6.0\3 Elevator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BO\Desktop\C# Fundamentals\CSharp Fundamentals Data Types and Variables Exercise\3 Elevator\obj\Debug\net6.0\3 Elevator.AssemblyInfoInputs.cache
+C:\Users\BO\Desktop\C# Fundamentals\CSharp Fundamentals Data Types and Variables Exercise\3 Elevator\obj\Debug\net6.0\3 Elevator.AssemblyInfo.cs
+C:\Users\BO\Desktop\C# Fundamentals\CSharp Fundamentals Data Types and Variables Exercise\3 Elevator\obj\Debug\net6.0\3 Elevator.csproj.CoreCompileInputs.cache
+C:\Users\BO\Desktop\C# Fundamentals\CSharp Fundamentals Data Types and Variables Exercise\3 Elevator\obj\Debug\net6.0\3 Elevator.dll
+C:\Users\BO\Desktop\C# Fundamentals\CSharp Fundamentals Data Types and Variables Exercise\3 Elevator\obj\Debug\net6.0\refint\3 Elevator.dll
+C:\Users\BO\Desktop\C# Fundamentals\CSharp Fundamentals Data Types and Variables Exercise\3 Elevator\obj\Debug\net6.0\3 Elevator.pdb
+C:\Users\BO\Desktop\C# Fundamentals\CSharp Fundamentals Data Types and Variables Exercise\3 Elevator\obj\Debug\net6.0\3 Elevator.genruntimeconfig.cache
+C:\Users\BO\Desktop\C# Fundamentals\CSharp Fundamentals Data Types and Variables Exercise\3 Elevator\obj\Debug\net6.0\ref\3 Elevator.dll

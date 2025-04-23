@@ -1,0 +1,15 @@
+C:\Users\BO\Desktop\C# Fundamentals\CSharp Fundamentals Text Processing Exercise\04. Caesar Cipher\bin\Debug\net6.0\04. Caesar Cipher.exe
+C:\Users\BO\Desktop\C# Fundamentals\CSharp Fundamentals Text Processing Exercise\04. Caesar Cipher\bin\Debug\net6.0\04. Caesar Cipher.deps.json
+C:\Users\BO\Desktop\C# Fundamentals\CSharp Fundamentals Text Processing Exercise\04. Caesar Cipher\bin\Debug\net6.0\04. Caesar Cipher.runtimeconfig.json
+C:\Users\BO\Desktop\C# Fundamentals\CSharp Fundamentals Text Processing Exercise\04. Caesar Cipher\bin\Debug\net6.0\04. Caesar Cipher.dll
+C:\Users\BO\Desktop\C# Fundamentals\CSharp Fundamentals Text Processing Exercise\04. Caesar Cipher\bin\Debug\net6.0\04. Caesar Cipher.pdb
+C:\Users\BO\Desktop\C# Fundamentals\CSharp Fundamentals Text Processing Exercise\04. Caesar Cipher\obj\Debug\net6.0\04. Caesar Cipher.csproj.AssemblyReference.cache
+C:\Users\BO\Desktop\C# Fundamentals\CSharp Fundamentals Text Processing Exercise\04. Caesar Cipher\obj\Debug\net6.0\04. Caesar Cipher.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BO\Desktop\C# Fundamentals\CSharp Fundamentals Text Processing Exercise\04. Caesar Cipher\obj\Debug\net6.0\04. Caesar Cipher.AssemblyInfoInputs.cache
+C:\Users\BO\Desktop\C# Fundamentals\CSharp Fundamentals Text Processing Exercise\04. Caesar Cipher\obj\Debug\net6.0\04. Caesar Cipher.AssemblyInfo.cs
+C:\Users\BO\Desktop\C# Fundamentals\CSharp Fundamentals Text Processing Exercise\04. Caesar Cipher\obj\Debug\net6.0\04. Caesar Cipher.csproj.CoreCompileInputs.cache
+C:\Users\BO\Desktop\C# Fundamentals\CSharp Fundamentals Text Processing Exercise\04. Caesar Cipher\obj\Debug\net6.0\04. Caesar Cipher.dll
+C:\Users\BO\Desktop\C# Fundamentals\CSharp Fundamentals Text Processing Exercise\04. Caesar Cipher\obj\Debug\net6.0\refint\04. Caesar Cipher.dll
+C:\Users\BO\Desktop\C# Fundamentals\CSharp Fundamentals Text Processing Exercise\04. Caesar Cipher\obj\Debug\net6.0\04. Caesar Cipher.pdb
+C:\Users\BO\Desktop\C# Fundamentals\CSharp Fundamentals Text Processing Exercise\04. Caesar Cipher\obj\Debug\net6.0\04. Caesar Cipher.genruntimeconfig.cache
+C:\Users\BO\Desktop\C# Fundamentals\CSharp Fundamentals Text Processing Exercise\04. Caesar Cipher\obj\Debug\net6.0\ref\04. Caesar Cipher.dll

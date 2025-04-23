@@ -1,0 +1,14 @@
+C:\Users\BO\Desktop\C# OOP\Encapsulation Exercise\Shopping Spree\bin\Debug\net6.0\Shopping Spree.exe
+C:\Users\BO\Desktop\C# OOP\Encapsulation Exercise\Shopping Spree\bin\Debug\net6.0\Shopping Spree.deps.json
+C:\Users\BO\Desktop\C# OOP\Encapsulation Exercise\Shopping Spree\bin\Debug\net6.0\Shopping Spree.runtimeconfig.json
+C:\Users\BO\Desktop\C# OOP\Encapsulation Exercise\Shopping Spree\bin\Debug\net6.0\Shopping Spree.dll
+C:\Users\BO\Desktop\C# OOP\Encapsulation Exercise\Shopping Spree\bin\Debug\net6.0\Shopping Spree.pdb
+C:\Users\BO\Desktop\C# OOP\Encapsulation Exercise\Shopping Spree\obj\Debug\net6.0\Shopping Spree.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BO\Desktop\C# OOP\Encapsulation Exercise\Shopping Spree\obj\Debug\net6.0\Shopping Spree.AssemblyInfoInputs.cache
+C:\Users\BO\Desktop\C# OOP\Encapsulation Exercise\Shopping Spree\obj\Debug\net6.0\Shopping Spree.AssemblyInfo.cs
+C:\Users\BO\Desktop\C# OOP\Encapsulation Exercise\Shopping Spree\obj\Debug\net6.0\Shopping Spree.csproj.CoreCompileInputs.cache
+C:\Users\BO\Desktop\C# OOP\Encapsulation Exercise\Shopping Spree\obj\Debug\net6.0\Shopping Spree.dll
+C:\Users\BO\Desktop\C# OOP\Encapsulation Exercise\Shopping Spree\obj\Debug\net6.0\refint\Shopping Spree.dll
+C:\Users\BO\Desktop\C# OOP\Encapsulation Exercise\Shopping Spree\obj\Debug\net6.0\Shopping Spree.pdb
+C:\Users\BO\Desktop\C# OOP\Encapsulation Exercise\Shopping Spree\obj\Debug\net6.0\Shopping Spree.genruntimeconfig.cache
+C:\Users\BO\Desktop\C# OOP\Encapsulation Exercise\Shopping Spree\obj\Debug\net6.0\ref\Shopping Spree.dll

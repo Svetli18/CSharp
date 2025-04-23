@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "lrHCgkpU7nOMjr7gNP4PmJLEQXyk5DKL98AlMZjxWU5sz45E1M5K3EQYPR0+2xP+I92aBT5QZ0OiqPy0pqCS6w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\BO\\Desktop\\Data Structures Fundamentals\\Exam\\Exam - 1 August 2021\\01. BrowserHistory\\01. BrowserHistory.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\BO\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\BO\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

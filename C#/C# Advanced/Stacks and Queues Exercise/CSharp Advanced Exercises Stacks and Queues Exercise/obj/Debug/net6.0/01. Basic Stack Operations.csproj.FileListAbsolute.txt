@@ -1,0 +1,15 @@
+C:\Users\BO\Desktop\C# Advanced\CSharp Advanced Exercises Stacks and Queues Exercise\CSharp Advanced Exercises Stacks and Queues Exercise\bin\Debug\net6.0\01. Basic Stack Operations.exe
+C:\Users\BO\Desktop\C# Advanced\CSharp Advanced Exercises Stacks and Queues Exercise\CSharp Advanced Exercises Stacks and Queues Exercise\bin\Debug\net6.0\01. Basic Stack Operations.deps.json
+C:\Users\BO\Desktop\C# Advanced\CSharp Advanced Exercises Stacks and Queues Exercise\CSharp Advanced Exercises Stacks and Queues Exercise\bin\Debug\net6.0\01. Basic Stack Operations.runtimeconfig.json
+C:\Users\BO\Desktop\C# Advanced\CSharp Advanced Exercises Stacks and Queues Exercise\CSharp Advanced Exercises Stacks and Queues Exercise\bin\Debug\net6.0\01. Basic Stack Operations.dll
+C:\Users\BO\Desktop\C# Advanced\CSharp Advanced Exercises Stacks and Queues Exercise\CSharp Advanced Exercises Stacks and Queues Exercise\bin\Debug\net6.0\01. Basic Stack Operations.pdb
+C:\Users\BO\Desktop\C# Advanced\CSharp Advanced Exercises Stacks and Queues Exercise\CSharp Advanced Exercises Stacks and Queues Exercise\obj\Debug\net6.0\01. Basic Stack Operations.csproj.AssemblyReference.cache
+C:\Users\BO\Desktop\C# Advanced\CSharp Advanced Exercises Stacks and Queues Exercise\CSharp Advanced Exercises Stacks and Queues Exercise\obj\Debug\net6.0\01. Basic Stack Operations.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BO\Desktop\C# Advanced\CSharp Advanced Exercises Stacks and Queues Exercise\CSharp Advanced Exercises Stacks and Queues Exercise\obj\Debug\net6.0\01. Basic Stack Operations.AssemblyInfoInputs.cache
+C:\Users\BO\Desktop\C# Advanced\CSharp Advanced Exercises Stacks and Queues Exercise\CSharp Advanced Exercises Stacks and Queues Exercise\obj\Debug\net6.0\01. Basic Stack Operations.AssemblyInfo.cs
+C:\Users\BO\Desktop\C# Advanced\CSharp Advanced Exercises Stacks and Queues Exercise\CSharp Advanced Exercises Stacks and Queues Exercise\obj\Debug\net6.0\01. Basic Stack Operations.csproj.CoreCompileInputs.cache
+C:\Users\BO\Desktop\C# Advanced\CSharp Advanced Exercises Stacks and Queues Exercise\CSharp Advanced Exercises Stacks and Queues Exercise\obj\Debug\net6.0\01. Basic Stack Operations.dll
+C:\Users\BO\Desktop\C# Advanced\CSharp Advanced Exercises Stacks and Queues Exercise\CSharp Advanced Exercises Stacks and Queues Exercise\obj\Debug\net6.0\refint\01. Basic Stack Operations.dll
+C:\Users\BO\Desktop\C# Advanced\CSharp Advanced Exercises Stacks and Queues Exercise\CSharp Advanced Exercises Stacks and Queues Exercise\obj\Debug\net6.0\01. Basic Stack Operations.pdb
+C:\Users\BO\Desktop\C# Advanced\CSharp Advanced Exercises Stacks and Queues Exercise\CSharp Advanced Exercises Stacks and Queues Exercise\obj\Debug\net6.0\01. Basic Stack Operations.genruntimeconfig.cache
+C:\Users\BO\Desktop\C# Advanced\CSharp Advanced Exercises Stacks and Queues Exercise\CSharp Advanced Exercises Stacks and Queues Exercise\obj\Debug\net6.0\ref\01. Basic Stack Operations.dll

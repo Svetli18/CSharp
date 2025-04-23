@@ -1,0 +1,49 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34316.72
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Program", "Exam-Preparation\Program.csproj", "{B3644A91-58D3-4947-9A63-43DA4ABA63E6}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "01.Microsystem", "..\..\..\..\Data Structures Advanced\Exam\Exam-Preparation\01.Microsystem\01.Microsystem.csproj", "{088A5234-77C5-4198-8756-660496876407}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "01.Microsystem.Tests", "..\..\..\..\Data Structures Advanced\Exam\Exam-Preparation\01.Microsystem.Tests\01.Microsystem.Tests.csproj", "{37B2280E-0A28-42B5-871E-4E54868F4D0E}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "02.VaniPlanning", "..\..\..\..\Data Structures Advanced\Exam\Exam-Preparation\02.VaniPlanning\02.VaniPlanning.csproj", "{A65ADED1-177C-4C9F-99B1-37ED5BDF05F3}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "02.VaniPlanning.Tests", "..\..\..\..\Data Structures Advanced\Exam\Exam-Preparation\02.VaniPlanning.Tests\02.VaniPlanning.Tests.csproj", "{6563F5D3-C3B8-4F6C-8C37-010F44A64B4E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B3644A91-58D3-4947-9A63-43DA4ABA63E6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B3644A91-58D3-4947-9A63-43DA4ABA63E6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B3644A91-58D3-4947-9A63-43DA4ABA63E6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B3644A91-58D3-4947-9A63-43DA4ABA63E6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{088A5234-77C5-4198-8756-660496876407}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{088A5234-77C5-4198-8756-660496876407}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{088A5234-77C5-4198-8756-660496876407}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{088A5234-77C5-4198-8756-660496876407}.Release|Any CPU.Build.0 = Release|Any CPU
+		{37B2280E-0A28-42B5-871E-4E54868F4D0E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{37B2280E-0A28-42B5-871E-4E54868F4D0E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{37B2280E-0A28-42B5-871E-4E54868F4D0E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{37B2280E-0A28-42B5-871E-4E54868F4D0E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A65ADED1-177C-4C9F-99B1-37ED5BDF05F3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A65ADED1-177C-4C9F-99B1-37ED5BDF05F3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A65ADED1-177C-4C9F-99B1-37ED5BDF05F3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A65ADED1-177C-4C9F-99B1-37ED5BDF05F3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6563F5D3-C3B8-4F6C-8C37-010F44A64B4E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6563F5D3-C3B8-4F6C-8C37-010F44A64B4E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6563F5D3-C3B8-4F6C-8C37-010F44A64B4E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6563F5D3-C3B8-4F6C-8C37-010F44A64B4E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {49D209DE-4D1D-44D1-943F-23E44F6CEF4A}
+	EndGlobalSection
+EndGlobal

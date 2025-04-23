@@ -1,0 +1,15 @@
+C:\Users\BO\Desktop\C# Fundamentals\CSharp Fundamentals Objects and Classes More Exercise\CSharp Fundamentals Objects and Classes More Exercise\bin\Debug\net6.0\01. Company Roster.exe
+C:\Users\BO\Desktop\C# Fundamentals\CSharp Fundamentals Objects and Classes More Exercise\CSharp Fundamentals Objects and Classes More Exercise\bin\Debug\net6.0\01. Company Roster.deps.json
+C:\Users\BO\Desktop\C# Fundamentals\CSharp Fundamentals Objects and Classes More Exercise\CSharp Fundamentals Objects and Classes More Exercise\bin\Debug\net6.0\01. Company Roster.runtimeconfig.json
+C:\Users\BO\Desktop\C# Fundamentals\CSharp Fundamentals Objects and Classes More Exercise\CSharp Fundamentals Objects and Classes More Exercise\bin\Debug\net6.0\01. Company Roster.dll
+C:\Users\BO\Desktop\C# Fundamentals\CSharp Fundamentals Objects and Classes More Exercise\CSharp Fundamentals Objects and Classes More Exercise\bin\Debug\net6.0\01. Company Roster.pdb
+C:\Users\BO\Desktop\C# Fundamentals\CSharp Fundamentals Objects and Classes More Exercise\CSharp Fundamentals Objects and Classes More Exercise\obj\Debug\net6.0\01. Company Roster.csproj.AssemblyReference.cache
+C:\Users\BO\Desktop\C# Fundamentals\CSharp Fundamentals Objects and Classes More Exercise\CSharp Fundamentals Objects and Classes More Exercise\obj\Debug\net6.0\01. Company Roster.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BO\Desktop\C# Fundamentals\CSharp Fundamentals Objects and Classes More Exercise\CSharp Fundamentals Objects and Classes More Exercise\obj\Debug\net6.0\01. Company Roster.AssemblyInfoInputs.cache
+C:\Users\BO\Desktop\C# Fundamentals\CSharp Fundamentals Objects and Classes More Exercise\CSharp Fundamentals Objects and Classes More Exercise\obj\Debug\net6.0\01. Company Roster.AssemblyInfo.cs
+C:\Users\BO\Desktop\C# Fundamentals\CSharp Fundamentals Objects and Classes More Exercise\CSharp Fundamentals Objects and Classes More Exercise\obj\Debug\net6.0\01. Company Roster.csproj.CoreCompileInputs.cache
+C:\Users\BO\Desktop\C# Fundamentals\CSharp Fundamentals Objects and Classes More Exercise\CSharp Fundamentals Objects and Classes More Exercise\obj\Debug\net6.0\01. Company Roster.dll
+C:\Users\BO\Desktop\C# Fundamentals\CSharp Fundamentals Objects and Classes More Exercise\CSharp Fundamentals Objects and Classes More Exercise\obj\Debug\net6.0\refint\01. Company Roster.dll
+C:\Users\BO\Desktop\C# Fundamentals\CSharp Fundamentals Objects and Classes More Exercise\CSharp Fundamentals Objects and Classes More Exercise\obj\Debug\net6.0\01. Company Roster.pdb
+C:\Users\BO\Desktop\C# Fundamentals\CSharp Fundamentals Objects and Classes More Exercise\CSharp Fundamentals Objects and Classes More Exercise\obj\Debug\net6.0\01. Company Roster.genruntimeconfig.cache
+C:\Users\BO\Desktop\C# Fundamentals\CSharp Fundamentals Objects and Classes More Exercise\CSharp Fundamentals Objects and Classes More Exercise\obj\Debug\net6.0\ref\01. Company Roster.dll
